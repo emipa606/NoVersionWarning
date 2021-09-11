@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <NoVersionWarning.ModUpdateTag>
+    <defName>NoVersionWarning_Main</defName>
+    <label>NoVersionWarning_Main</label>
+    <thingClass>Thing</thingClass>
+    <ModIdsToFix>
+      <!-- UN-Colony [1.2] -->
+      <li>Sadjuuk.UNColony</li>
+      <!-- Outdoor Lighting -->
+      <li>stormknight.outdoorlighting</li>
+      <!-- Prosthetic No Missing Body Parts -->
+      <li>com.prostheticnomissingbodyparts.rimworld.mod</li>
+      <!-- Meditate As Work Type -->
+      <li>maarx.meditateasworktype</li>
+      <!-- Synthmeat -->
+      <li>nuke.Synthmeat</li>
+      <!-- ED-CheatReactor -->
+      <li>Jaxxa.ED.CheatReactor</li>
+      <!-- [1.2] Grenade Fix - Rearmed -->
+      <li>Dingo.GrenadeFixRearmed</li>
+      <!-- ClutterDoors -->
+      <li>ruyan.doors</li>
+      <!-- Pawns Just Don't Die -->
+      <li>explodoboy.NoFatalThreshold</li>
+      <!-- [FSF] Improved Ship Reactors -->
+      <li>FrozenSnowFox.ImprovedShipReactors</li>
+      <!-- Ceiling Lights: Vanilla Edition -->
+      <li>neceros.ceilinglightsvanillaedition</li>
+      <!-- Give Me Meat -->
+      <li>neceros.givememeat</li>
+      <!-- VFE Farming - Dubs Bad Hygiene -->
+      <li>Oreno.VFEFarming.DubsBadHygiene</li>
+      <!-- Recon & Marine Helmet Visor (abandoned) -->
+      <li>Crudbone.ReconRetexture</li>
+      <!-- Pawn Badge - XCOM Badge -->
+      <li>Botaxalim.XcomBadge</li>
+      <!-- You've Never Eaten Without a Table -->
+      <li>crlsniper.atewithouttable</li>
+      <!-- Don't Steal My Walls! -->
+      <li>Ronco.DontStealMyWalls</li>
+      <!-- Tribal Jewelry -->
+      <li>TheLamb.tribaljewelry</li>
+      <!-- Gunlink with helmet -->
+      <li>ABC.GunlinkPatch</li>
+      <!-- Exotic Arsenal -->
+      <li>xedos.arsenalexotic</li>
+      <!-- Vanilla Parka Retexture (VAE) (abandoned) -->
+      <li>Crudbone.ParkaRetexture</li>
+      <!-- Japanese Dogs -->
+      <li>Poetik.JapaneseDogs</li>
+      <!-- Synthetic Animals -->
+      <li>rayjay.SyntheticAnimals</li>
+      <!-- Vanilla Plants Expanded : All Trees All Biomes Optional Patch -->
+      <li>be37.VPE.ATABP</li>
+      <!-- Fire Treated Wood -->
+      <li>neceros.firetreatedwood</li>
+      <!-- Wean's World - Generate Children -->
+      <li>Persephone.WeansWorldAlt</li>
+      <!-- Realistic Starvation -->
+      <li>Duncan.RealisticStarvation.1.1</li>
+      <!-- Giant Trees -->
+      <li>Nekomancer.GiantTrees</li>
+      <!-- More Trade Ships -->
+      <li>PinoChemicali.MoreTradeShips</li>
+      <!-- [SYR] More Slaves -->
+      <li>syrchalis.moreslaves</li>
+      <!-- Furnace -->
+      <li>GT.Sam.Furnace</li>
+      <!-- Gloomy Extra - Kitchen -->
+      <li>Semo583.GloomyHExtraHUHKitchen</li>
+      <!-- [SYR] Scar Removal Plus -->
+      <li>syrchalis.scarremoval</li>
+    </ModIdsToFix>
+  </NoVersionWarning.ModUpdateTag>
+</Defs>

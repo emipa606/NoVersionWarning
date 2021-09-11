@@ -1,0 +1,70 @@
+# NoVersionWarning
+
+![Image](https://i.imgur.com/buuPQel.png)
+
+
+I get a lot of requests to update mods and some of them have no issues except that they are marked in the mod-list as incompatible with the current Rimworld version.
+Instead of me republishing these mods with the only change being that the latest game-version tag is added I made this mod instead.
+This mod adds the required tag to mods that have been reported working with the current version of the game.
+
+The following mods are currently fixed for 1.3
+
+
+- UN-Colony [1.2]
+- Outdoor Lighting
+- Prosthetic No Missing Body Parts
+- Meditate As Work Type
+- Synthmeat
+- ED-CheatReactor
+- [1.2] Grenade Fix - Rearmed
+- ClutterDoors
+- Pawns Just Don't Die
+- [FSF] Improved Ship Reactors
+- Ceiling Lights: Vanilla Edition
+- Give Me Meat
+- VFE Farming - Dubs Bad Hygiene
+- Recon and Marine Helmet Visor (abandoned) 
+- Pawn Badge - XCOM Badge
+- You've Never Eaten Without a Table
+- Don't Steal My Walls!
+- Tribal Jewelry
+- Gunlink with helmet
+- Exotic Arsenal
+- Vanilla Parka Retexture (VAE) (abandoned)
+- Japanese Dogs
+- Synthetic Animals 
+- Vanilla Plants Expanded : All Trees All Biomes Optional Patch
+- Fire Treated Wood
+- Wean's World - Generate Children
+- Realistic Starvation
+- Giant Trees
+- More Trade Ships
+- [SYR] More Slaves 
+- Furnace
+- Gloomy Extra - Kitchen
+- [SYR] Scar Removal Plus
+
+
+
+Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.
+	
+![Image](https://i.imgur.com/O0IIlYj.png)
+
+Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my https://store.steampowered.com/wishlist/id/Mlie]Wishlist or buy me a cup of tea.
+
+https://ko-fi.com/G2G55DDYD]![Image](https://i.ibb.co/VWJJb3w/Support-Me-dark-2x.png)
+
+
+![Image](https://i.imgur.com/PwoNOj4.png)
+
+
+
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+
+
+
