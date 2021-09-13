@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>No Version Warning</name>
   <packageId>Mlie.NoVersionWarning</packageId>
@@ -23,6 +23,9 @@
 I get a lot of requests to update mods and some of them have no issues except that they are marked in the mod-list as incompatible with the current Rimworld version.
 Instead of me republishing these mods with the only change being that the latest game-version tag is added I made this mod instead.
 This mod adds the required tag to mods that have been reported working with the current version of the game.
+Can be put anywhere in the mod-list as it just modifies the mod-list loader.
+
+If you know of a mod that should be added here, leave a link to it and Ill add it. 
 
 The following mods are currently fixed for 1.3
 [list]
@@ -40,7 +43,6 @@ The following mods are currently fixed for 1.3
 [*]Give Me Meat
 [*]VFE Farming - Dubs Bad Hygiene
 [*]Recon and Marine Helmet Visor (abandoned) 
-[*]Pawn Badge - XCOM Badge
 [*]You've Never Eaten Without a Table
 [*]Don't Steal My Walls!
 [*]Tribal Jewelry

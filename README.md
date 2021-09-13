@@ -6,6 +6,9 @@
 I get a lot of requests to update mods and some of them have no issues except that they are marked in the mod-list as incompatible with the current Rimworld version.
 Instead of me republishing these mods with the only change being that the latest game-version tag is added I made this mod instead.
 This mod adds the required tag to mods that have been reported working with the current version of the game.
+Can be put anywhere in the mod-list as it just modifies the mod-list loader.
+
+If you know of a mod that should be added here, leave a link to it and Ill add it. 
 
 The following mods are currently fixed for 1.3
 
@@ -24,7 +27,6 @@ The following mods are currently fixed for 1.3
 - Give Me Meat
 - VFE Farming - Dubs Bad Hygiene
 - Recon and Marine Helmet Visor (abandoned) 
-- Pawn Badge - XCOM Badge
 - You've Never Eaten Without a Table
 - Don't Steal My Walls!
 - Tribal Jewelry
@@ -47,6 +49,15 @@ The following mods are currently fixed for 1.3
 
 
 Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.
+
+[table]
+    [tr]
+        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
+[/td]
+        [td]https://github.com/emipa606/NoVersionWarning]![Image](https://i.imgur.com/kTkpTOE.png)
+[/td]
+    [/tr]
+[/table]
 	
 ![Image](https://i.imgur.com/O0IIlYj.png)
 

@@ -71,6 +71,14 @@
       <li>Semo583.GloomyHExtraHUHKitchen</li>
       <!-- [SYR] Scar Removal Plus -->
       <li>syrchalis.scarremoval</li>
+      <!-- Stop Insulting Us! -->
+      <li>neceros.stopinsultingus</li>
+      <!-- Vee Hairs -->
+      <li>Lat.VeeHair</li>
+      <!-- Corners -->
+      <li>azomittle.corners</li>
+      <!-- Android Tiers + Vanilla Expanded Medical -->
+      <li>neceros.ATVFEM</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

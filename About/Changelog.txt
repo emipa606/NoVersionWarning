@@ -1,4 +1,7 @@
 # Changelog for NoVersionWarning
 
+1.0.1.0 - Added support for four more mods
+
+
 1.0.0.0 - First publish
 
