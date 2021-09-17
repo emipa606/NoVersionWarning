@@ -45,6 +45,11 @@ The following mods are currently fixed for 1.3
 - Furnace
 - Gloomy Extra - Kitchen
 - [SYR] Scar Removal Plus
+- Stop Insulting Us!
+- Vee Hairs
+- Corners
+- Android Tiers + Vanilla Expanded Medical
+- Mending Medieval
 
 
 

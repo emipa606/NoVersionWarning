@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.2.0 - Added Mending medival
+
+
 1.0.1.0 - Added support for four more mods
 
 

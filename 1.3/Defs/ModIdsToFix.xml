@@ -79,6 +79,8 @@
       <li>azomittle.corners</li>
       <!-- Android Tiers + Vanilla Expanded Medical -->
       <li>neceros.ATVFEM</li>
+      <!-- Mending Medieval -->
+      <li>bishop.mendingmedieval</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
