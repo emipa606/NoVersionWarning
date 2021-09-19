@@ -81,6 +81,8 @@
       <li>neceros.ATVFEM</li>
       <!-- Mending Medieval -->
       <li>bishop.mendingmedieval</li>
+      <!-- Meat Packages -->
+      <li>PatchesIX.MeatPackages</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
