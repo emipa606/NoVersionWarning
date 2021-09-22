@@ -50,19 +50,13 @@ The following mods are currently fixed for 1.3
 - Corners
 - Android Tiers + Vanilla Expanded Medical
 - Mending Medieval
+- Meat Packages
+- Ambrosial Longevity
+- VFES reinforced embrasure
 
 
 
 Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/NoVersionWarning]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
 ![Image](https://i.imgur.com/O0IIlYj.png)
 

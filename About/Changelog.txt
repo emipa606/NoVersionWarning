@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.4.0 - Added support for two more mods
+
+
 1.0.3.0 - Added Meat Packages-mod
 
 

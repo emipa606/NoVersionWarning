@@ -83,6 +83,10 @@
       <li>bishop.mendingmedieval</li>
       <!-- Meat Packages -->
       <li>PatchesIX.MeatPackages</li>
+      <!-- Ambrosial Longevity -->
+      <li>dninemfive.ambrosiallongevity</li>
+      <!-- VFES reinforced embrasure -->
+      <li>y1nalin.vfesreinforcedembrasure</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
