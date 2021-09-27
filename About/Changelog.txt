@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.5.0 - Added three more mods, thanks Thundercraft and Codingale!
+
+
 1.0.4.0 - Added support for two more mods
 
 

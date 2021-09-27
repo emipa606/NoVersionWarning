@@ -87,6 +87,12 @@
       <li>dninemfive.ambrosiallongevity</li>
       <!-- VFES reinforced embrasure -->
       <li>y1nalin.vfesreinforcedembrasure</li>
+      <!-- Baby muffalo is Muffalump -->
+      <li>Baby.Muffalump</li>
+      <!-- Linkables Patch -->
+      <li>brat.linkpatch</li>
+      <!-- [CP] Prisoner Outfit -->
+      <li>CP.Prisoner.Outfit</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

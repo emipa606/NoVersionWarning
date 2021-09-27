@@ -53,6 +53,9 @@ The following mods are currently fixed for 1.3
 - Meat Packages
 - Ambrosial Longevity
 - VFES reinforced embrasure
+- Baby muffalo is Muffalump
+- Linkables Patch
+- [CP] Prisoner Outfit
 
 
 
