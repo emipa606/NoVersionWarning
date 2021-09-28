@@ -95,6 +95,8 @@
       <li>CP.Prisoner.Outfit</li>
       <!-- Weapon Artwork Removal -->
       <li>Bar0th.WAR</li>
+      <!-- Archotech Expanded Prosthetics Lite -->
+      <li>Teok25.ArchotechExpanded.Prosthetics.Lite</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

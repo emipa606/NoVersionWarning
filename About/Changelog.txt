@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.7.0 - Added Archotech Expanded Prosthetics Lite
+
+
 1.0.6.0 - Added Weapon Artwork Removal-mod
 
 
