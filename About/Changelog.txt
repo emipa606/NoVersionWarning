@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.6.0 - Added Weapon Artwork Removal-mod
+
+
 1.0.5.0 - Added three more mods, thanks Thundercraft and Codingale!
 
 

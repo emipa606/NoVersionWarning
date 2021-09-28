@@ -56,6 +56,7 @@ The following mods are currently fixed for 1.3
 - Baby muffalo is Muffalump
 - Linkables Patch
 - [CP] Prisoner Outfit
+- Weapon Artwork Removal
 
 
 

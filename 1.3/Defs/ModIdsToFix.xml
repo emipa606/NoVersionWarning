@@ -93,6 +93,8 @@
       <li>brat.linkpatch</li>
       <!-- [CP] Prisoner Outfit -->
       <li>CP.Prisoner.Outfit</li>
+      <!-- Weapon Artwork Removal -->
+      <li>Bar0th.WAR</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
