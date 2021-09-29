@@ -97,6 +97,8 @@
       <li>Bar0th.WAR</li>
       <!-- Archotech Expanded Prosthetics Lite -->
       <li>Teok25.ArchotechExpanded.Prosthetics.Lite</li>
+      <!-- Gain Skill Passions -->
+      <li>denethor0.gainskillpassions</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

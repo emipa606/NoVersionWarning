@@ -25,6 +25,7 @@ The following mods are currently fixed for 1.3
 - Exotic Arsenal
 - Fire Treated Wood
 - Furnace
+- Gain Skill Passions
 - Giant Trees
 - Give Me Meat
 - Gloomy Extra - Kitchen
