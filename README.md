@@ -30,6 +30,7 @@ The following mods are currently fixed for 1.3
 - Give Me Meat
 - Gloomy Extra - Kitchen
 - Gunlink with helmet
+- Invisible Conduit
 - Japanese Dogs
 - Linkables Patch
 - Meat Packages
@@ -42,6 +43,7 @@ The following mods are currently fixed for 1.3
 - Realistic Starvation
 - Recon and Marine Helmet Visor (abandoned) 
 - Stop Insulting Us!
+- StuffCount
 - Synthetic Animals 
 - Synthmeat
 - Tribal Jewelry

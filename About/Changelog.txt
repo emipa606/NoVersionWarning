@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.9.0 - Added support for Invisible Conduit and StuffCount
+
+
 1.0.8.0 - Added support for Gain Skill Passions
 
 

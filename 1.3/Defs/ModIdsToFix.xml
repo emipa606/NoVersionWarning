@@ -99,6 +99,10 @@
       <li>Teok25.ArchotechExpanded.Prosthetics.Lite</li>
       <!-- Gain Skill Passions -->
       <li>denethor0.gainskillpassions</li>
+      <!-- StuffCount -->
+      <li>ruyan.stuffcount</li>
+      <!-- Invisible Conduit -->
+      <li>zzz.invisibleconduit</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
