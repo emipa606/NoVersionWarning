@@ -20,6 +20,7 @@ The following mods are currently fixed for 1.3
 - Ceiling Lights: Vanilla Edition
 - ClutterDoors
 - Corners
+- Dryxsteel
 - Don't Steal My Walls!
 - ED-CheatReactor
 - Exotic Arsenal
@@ -47,6 +48,7 @@ The following mods are currently fixed for 1.3
 - Synthetic Animals 
 - Synthmeat
 - Tribal Jewelry
+- Ultraweave
 - UN-Colony [1.2]
 - VFE Farming - Dubs Bad Hygiene
 - VFES reinforced embrasure

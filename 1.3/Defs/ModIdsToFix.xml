@@ -103,6 +103,10 @@
       <li>ruyan.stuffcount</li>
       <!-- Invisible Conduit -->
       <li>zzz.invisibleconduit</li>
+      <!-- Dryxsteel -->
+      <li>Barky.Dryxsteel</li>
+      <!-- Ultraweave -->
+      <li>Barky.Ultraweave</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
