@@ -107,6 +107,8 @@
       <li>Barky.Dryxsteel</li>
       <!-- Ultraweave -->
       <li>Barky.Ultraweave</li>
+      <!-- Over-Wall AC Unit from Vanilla Furniture Expanded -->
+      <li>ChewyYui.VFEOverwallAC</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

@@ -39,6 +39,7 @@ The following mods are currently fixed for 1.3
 - Mending Medieval
 - More Trade Ships
 - Outdoor Lighting
+- Over-Wall AC Unit from Vanilla Furniture Expanded
 - Pawns Just Don't Die
 - Prosthetic No Missing Body Parts
 - Realistic Starvation

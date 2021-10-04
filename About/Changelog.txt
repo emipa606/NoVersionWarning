@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.11.0 - Added support for Over-Wall AC Unit from Vanilla Furniture Expanded
+
+
 1.0.10.0 - Added Ultraweave and Dryxsteel
 
 
