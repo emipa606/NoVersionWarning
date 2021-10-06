@@ -69,8 +69,6 @@
       <li>GT.Sam.Furnace</li>
       <!-- Gloomy Extra - Kitchen -->
       <li>Semo583.GloomyHExtraHUHKitchen</li>
-      <!-- [SYR] Scar Removal Plus -->
-      <li>syrchalis.scarremoval</li>
       <!-- Stop Insulting Us! -->
       <li>neceros.stopinsultingus</li>
       <!-- Vee Hairs -->
@@ -109,6 +107,8 @@
       <li>Barky.Ultraweave</li>
       <!-- Over-Wall AC Unit from Vanilla Furniture Expanded -->
       <li>ChewyYui.VFEOverwallAC</li>
+      <!-- Letter Reorderer -->
+      <li>legodude17.letterreorder</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

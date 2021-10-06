@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.12.0 - Added support for Letter Reorderer
+
+
 1.0.11.0 - Added support for Over-Wall AC Unit from Vanilla Furniture Expanded
 
 
