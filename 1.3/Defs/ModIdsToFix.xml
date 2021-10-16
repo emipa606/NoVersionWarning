@@ -109,6 +109,10 @@
       <li>ChewyYui.VFEOverwallAC</li>
       <!-- Letter Reorderer -->
       <li>legodude17.letterreorder</li>
+      <!-- Less Rebuff -->
+      <li>Dingo.LessRebuff</li>
+      <!-- Vanilla RT Solar Flare Shield Retexture -->
+      <li>Phoenix.VanillaSolarSheild</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

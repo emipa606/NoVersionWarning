@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.13.0 - Added support for Vanilla RT Solar Flare Shield Retexture and Less Rebuff
+
+
 1.0.12.0 - Added support for Letter Reorderer
 
 
