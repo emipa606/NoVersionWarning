@@ -113,6 +113,10 @@
       <li>Dingo.LessRebuff</li>
       <!-- Vanilla RT Solar Flare Shield Retexture -->
       <li>Phoenix.VanillaSolarSheild</li>
+      <!-- Expanded Woodworking for Vegetable Garden Project -->
+      <li>Adventurer.ExpandWoodworkVGP</li>
+      <!-- Amrita - Age Reversing Serum -->
+      <li>y1nalin.amrita</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

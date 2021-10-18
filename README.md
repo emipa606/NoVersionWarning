@@ -65,6 +65,8 @@ The following mods are currently fixed for 1.3
 - [FSF] Improved Ship Reactors
 - [SYR] More Slaves 
 - [SYR] Scar Removal Plus
+- Vanilla RT Solar Flare Shield Retexture
+- Less Rebuff
 
 
 
