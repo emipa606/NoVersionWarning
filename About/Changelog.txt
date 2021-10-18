@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.15.0 - Added support for Rim of Madness - Bones Enchantment
+
+
 1.0.14.0 - Added support for Expanded Woodworking for Vegetable Garden Project and Amrita - Age Reversing Serum
 
 
