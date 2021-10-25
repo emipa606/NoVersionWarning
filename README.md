@@ -67,6 +67,9 @@ The following mods are currently fixed for 1.3
 - [SYR] Scar Removal Plus
 - Vanilla RT Solar Flare Shield Retexture
 - Less Rebuff
+- Expanded Woodworking for Vegetable Garden Project
+- Amrita - Age Reversing Serum
+- Rim of Madness - Bones Enchantment
 
 
 

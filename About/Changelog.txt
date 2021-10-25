@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.16.0 - Added support for Android Tiers Unfeeling Patch and Close Cryptos
+
+
 1.0.15.0 - Added support for Rim of Madness - Bones Enchantment
 
 

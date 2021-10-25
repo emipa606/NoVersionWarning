@@ -119,6 +119,10 @@
       <li>y1nalin.amrita</li>
       <!-- Rim of Madness - Bones Enchantment -->
       <li>supercollidingsuperbutton.anotherbone</li>
+      <!-- Android Tiers Unfeeling Patch -->
+      <li>neceros.androidtiers.unfeelingpatch</li>
+      <!-- Close Cryptos -->
+      <li>neceros.closecryptos</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
