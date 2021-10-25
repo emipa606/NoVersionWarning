@@ -125,6 +125,8 @@
       <li>neceros.closecryptos</li>
       <!-- Thinking Spot -->
       <li>PartyCowboy.ThinkingSpot</li>
+      <!-- Subtle variations for RimThemes -->
+      <li>JcDentonQ.SubtleVariations</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

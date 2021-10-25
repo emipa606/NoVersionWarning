@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.18.0 - Added support for Subtle variations for RimThemes
+
+
 1.0.17.0 - Added support for Thinking Spot
 
 

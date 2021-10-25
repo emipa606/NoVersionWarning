@@ -70,6 +70,8 @@ The following mods are currently fixed for 1.3
 - Expanded Woodworking for Vegetable Garden Project
 - Amrita - Age Reversing Serum
 - Rim of Madness - Bones Enchantment
+- Android Tiers Unfeeling Patch
+- Close Cryptos
 
 
 
