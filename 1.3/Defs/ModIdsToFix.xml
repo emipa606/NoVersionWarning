@@ -123,6 +123,8 @@
       <li>neceros.androidtiers.unfeelingpatch</li>
       <!-- Close Cryptos -->
       <li>neceros.closecryptos</li>
+      <!-- Thinking Spot -->
+      <li>PartyCowboy.ThinkingSpot</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
