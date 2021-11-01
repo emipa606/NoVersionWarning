@@ -127,6 +127,8 @@
       <li>PartyCowboy.ThinkingSpot</li>
       <!-- Subtle variations for RimThemes -->
       <li>JcDentonQ.SubtleVariations</li>
+      <!-- Add Terraforming -->
+      <li>rayjay.AddTerraforming</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

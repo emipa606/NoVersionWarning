@@ -72,6 +72,8 @@ The following mods are currently fixed for 1.3
 - Rim of Madness - Bones Enchantment
 - Android Tiers Unfeeling Patch
 - Close Cryptos
+- Thinking Spot
+- Subtle variations for RimThemes
 
 
 
