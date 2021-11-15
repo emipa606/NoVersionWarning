@@ -129,6 +129,10 @@
       <li>JcDentonQ.SubtleVariations</li>
       <!-- Add Terraforming -->
       <li>rayjay.AddTerraforming</li>
+      <!-- [LB] Vanilla Armors Retexture -->
+      <li>Lelbaro.VanillaArmorsRetexture.LBVAR</li>
+      <!-- [LB] Vanilla Weapons Retexture -->
+      <li>Lelbaro.VanillaWeaponsRetexture.LBVWR</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

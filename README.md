@@ -74,6 +74,7 @@ The following mods are currently fixed for 1.3
 - Close Cryptos
 - Thinking Spot
 - Subtle variations for RimThemes
+- Add Terraforming
 
 
 
@@ -83,7 +84,7 @@ Its also possible to add mods to this list for others by adding a ModUpdateTag-d
 
 Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my https://store.steampowered.com/wishlist/id/Mlie]Wishlist or buy me a cup of tea.
 
-https://ko-fi.com/G2G55DDYD]![Image](https://i.ibb.co/VWJJb3w/Support-Me-dark-2x.png)
+https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
 
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
