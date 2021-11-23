@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.22.0 - Republish to remove empty HugsLib news
+
+
 1.0.21.0 - Added support for
 - [LB] SectorVII
 - Persona Cryptech

@@ -77,6 +77,9 @@ The following mods are currently fixed for 1.3
 - Add Terraforming
 - [LB] Vanilla Armors Retexture
 - [LB] Vanilla Weapons Retexture
+- [LB] SectorVII
+- Persona Cryptech
+- The Abyss Above [Drugs]
 
 
 
