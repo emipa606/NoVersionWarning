@@ -133,6 +133,12 @@
       <li>Lelbaro.VanillaArmorsRetexture.LBVAR</li>
       <!-- [LB] Vanilla Weapons Retexture -->
       <li>Lelbaro.VanillaWeaponsRetexture.LBVWR</li>
+      <!-- [LB] SectorVII -->
+      <li>Lelbaro.SectorVII.LBSC7</li>
+      <!-- Persona Cryptech -->
+      <li>hamster.personacryptech</li>
+      <!-- The Abyss Above [Drugs] -->
+      <li>TheKingInYellow.TheAbyssAboveDrugs</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

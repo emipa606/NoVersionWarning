@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.0.21.0 - Added support for
+- [LB] SectorVII
+- Persona Cryptech
+- The Abyss Above [Drugs]
+
+
+
 1.0.20.0 - Added support for [LB] Vanilla Weapons Retexture and [LB] Vanilla Armors Retexture
 
 

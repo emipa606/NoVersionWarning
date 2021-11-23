@@ -75,6 +75,8 @@ The following mods are currently fixed for 1.3
 - Thinking Spot
 - Subtle variations for RimThemes
 - Add Terraforming
+- [LB] Vanilla Armors Retexture
+- [LB] Vanilla Weapons Retexture
 
 
 
