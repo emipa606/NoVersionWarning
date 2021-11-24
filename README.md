@@ -80,6 +80,7 @@ The following mods are currently fixed for 1.3
 - [LB] SectorVII
 - Persona Cryptech
 - The Abyss Above [Drugs]
+- Rimtroid
 
 
 

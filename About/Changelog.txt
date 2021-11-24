@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.23.0 - Added support for Rimtroid
+
+
 1.0.22.0 - Republish to remove empty HugsLib news
 
 

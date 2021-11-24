@@ -139,6 +139,8 @@
       <li>hamster.personacryptech</li>
       <!-- The Abyss Above [Drugs] -->
       <li>TheKingInYellow.TheAbyssAboveDrugs</li>
+      <!-- Rimtroid -->
+      <li>Vertigo.Rimtroid_copy</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
