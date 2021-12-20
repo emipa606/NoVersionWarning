@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.0.24.0 - Added support for Growable Neutroamine, LongRangePodLauncher, Better T-Shirt Textures
+
+
 1.0.23.0 - Added support for Rimtroid
 
 

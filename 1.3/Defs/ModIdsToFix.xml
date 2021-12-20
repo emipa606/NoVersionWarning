@@ -141,6 +141,12 @@
       <li>TheKingInYellow.TheAbyssAboveDrugs</li>
       <!-- Rimtroid -->
       <li>Vertigo.Rimtroid_copy</li>
+      <!-- Growable Neutroamine -->
+      <li>neceros.growableneutroamine</li>
+      <!-- LongRangePodLauncher -->
+      <li>hatti.longrangepodlauncher</li>
+      <!-- Better T-Shirt Textures -->
+      <li>Crudbone.BetterTShirts</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

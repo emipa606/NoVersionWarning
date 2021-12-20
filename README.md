@@ -81,6 +81,9 @@ The following mods are currently fixed for 1.3
 - Persona Cryptech
 - The Abyss Above [Drugs]
 - Rimtroid
+- Growable Neutroamine
+- LongRangePodLauncher
+- Better T-Shirt Textures
 
 
 
