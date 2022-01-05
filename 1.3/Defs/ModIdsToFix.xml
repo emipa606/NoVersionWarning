@@ -147,6 +147,10 @@
       <li>hatti.longrangepodlauncher</li>
       <!-- Better T-Shirt Textures -->
       <li>Crudbone.BetterTShirts</li>
+      <!-- Darkest Rim: Core -->
+      <li>deon.darkestrim</li>
+      <!-- Resource Replicator [1.0->1.2] -->
+      <li>RusticFox.ChickenPlucker.RR</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
