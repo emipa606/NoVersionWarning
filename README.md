@@ -84,6 +84,8 @@ The following mods are currently fixed for 1.3
 - Growable Neutroamine
 - LongRangePodLauncher
 - Better T-Shirt Textures
+- Darkest Rim: Core
+- Resource Replicator [1.0-1.2]
 
 
 

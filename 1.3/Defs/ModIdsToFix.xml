@@ -151,6 +151,8 @@
       <li>deon.darkestrim</li>
       <!-- Resource Replicator [1.0->1.2] -->
       <li>RusticFox.ChickenPlucker.RR</li>
+      <!-- Where Are Your Shoes? (Vanilla Apparel Expanded) -->
+      <li>Crudbone.WAYS</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
