@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.3.3 - Added support for Floored
+
+
 1.3.2 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2202853322]Where Are Your Shoes? (Vanilla Apparel Expanded)[/url]
 
 

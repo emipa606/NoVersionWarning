@@ -153,6 +153,8 @@
       <li>RusticFox.ChickenPlucker.RR</li>
       <!-- Where Are Your Shoes? (Vanilla Apparel Expanded) -->
       <li>Crudbone.WAYS</li>
+      <!-- Floored [1.0+] -->
+      <li>essecoisa.Floored</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
