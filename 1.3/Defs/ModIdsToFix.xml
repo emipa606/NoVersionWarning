@@ -155,6 +155,10 @@
       <li>Crudbone.WAYS</li>
       <!-- Floored [1.0+] -->
       <li>essecoisa.Floored</li>
+      <!-- [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons -->
+      <li>brassy.sfguns.vanilla</li>
+      <!-- no disturbed sleep -->
+      <li>crlsniper.nodisturbedsleep</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

@@ -87,6 +87,9 @@ The following mods are currently fixed for 1.3
 - Darkest Rim: Core
 - Resource Replicator [1.0-1.2]
 - Where Are Your Shoes? (Vanilla Apparel Expanded)
+- Floored [1.0+]
+- [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons
+- no disturbed sleep
 
 
 

@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.3.4 - Added support for no disturbed sleep-mod and Girls Frontline Sangvis Ferri Weapons
+
+
 1.3.3 - Added support for Floored
 
 
