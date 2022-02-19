@@ -159,6 +159,8 @@
       <li>brassy.sfguns.vanilla</li>
       <!-- no disturbed sleep -->
       <li>crlsniper.nodisturbedsleep</li>
+      <!-- Penoxycyline Is Medicine -->
+      <li>LWM.PenoxycylineIsMedicine</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
