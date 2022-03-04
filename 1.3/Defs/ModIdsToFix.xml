@@ -163,6 +163,8 @@
       <li>LWM.PenoxycylineIsMedicine</li>
       <!-- Bless the Devilstrand -->
       <li>daylight.BlessDevilSt</li>
+      <!-- Without Steam -->
+      <li>scuba156.withoutsteam</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
