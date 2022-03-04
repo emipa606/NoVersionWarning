@@ -161,6 +161,8 @@
       <li>crlsniper.nodisturbedsleep</li>
       <!-- Penoxycyline Is Medicine -->
       <li>LWM.PenoxycylineIsMedicine</li>
+      <!-- Bless the Devilstrand -->
+      <li>daylight.BlessDevilSt</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
