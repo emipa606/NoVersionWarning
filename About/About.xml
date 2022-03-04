@@ -107,6 +107,7 @@ The following mods are currently fixed for 1.3
 [*][1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons
 [*]no disturbed sleep
 [*]Penoxycyline Is Medicine
+[*]Bless the Devilstrand
 [/list]
 
 Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.

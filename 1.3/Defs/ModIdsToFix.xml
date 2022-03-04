@@ -165,6 +165,8 @@
       <li>daylight.BlessDevilSt</li>
       <!-- Without Steam -->
       <li>scuba156.withoutsteam</li>
+      <!-- BetterNutrientPasteDispenserControls -->
+      <li>maarx.betternutrientpastedispensercontrols</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
