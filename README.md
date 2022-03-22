@@ -92,6 +92,8 @@ The following mods are currently fixed for 1.3
 - no disturbed sleep
 - Penoxycyline Is Medicine
 - Bless the Devilstrand
+- Without Steam
+- BetterNutrientPasteDispenserControls
 
 
 

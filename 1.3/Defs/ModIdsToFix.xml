@@ -167,6 +167,8 @@
       <li>scuba156.withoutsteam</li>
       <!-- BetterNutrientPasteDispenserControls -->
       <li>maarx.betternutrientpastedispensercontrols</li>
+      <!-- Non-Functional Prosthetics -->
+      <li>stormshark.nfprosthetics</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

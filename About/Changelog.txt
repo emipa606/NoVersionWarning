@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.3.9 - Added support for Non-Functional Prosthetics
+
+
 1.3.8 - Added support for BetterNutrientPasteDispenserControls
 
 

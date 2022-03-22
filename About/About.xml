@@ -108,6 +108,8 @@ The following mods are currently fixed for 1.3
 [*]no disturbed sleep
 [*]Penoxycyline Is Medicine
 [*]Bless the Devilstrand
+[*]Without Steam
+[*]BetterNutrientPasteDispenserControls
 [/list]
 
 Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.
