@@ -94,6 +94,7 @@ The following mods are currently fixed for 1.3
 - Bless the Devilstrand
 - Without Steam
 - BetterNutrientPasteDispenserControls
+- Non-Functional Prosthetics
 
 
 

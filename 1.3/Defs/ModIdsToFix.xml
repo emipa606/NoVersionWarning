@@ -169,6 +169,12 @@
       <li>maarx.betternutrientpastedispensercontrols</li>
       <!-- Non-Functional Prosthetics -->
       <li>stormshark.nfprosthetics</li>
+      <!-- Floored - Yellow and Striped Tiles Only [1.0+] -->
+      <li>essecoisa.FlooredYASTO</li>
+      <!-- WM Hydroponics with lamps -->
+      <li>Wishmaster.HydroponicsWithLamps</li>
+      <!-- More Lamps -->
+      <li>More.Lamps</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
