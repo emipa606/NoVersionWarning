@@ -175,6 +175,22 @@
       <li>Wishmaster.HydroponicsWithLamps</li>
       <!-- More Lamps -->
       <li>More.Lamps</li>
+      <!-- Empire - Additional Buildings -->
+      <li>VHolmes.Empire.EAB</li>
+      <!-- Enhanced Vanilla Gun Sounds -->
+      <li>Arekan.EnhancedVanillaGunSounds</li>
+      <!-- Translucent Glasses (VAE) -->
+      <li>Crudbone.TranslucentGlasses</li>
+      <!-- Mokan Hair -->
+      <li>amaji.mokan.hair</li>
+      <!-- Wall Sun Lamp -->
+      <li>neceros.wallsunlamp</li>
+      <!-- Where's the gravel? - Grayscale Edition -->
+      <li>faeldray.gravelgray</li>
+      <!-- Lasting Flowers -->
+      <li>neceros.lastingflowers</li>
+      <!-- Insulation - Vanilla Textures -->
+      <li>codyspring.InsulationVanillaTextures</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

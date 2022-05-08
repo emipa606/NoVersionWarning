@@ -13,88 +13,91 @@ If you know of a mod that should be added here, leave a link to it and Ill add i
 The following mods are currently fixed for 1.3
 
 
+- Add Terraforming
 - Ambrosial Longevity
+- Amrita - Age Reversing Serum
 - Android Tiers + Vanilla Expanded Medical
+- Android Tiers Unfeeling Patch
 - Archotech Expanded Prosthetics Lite
 - Baby muffalo is Muffalump
+- Better T-Shirt Textures
+- BetterNutrientPasteDispenserControls
+- Bless the Devilstrand
 - Ceiling Lights: Vanilla Edition
+- Close Cryptos
 - ClutterDoors
 - Corners
-- Dryxsteel
+- Darkest Rim: Core
 - Don't Steal My Walls!
+- Dryxsteel
 - ED-CheatReactor
 - Exotic Arsenal
+- Expanded Woodworking for Vegetable Garden Project
 - Fire Treated Wood
+- Floored - Yellow and Striped Tiles Only
+- Floored [1.0+]
 - Furnace
 - Gain Skill Passions
 - Giant Trees
 - Give Me Meat
 - Gloomy Extra - Kitchen
+- Growable Neutroamine
 - Gunlink with helmet
 - Invisible Conduit
 - Japanese Dogs
+- Less Rebuff
 - Letter Reorderer
 - Linkables Patch
+- LongRangePodLauncher
 - Meat Packages
 - Meditate As Work Type
 - Mending Medieval
+- More Lamps
 - More Trade Ships
+- Non-Functional Prosthetics
 - Outdoor Lighting
 - Over-Wall AC Unit from Vanilla Furniture Expanded
 - Pawns Just Don't Die
+- Penoxycyline Is Medicine
+- Persona Cryptech
 - Prosthetic No Missing Body Parts
 - Realistic Starvation
 - Recon and Marine Helmet Visor (abandoned) 
+- Resource Replicator [1.0-1.2]
+- Rim of Madness - Bones Enchantment
+- Rimtroid
 - Stop Insulting Us!
 - StuffCount
+- Subtle variations for RimThemes
 - Synthetic Animals 
 - Synthmeat
+- The Abyss Above [Drugs]
+- Thinking Spot
 - Tribal Jewelry
-- Ultraweave
 - UN-Colony [1.2]
+- Ultraweave
 - VFE Farming - Dubs Bad Hygiene
 - VFES reinforced embrasure
 - Vanilla Parka Retexture (VAE) (abandoned)
 - Vanilla Plants Expanded : All Trees All Biomes Optional Patch
+- Vanilla RT Solar Flare Shield Retexture
 - Vee Hairs
+- WM Hydroponics with lamps
 - Wean's World - Generate Children
 - Weapon Artwork Removal
+- Where Are Your Shoes? (Vanilla Apparel Expanded)
+- Without Steam
 - You've Never Eaten Without a Table
+- [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons
 - [1.2] Grenade Fix - Rearmed
 - [CP] Prisoner Outfit
 - [FSF] Improved Ship Reactors
-- [SYR] More Slaves 
-- [SYR] Scar Removal Plus
-- Vanilla RT Solar Flare Shield Retexture
-- Less Rebuff
-- Expanded Woodworking for Vegetable Garden Project
-- Amrita - Age Reversing Serum
-- Rim of Madness - Bones Enchantment
-- Android Tiers Unfeeling Patch
-- Close Cryptos
-- Thinking Spot
-- Subtle variations for RimThemes
-- Add Terraforming
+- [LB] SectorVII
 - [LB] Vanilla Armors Retexture
 - [LB] Vanilla Weapons Retexture
-- [LB] SectorVII
-- Persona Cryptech
-- The Abyss Above [Drugs]
-- Rimtroid
-- Growable Neutroamine
-- LongRangePodLauncher
-- Better T-Shirt Textures
-- Darkest Rim: Core
-- Resource Replicator [1.0-1.2]
-- Where Are Your Shoes? (Vanilla Apparel Expanded)
-- Floored [1.0+]
-- [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons
+- [SYR] More Slaves 
+- [SYR] Scar Removal Plus
 - no disturbed sleep
-- Penoxycyline Is Medicine
-- Bless the Devilstrand
-- Without Steam
-- BetterNutrientPasteDispenserControls
-- Non-Functional Prosthetics
 
 
 
