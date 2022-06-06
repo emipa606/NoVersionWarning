@@ -191,6 +191,12 @@
       <li>neceros.lastingflowers</li>
       <!-- Insulation - Vanilla Textures -->
       <li>codyspring.InsulationVanillaTextures</li>
+      <!-- [WD] Barbed Wire -->
+      <li>Wemd.BarbedWire</li>
+      <!-- Palisades -->
+      <li>n7huntsman.palisades</li>
+      <!-- Never Auto-reset Mods -->
+      <li>OkraDonkey.NeverAutoResetMods</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

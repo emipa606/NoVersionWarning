@@ -31,6 +31,8 @@ The following mods are currently fixed for 1.3
 - Don't Steal My Walls!
 - Dryxsteel
 - ED-CheatReactor
+- Empire - Additional Buildings
+- Enhanced Vanilla Gun Sounds
 - Exotic Arsenal
 - Expanded Woodworking for Vegetable Garden Project
 - Fire Treated Wood
@@ -43,8 +45,10 @@ The following mods are currently fixed for 1.3
 - Gloomy Extra - Kitchen
 - Growable Neutroamine
 - Gunlink with helmet
+- Insulation - Vanilla Textures'
 - Invisible Conduit
 - Japanese Dogs
+- Lasting Flowers
 - Less Rebuff
 - Letter Reorderer
 - Linkables Patch
@@ -52,6 +56,7 @@ The following mods are currently fixed for 1.3
 - Meat Packages
 - Meditate As Work Type
 - Mending Medieval
+- Mokan Hair
 - More Lamps
 - More Trade Ships
 - Non-Functional Prosthetics
@@ -73,6 +78,7 @@ The following mods are currently fixed for 1.3
 - Synthmeat
 - The Abyss Above [Drugs]
 - Thinking Spot
+- Translucent Glasses (VAE)
 - Tribal Jewelry
 - UN-Colony [1.2]
 - Ultraweave
@@ -83,9 +89,11 @@ The following mods are currently fixed for 1.3
 - Vanilla RT Solar Flare Shield Retexture
 - Vee Hairs
 - WM Hydroponics with lamps
+- Wall Sun Lamp
 - Wean's World - Generate Children
 - Weapon Artwork Removal
 - Where Are Your Shoes? (Vanilla Apparel Expanded)
+- Where's the gravel? - Grayscale Edition
 - Without Steam
 - You've Never Eaten Without a Table
 - [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons
@@ -98,6 +106,9 @@ The following mods are currently fixed for 1.3
 - [SYR] More Slaves 
 - [SYR] Scar Removal Plus
 - no disturbed sleep
+- [WD] Barbed Wire
+- Palisades
+- Never Auto-reset Mods
 
 
 
@@ -120,6 +131,7 @@ https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
