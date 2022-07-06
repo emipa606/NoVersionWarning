@@ -197,6 +197,10 @@
       <li>n7huntsman.palisades</li>
       <!-- Never Auto-reset Mods -->
       <li>OkraDonkey.NeverAutoResetMods</li>
+      <!-- ED-Embrasures -->
+      <li>Jaxxa.ED.Embrasures</li>
+      <!-- Commercial Server 1.1 -->
+      <li>seabass.commercialserver11</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

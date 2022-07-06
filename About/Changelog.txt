@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.3.13 - Added support for ED-Embrasures and Commercial Server
+
+
 1.3.12 - Added support for Never Auto-reset Mods, Palisades, [WD] Barbed Wire
 
 
