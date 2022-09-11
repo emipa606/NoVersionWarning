@@ -56,7 +56,6 @@
 - [Letter Reorderer](https://steamcommunity.com/sharedfiles/filedetails/?id=2289776157)
 - [Less Rebuff](https://steamcommunity.com/sharedfiles/filedetails/?id=774543761)
 - [Vanilla RT Solar Flare Shield Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=1941652952)
-- [Expanded Woodworking for Vegetable Garden Project](https://steamcommunity.com/sharedfiles/filedetails/?id=1083959631)
 - [Amrita - Age Reversing Serum](https://steamcommunity.com/sharedfiles/filedetails/?id=2349377017)
 - [Rim of Madness - Bones Enchantment](https://steamcommunity.com/sharedfiles/filedetails/?id=2181290749)
 - [Android Tiers Unfeeling Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=1881665506)
@@ -100,3 +99,4 @@
 - [Never Auto-reset Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2076921732)
 - [ED-Embrasures](https://steamcommunity.com/sharedfiles/filedetails/?id=722085442)
 - [Commercial Server 1.1](https://steamcommunity.com/sharedfiles/filedetails/?id=2009769986)
+- [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1750069106)
