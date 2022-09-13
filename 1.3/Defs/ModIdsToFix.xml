@@ -201,6 +201,8 @@
       <li>seabass.commercialserver11</li>
       <!-- Opened Doors Don't Block Light -->
       <li>mlph.OpenedDoorsDontBlockLight</li>
+      <!-- Timelapse 2000 -->
+      <li>co.uk.epicguru.timelapse2000</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
