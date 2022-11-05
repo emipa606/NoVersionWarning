@@ -4,6 +4,9 @@
 
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
+- [Craftable Glitterworld Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=1869871062)
+- [Heat Map](https://steamcommunity.com/sharedfiles/filedetails/?id=947972722)
+- [[KV] No Max Bills](https://steamcommunity.com/sharedfiles/filedetails/?id=1588831229)
 
 ## 1.3
 

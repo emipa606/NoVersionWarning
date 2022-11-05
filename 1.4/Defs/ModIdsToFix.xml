@@ -9,6 +9,12 @@
       <li>StyleRevised.Animalist</li>
       <!-- Better T-Shirt Textures -->
       <li>Crudbone.BetterTShirts</li>
+      <!-- Craftable Glitterworld Medicine -->
+      <li>Vincenty.CraftableGlitterworldMedicine</li>
+      <!-- Heat Map -->
+      <li>falconne.HeatMap</li>
+      <!-- [KV] No Max Bills -->
+      <li>nomaxbills.kv.rw</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
