@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <NoVersionWarning.ModUpdateTag>
+    <defName>NoVersionWarning_Main</defName>
+    <label>NoVersionWarning_Main</label>
+    <thingClass>Thing</thingClass>
+    <ModIdsToFix>
+      <!-- Style Revised - Animalist -->
+      <li>StyleRevised.Animalist</li>
+      <!-- Better T-Shirt Textures -->
+      <li>Crudbone.BetterTShirts</li>
+    </ModIdsToFix>
+  </NoVersionWarning.ModUpdateTag>
+</Defs>

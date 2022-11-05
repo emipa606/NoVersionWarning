@@ -1,5 +1,10 @@
 # Currently covered mods
 
+## 1.4
+
+- [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
+- [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
+
 ## 1.3
 
 - [UN-Colony [1.2]](https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003)
