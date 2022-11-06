@@ -15,6 +15,28 @@
       <li>falconne.HeatMap</li>
       <!-- [KV] No Max Bills -->
       <li>nomaxbills.kv.rw</li>
+      <!-- Vaccines -->
+      <li>sch518.Vaccines</li>
+      <!-- Auto links -->
+      <li>automatic.autolinks</li>
+      <!-- Recon Helmet Fix -->
+      <li>Crudbone.ReconRetexture</li>
+      <!-- Vanilla Parka Retexture (VAE) -->
+      <li>Crudbone.ParkaRetexture</li>
+      <!-- Fast Spreading Grass 2.0 -->
+      <li>DantheWAANN.FastSpreadingGrass2.0</li>
+      <!-- Simple Learning -->
+      <li>Fox.SimpleLearning</li>
+      <!-- Comigo's Grim Traders -->
+      <li>ComigoGames.Traders.Grim</li>
+      <!-- Stuff on Tables -->
+      <li>Simmin.StuffonTables</li>
+      <!-- Magical Freezer -->
+      <li>Ysimir.MagicalTemperatures</li>
+      <!-- Butchery Counts Meat Types -->
+      <li>MrHacky.ButcheryCountsMeatTypes</li>
+      <!-- [SPK] Additional Vanilla Crafting -->
+      <li>SpookieWookie.AdditionalVanillaCrafting</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

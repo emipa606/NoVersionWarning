@@ -7,6 +7,17 @@
 - [Craftable Glitterworld Medicine](https://steamcommunity.com/sharedfiles/filedetails/?id=1869871062)
 - [Heat Map](https://steamcommunity.com/sharedfiles/filedetails/?id=947972722)
 - [[KV] No Max Bills](https://steamcommunity.com/sharedfiles/filedetails/?id=1588831229)
+- [Vaccines](https://steamcommunity.com/sharedfiles/filedetails/?id=2849221071)
+- [Auto links](https://steamcommunity.com/sharedfiles/filedetails/?id=2059389912)
+- [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
+- [Vanilla Parka Retexture (VAE)](https://steamcommunity.com/sharedfiles/filedetails/?id=2452281884)
+- [Fast Spreading Grass 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2562278440)
+- [Simple Learning](https://steamcommunity.com/sharedfiles/filedetails/?id=2711504627)
+- [Comigo's Grim Traders](https://steamcommunity.com/sharedfiles/filedetails/?id=2549695765)
+- [Stuff on Tables](https://steamcommunity.com/sharedfiles/filedetails/?id=2590908441)
+- [Magical Freezer](https://steamcommunity.com/sharedfiles/filedetails/?id=935143958)
+- [Butchery Counts Meat Types](https://steamcommunity.com/sharedfiles/filedetails/?id=2178417679)
+- [[SPK] Additional Vanilla Crafting](https://steamcommunity.com/sharedfiles/filedetails/?id=2122304719)
 
 ## 1.3
 

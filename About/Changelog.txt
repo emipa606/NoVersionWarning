@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.4.3 - Added support for a bunch of more mods
+
+
 1.4.2 - Added support for Craftable Glitterworld Medicine, Heat Map, [KV] No Max Bills
 
 
