@@ -37,6 +37,22 @@
       <li>MrHacky.ButcheryCountsMeatTypes</li>
       <!-- [SPK] Additional Vanilla Crafting -->
       <li>SpookieWookie.AdditionalVanillaCrafting</li>
+      <!-- Pawn Badge - XCOM Badge -->
+      <li>Botaxalim.XcomBadge</li>
+      <!-- Pawn Badge - XCOM Ranks -->
+      <li>lurmey.XcomPawnBadge</li>
+      <!-- ReclaimFabric - 1.3 Update -->
+      <li>jastro.ReclaimFabricUpdate</li>
+      <!-- CMT Retexture -->
+      <li>Djeeshka.CMT.Retexture</li>
+      <!-- Comigo's Majestic Trees -->
+      <li>ComigoGames.Textures.Trees</li>
+      <!-- Bionic icons -->
+      <li>automatic.bionicicons</li>
+      <!-- UI Button Retexture -->
+      <li>Katsudon.UIButtonRetexture</li>
+      <!-- Opened Doors Don't Block Light -->
+      <li>mlph.OpenedDoorsDontBlockLight</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

@@ -18,6 +18,14 @@
 - [Magical Freezer](https://steamcommunity.com/sharedfiles/filedetails/?id=935143958)
 - [Butchery Counts Meat Types](https://steamcommunity.com/sharedfiles/filedetails/?id=2178417679)
 - [[SPK] Additional Vanilla Crafting](https://steamcommunity.com/sharedfiles/filedetails/?id=2122304719)
+- [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
+- [Pawn Badge - XCOM Ranks](https://steamcommunity.com/sharedfiles/filedetails/?id=2133895611)
+- [ReclaimFabric - 1.3 Update](https://steamcommunity.com/sharedfiles/filedetails/?id=2571637022)
+- [CMT Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2750622416)
+- [Comigo's Majestic Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2569541304)
+- [Bionic icons](https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980)
+- [UI Button Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2824782634)
+- [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1750069106)
 
 ## 1.3
 
