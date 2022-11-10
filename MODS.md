@@ -26,6 +26,9 @@
 - [Bionic icons](https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980)
 - [UI Button Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2824782634)
 - [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1750069106)
+- [No Lazy Doctors](https://steamcommunity.com/sharedfiles/filedetails/?id=2476396157)
+- [Ritual Chair](https://steamcommunity.com/sharedfiles/filedetails/?id=2753944006)
+- [[CP] Prisoner Outfit](https://steamcommunity.com/sharedfiles/filedetails/?id=1507216525)
 
 ## 1.3
 

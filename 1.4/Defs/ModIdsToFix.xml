@@ -53,6 +53,12 @@
       <li>Katsudon.UIButtonRetexture</li>
       <!-- Opened Doors Don't Block Light -->
       <li>mlph.OpenedDoorsDontBlockLight</li>
+      <!-- No Lazy Doctors -->
+      <li>JBloodthorn.NoLazyDoctors</li>
+      <!-- Ritual Chair -->
+      <li>Task.RitualChair.zz</li>
+      <!-- [CP] Prisoner Outfit -->
+      <li>CP.Prisoner.Outfit</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
