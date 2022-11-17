@@ -59,6 +59,22 @@
       <li>Task.RitualChair.zz</li>
       <!-- [CP] Prisoner Outfit -->
       <li>CP.Prisoner.Outfit</li>
+      <!-- Anima Wood -->
+      <li>Ripmorld.AnimaWood</li>
+      <!-- Pruning Uses Plant Work Speed -->
+      <li>fc.pruningusesplantworkspeed</li>
+      <!-- [DBL]Awnings And Roofs -->
+      <li>DBL.AwningsAndRoofs</li>
+      <!-- Full Armor - Hands and Feet -->
+      <li>SteveZero.FullArmorHandsFeet</li>
+      <!-- Where's the gravel? - Grayscale Edition -->
+      <li>faeldray.gravelgray</li>
+      <!-- World Map Enhanced -->
+      <li>laast.WorldMapEnhanced</li>
+      <!-- Perfect Pathfinding -->
+      <li>jp.perfectpathing</li>
+      <!-- Drape for Hiding -->
+      <li>Drape.forHiding</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

@@ -29,6 +29,14 @@
 - [No Lazy Doctors](https://steamcommunity.com/sharedfiles/filedetails/?id=2476396157)
 - [Ritual Chair](https://steamcommunity.com/sharedfiles/filedetails/?id=2753944006)
 - [[CP] Prisoner Outfit](https://steamcommunity.com/sharedfiles/filedetails/?id=1507216525)
+- [Anima Wood](https://steamcommunity.com/sharedfiles/filedetails/?id=2682643801)
+- [Pruning Uses Plant Work Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2564420974)
+- [[DBL]Awnings And Roofs](https://steamcommunity.com/sharedfiles/filedetails/?id=2836493333)
+- [Full Armor - Hands and Feet](https://steamcommunity.com/sharedfiles/filedetails/?id=2596988484)
+- [Where's the gravel? - Grayscale Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282175)
+- [World Map Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2523248314)
+- [Perfect Pathfinding](https://steamcommunity.com/sharedfiles/filedetails/?id=2341486509)
+- [Drape for Hiding](https://steamcommunity.com/sharedfiles/filedetails/?id=2382407174)
 
 ## 1.3
 
