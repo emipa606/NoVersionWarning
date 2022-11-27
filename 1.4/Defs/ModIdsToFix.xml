@@ -27,8 +27,6 @@
       <li>DantheWAANN.FastSpreadingGrass2.0</li>
       <!-- Simple Learning -->
       <li>Fox.SimpleLearning</li>
-      <!-- Comigo's Grim Traders -->
-      <li>ComigoGames.Traders.Grim</li>
       <!-- Stuff on Tables -->
       <li>Simmin.StuffonTables</li>
       <!-- Magical Freezer -->
@@ -75,6 +73,14 @@
       <li>jp.perfectpathing</li>
       <!-- Drape for Hiding -->
       <li>Drape.forHiding</li>
+      <!-- Life Support Continued [1.1+] -->
+      <li>Troopersmith1.LifeSupport</li>
+      <!-- Show Build Cost -->
+      <li>Cliffyq.ShowBuildCost</li>
+      <!-- Ascetics Don't Need Tables -->
+      <li>TrahsPanda.ADNT</li>
+      <!-- Condition Matters -->
+      <li>SteveZero.ConditionMatters</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
