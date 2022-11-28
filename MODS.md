@@ -40,6 +40,7 @@
 - [Show Build Cost](https://steamcommunity.com/sharedfiles/filedetails/?id=2689456006)
 - [Ascetics Don't Need Tables](https://steamcommunity.com/sharedfiles/filedetails/?id=2831122198)
 - [Condition Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2482412209)
+- [Ceiling Lights](https://steamcommunity.com/sharedfiles/filedetails/?id=2014652560)
 
 ## 1.3
 

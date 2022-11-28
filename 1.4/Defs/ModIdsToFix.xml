@@ -81,6 +81,8 @@
       <li>TrahsPanda.ADNT</li>
       <!-- Condition Matters -->
       <li>SteveZero.ConditionMatters</li>
+      <!-- Ceiling Lights -->
+      <li>neceros.ceilinglights</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
