@@ -41,6 +41,9 @@
 - [Ascetics Don't Need Tables](https://steamcommunity.com/sharedfiles/filedetails/?id=2831122198)
 - [Condition Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2482412209)
 - [Ceiling Lights](https://steamcommunity.com/sharedfiles/filedetails/?id=2014652560)
+- [The Price is What?](https://steamcommunity.com/sharedfiles/filedetails/?id=2353882085)
+- [ED-CheatReactor](https://steamcommunity.com/sharedfiles/filedetails/?id=710101929)
+- [Custom Year and Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2093902544)
 
 ## 1.3
 

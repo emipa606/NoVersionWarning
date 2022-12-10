@@ -36,4 +36,5 @@ https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692]Last updated 2022-11-28
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692]Last updated 2022-12-10

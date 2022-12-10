@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.4.9 - Addeds support for a few more mods
+
+
 1.4.8 - Added support for Ceiling Lights
 
 

@@ -83,6 +83,12 @@
       <li>SteveZero.ConditionMatters</li>
       <!-- Ceiling Lights -->
       <li>neceros.ceilinglights</li>
+      <!-- The Price is What? -->
+      <li>CaptainMuscles.PriceIsWhat</li>
+      <!-- ED-CheatReactor -->
+      <li>Jaxxa.ED.CheatReactor</li>
+      <!-- Custom Year and Speed -->
+      <li>com.yayo.customYear</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
