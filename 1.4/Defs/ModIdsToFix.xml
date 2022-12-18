@@ -89,6 +89,24 @@
       <li>Jaxxa.ED.CheatReactor</li>
       <!-- Custom Year and Speed -->
       <li>com.yayo.customYear</li>
+      <!-- Fantasy Metals Reforged -->
+      <li>mercurydoll.fantasymetals</li>
+      <!-- Bioreactor Size Patch -->
+      <li>brat.bioreactorsizepatch</li>
+      <!-- LED Lights -->
+      <li>cucumpear.LEDlights</li>
+      <!-- Hyperweave Plantation -->
+      <li>com.RimWorld.Shtossi.Hyperweave</li>
+      <!-- Tusks and Claws - A Crashlands Inspired Mod -->
+      <li>ClossomMistake.Blegh</li>
+      <!-- Outdoor Lighting -->
+      <li>stormknight.outdoorlighting</li>
+      <!-- Advanced Polyamory Beds -->
+      <li>Inggo.AdvancedPolyBeds</li>
+      <!-- [LTw] Force Field Walls -->
+      <li>DerekBickley.ForceFields</li>
+      <!-- [LB] Vanilla Armors Retexture -->
+      <li>Lelbaro.VanillaArmorsRetexture.LBVAR</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>

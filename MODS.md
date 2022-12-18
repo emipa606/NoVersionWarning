@@ -44,6 +44,15 @@
 - [The Price is What?](https://steamcommunity.com/sharedfiles/filedetails/?id=2353882085)
 - [ED-CheatReactor](https://steamcommunity.com/sharedfiles/filedetails/?id=710101929)
 - [Custom Year and Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2093902544)
+- [Fantasy Metals Reforged](https://steamcommunity.com/sharedfiles/filedetails/?id=2173422423)
+- [Bioreactor Size Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2516023002)
+- [LED Lights](https://steamcommunity.com/sharedfiles/filedetails/?id=843715469)
+- [Hyperweave Plantation](https://steamcommunity.com/sharedfiles/filedetails/?id=2564146483)
+- [Tusks and Claws - A Crashlands Inspired Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2367686220)
+- [Outdoor Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=1545708330)
+- [Advanced Polyamory Beds](https://steamcommunity.com/sharedfiles/filedetails/?id=2130100658)
+- [[LTw] Force Field Walls](https://steamcommunity.com/sharedfiles/filedetails/?id=2567992041)
+- [[LB] Vanilla Armors Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2109725521)
 
 ## 1.3
 

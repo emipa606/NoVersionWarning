@@ -19,10 +19,7 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>
-
-
-[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 
 I get a lot of requests to update mods and some of them have no issues except that they are marked in the mod-list as incompatible with the current Rimworld version.
 Instead of me republishing these mods with the only change being that the latest game-version tag is added I made this mod instead.
@@ -60,5 +57,6 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692]Last updated 2022-12-10[/url]</description>
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692]Last updated 2022-12-18[/url]</description>
 </ModMetaData>
