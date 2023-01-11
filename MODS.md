@@ -76,6 +76,19 @@
 - [Amrita - Age Reversing Serum](https://steamcommunity.com/sharedfiles/filedetails/?id=2349377017)
 - [Gloomy Extra - Kitchen](https://steamcommunity.com/sharedfiles/filedetails/?id=1730938407)
 - [No Increased Expectations for Ideology Roles](https://steamcommunity.com/sharedfiles/filedetails/?id=2648674904)
+- [Lolidrop's hairshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1444154109)
+- [Garden Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2520773186)
+- [Furniture reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2254522065)
+- [Flora reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2431123295)
+- [Comigo's Nutrition](https://steamcommunity.com/sharedfiles/filedetails/?id=2546863371)
+- [Comigo's Bridges and Platforms](https://steamcommunity.com/sharedfiles/filedetails/?id=2547909363)
+- [[Beta]Anime Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1624460492)
+- [Wheelchairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2599914280)
+- [Vee's decorating](https://steamcommunity.com/sharedfiles/filedetails/?id=1585057683)
+- [Vee Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=1655880765)
+- [Storage Solutions](https://steamcommunity.com/sharedfiles/filedetails/?id=895944018)
+- [Production reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2257451032)
+- [Candy Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2823792295)
 
 ## 1.3
 

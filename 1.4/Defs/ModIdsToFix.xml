@@ -153,6 +153,32 @@
       <li>Semo583.GloomyHExtraHUHKitchen</li>
       <!-- No Increased Expectations for Ideology Roles -->
       <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
+      <!-- Lolidrop's hairshop -->
+      <li>Vanya.Agent.LolidropHairshop</li>
+      <!-- Garden Light -->
+      <li>SC.GradenFunitureLight</li>
+      <!-- Furniture reskin -->
+      <li>cattleya.furniturereskin</li>
+      <!-- Flora reskin -->
+      <li>cattleya.florareskin</li>
+      <!-- Comigo's Nutrition -->
+      <li>ComigoGames.Miniaturization.Kitchen</li>
+      <!-- Comigo's Bridges and Platforms -->
+      <li>ComigoGames.Water.Bridges</li>
+      <!-- [Beta]Anime Hair -->
+      <li>Beta.AnimeHair</li>
+      <!-- Wheelchairs -->
+      <li>Lilscoot.Wheelchairs</li>
+      <!-- Vee's decorating -->
+      <li>Lat.VeeDeco</li>
+      <!-- Vee Hairs -->
+      <li>Lat.VeeHair</li>
+      <!-- Storage Solutions -->
+      <li>cucumpear.storage</li>
+      <!-- Production reskin -->
+      <li>cattleya.productionreskin</li>
+      <!-- Candy Hairs -->
+      <li>Candycorn.CandyHairs</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
