@@ -35,4 +35,5 @@ https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692]Last updated 2022-12-18
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692]Last updated 2023-01-11

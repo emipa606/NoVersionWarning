@@ -107,6 +107,52 @@
       <li>DerekBickley.ForceFields</li>
       <!-- [LB] Vanilla Armors Retexture -->
       <li>Lelbaro.VanillaArmorsRetexture.LBVAR</li>
+      <!-- [JWL] Fish Hatcheries -->
+      <li>jwl.fishhatcheries</li>
+      <!-- Vault-Tec - Handy things for your vault! -->
+      <li>Twink.Vaultfurniture</li>
+      <!-- Lanterns -->
+      <li>erok.Lanterns</li>
+      <!-- Curb Stone -->
+      <li>SC.CurbStone</li>
+      <!-- Absolute Legends Hair -->
+      <li>Absolute.Legends.Hair</li>
+      <!-- Impassable Fences -->
+      <li>Burusutazu.ImpassableFences</li>
+      <!-- VPE - No Tilled Soil -->
+      <li>Oreno.VPlantsE.NoTilledSoil</li>
+      <!-- Pop Growth -->
+      <li>N0C4P.prophetly01</li>
+      <!-- Animal Medical Bed -->
+      <li>neceros.animalmedicalbed</li>
+      <!-- MeditateAsWorkType -->
+      <li>maarx.meditateasworktype</li>
+      <!-- [CZK] VIE Memes and Structures - Sh*ntao Begone Patch -->
+      <li>CZK.VIEMemes.shintaopatch</li>
+      <!-- VFE:M Drones Can pick Weapons -->
+      <li>mechanoidWeapons.Wololo</li>
+      <!-- [Ry]No Rockets! -->
+      <li>Ryflamer.NoRockets</li>
+      <!-- uselesshair -->
+      <li>wool.uselesshair</li>
+      <!-- Reinforced Walls -->
+      <li>neceros.reinforcedwalls</li>
+      <!-- Hidden Eyes -->
+      <li>Cassie.HiddenEyes</li>
+      <!-- Infinite Refuelables -->
+      <li>OkraDonkey.InfiniteRefuelables</li>
+      <!-- [WD] Simple Concrete -->
+      <li>Wemd.SimpleConcrete</li>
+      <!-- Predictable Deep Drills -->
+      <li>Pausbrak.PredictableDeepDrills</li>
+      <!-- Onesies -->
+      <li>DanDMan.Onesies</li>
+      <!-- Amrita - Age Reversing Serum -->
+      <li>y1nalin.amrita</li>
+      <!-- Gloomy Extra - Kitchen -->
+      <li>Semo583.GloomyHExtraHUHKitchen</li>
+      <!-- No Increased Expectations for Ideology Roles -->
+      <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
     </ModIdsToFix>
   </NoVersionWarning.ModUpdateTag>
 </Defs>
