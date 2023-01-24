@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.4.13 - Added some more mods, restructured the xml-files to not use the ingame defs, thanks Taranchuk for the pointer
+
+
 1.4.12 - Added support for some more mods again
 
 

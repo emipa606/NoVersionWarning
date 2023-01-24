@@ -1,49 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Reflection;
+using System.Xml;
 using HarmonyLib;
 using RimWorld;
 using Verse;
 
 namespace NoVersionWarning;
 
-[StaticConstructorOnStartup]
-public class NoVersionWarning
+public static class Main
 {
-    public static readonly Version currentVersion;
-    public static readonly List<string> modIdsToUpdate;
-    public static readonly HashSet<string> updatedMods;
+    public static Version currentVersion;
+    public static List<string> modIdsToUpdate;
+    public static HashSet<string> updatedMods;
+}
 
-    static NoVersionWarning()
+public class NoVersionWarningMod : Mod
+{
+    public NoVersionWarningMod(ModContentPack content) : base(content)
     {
-        var foundModIdDefs = DefDatabase<ModUpdateTag>.AllDefsListForReading;
-        updatedMods = new HashSet<string>();
-        if (!foundModIdDefs.Any())
-        {
-            Log.Message("[NoVersionWarning]: No defs with mod-ids found, ignoring.");
-            return;
-        }
-
-        modIdsToUpdate = new List<string>();
-        foreach (var modUpdateTag in foundModIdDefs)
-        {
-            if (modUpdateTag.ModIdsToFix == null || !modUpdateTag.ModIdsToFix.Any())
-            {
-                continue;
-            }
-
-            foreach (var modId in modUpdateTag.ModIdsToFix)
-            {
-                modIdsToUpdate.Add(modId);
-            }
-        }
-
-        if (!modIdsToUpdate.Any())
-        {
-            Log.Message("[NoVersionWarning]: No mod-ids found, ignoring.");
-            return;
-        }
-
         var currentVersionString = VersionControl.CurrentVersionStringWithoutBuild;
         if (currentVersionString == null)
         {
@@ -51,9 +27,44 @@ public class NoVersionWarning
             return;
         }
 
-        currentVersion = new Version(currentVersionString);
+        Main.currentVersion = new Version(currentVersionString);
+        Main.updatedMods = new HashSet<string>();
+        Main.modIdsToUpdate = fixedIdsIn();
+
+        if (!Main.modIdsToUpdate.Any())
+        {
+            Log.Message("[NoVersionWarning]: No mod-ids found, ignoring.");
+            return;
+        }
 
         var harmony = new Harmony("Mlie.NoVersionWarning");
         harmony.PatchAll(Assembly.GetExecutingAssembly());
+    }
+
+    private List<string> fixedIdsIn()
+    {
+        var xmlFolder = Path.Combine(Content.RootDir, Main.currentVersion.ToString());
+        if (!Directory.Exists(xmlFolder))
+        {
+            return new List<string>();
+        }
+
+        var xmlFile = Path.Combine(xmlFolder, "ModIdsToFix.xml");
+        if (!File.Exists(xmlFile))
+        {
+            return new List<string>();
+        }
+
+        var xmlDocument = new XmlDocument();
+        xmlDocument.Load(xmlFile);
+
+        var returnValue = new List<string>();
+        var modIds = xmlDocument.GetElementsByTagName("li");
+        foreach (XmlNode modId in modIds)
+        {
+            returnValue.Add(modId.InnerText);
+        }
+
+        return returnValue;
     }
 }

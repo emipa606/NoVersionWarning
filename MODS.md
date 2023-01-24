@@ -89,6 +89,16 @@
 - [Storage Solutions](https://steamcommunity.com/sharedfiles/filedetails/?id=895944018)
 - [Production reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2257451032)
 - [Candy Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2823792295)
+- [[JPT] Fertile Fields Makeover](https://steamcommunity.com/sharedfiles/filedetails/?id=1653937715)
+- [Royalty Textures Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2062377912)
+- [Anima Obelisk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2825920536)
+- [LongRangePodLauncher](https://steamcommunity.com/sharedfiles/filedetails/?id=819435604)
+- [Ideology Simplified - Raider](https://steamcommunity.com/sharedfiles/filedetails/?id=2649132044)
+- [Ideology Simplified - Rancher](https://steamcommunity.com/sharedfiles/filedetails/?id=2649504237)
+- [Ideology Simplified - Tree Connection](https://steamcommunity.com/sharedfiles/filedetails/?id=2650109123)
+- [Easy Conversions](https://steamcommunity.com/sharedfiles/filedetails/?id=2657451776)
+- [Add Extract Skull Designator](https://steamcommunity.com/sharedfiles/filedetails/?id=2656105761)
+- [No Edge Fade](https://steamcommunity.com/sharedfiles/filedetails/?id=2027252699)
 
 ## 1.3
 
