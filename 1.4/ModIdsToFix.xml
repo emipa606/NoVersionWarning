@@ -194,4 +194,36 @@
   <li>okthisismyidnow.AddExtractSkullDesignator.Specific</li>
   <!-- No Edge Fade -->
   <li>OkraDonkey.NoEdgeFade</li>
+  <!-- GroThing -->
+  <li>DanDMan.GroThingThings</li>
+  <!-- VWE - Grenades: Reasonable Reloading -->
+  <li>blitzbrigadier.VWEGBG</li>
+  <!-- Psiamin -->
+  <li>Vicaki.Psiamin</li>
+  <!-- AnimalHarvestingSpot ReTexture -->
+  <li>SC.AnimalHarvestingSpotReTexture</li>
+  <!-- Dressers Hold Clothing -->
+  <li>Cozarkian.DressersHoldClothing</li>
+  <!-- Thunder Targeter -->
+  <li>DanDMan.ThunderTargeter</li>
+  <!-- [LCK] Add-On for Vanilla Traits Expanded -->
+  <li>LadyCookie.VTEExpansion</li>
+  <!-- Jabbamonkey's HIRES Graphic Overhaul -->
+  <li>jabbamonkey.graphicoverhaulhires</li>
+  <!-- NO Vanilla Music -->
+  <li>redstonerev.novanmusiconeone</li>
+  <!-- Silver Coins -->
+  <li>SirLalaPyon.SilverCoins</li>
+  <!-- Pawn Badge - (MISC) Job Icons -->
+  <li>LadyElizabeth.Snake.MiscJobRanks</li>
+  <!-- Food Is Food -->
+  <li>Windchime.FoodIsFood</li>
+  <!-- Construction Friendly Infestations -->
+  <li>Sk.cfinfestations</li>
+  <!-- Message 2 Letter -->
+  <li>okthisismyidnow.Message2Letter.Specific</li>
+  <!-- Opened Doors Don't Block Light -->
+  <li>jelly.OpenedDoorsDontBlockLight</li>
+  <!-- No Edge Fade - Lite -->
+  <li>OkraDonkey.NoEdgeFadeLite</li>
 </ModIdsToFix>

@@ -99,6 +99,22 @@
 - [Easy Conversions](https://steamcommunity.com/sharedfiles/filedetails/?id=2657451776)
 - [Add Extract Skull Designator](https://steamcommunity.com/sharedfiles/filedetails/?id=2656105761)
 - [No Edge Fade](https://steamcommunity.com/sharedfiles/filedetails/?id=2027252699)
+- [GroThing](https://steamcommunity.com/sharedfiles/filedetails/?id=2601725655)
+- [VWE - Grenades: Reasonable Reloading](https://steamcommunity.com/sharedfiles/filedetails/?id=2809020793)
+- [Psiamin](https://steamcommunity.com/sharedfiles/filedetails/?id=2585560901)
+- [AnimalHarvestingSpot ReTexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2437966351)
+- [Dressers Hold Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2370445988)
+- [Thunder Targeter](https://steamcommunity.com/sharedfiles/filedetails/?id=2643946873)
+- [[LCK] Add-On for Vanilla Traits Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2634423596)
+- [Jabbamonkey's HIRES Graphic Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2460633890)
+- [NO Vanilla Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2144917507)
+- [Silver Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2483911712)
+- [Pawn Badge - (MISC) Job Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=1734233154)
+- [Food Is Food](https://steamcommunity.com/sharedfiles/filedetails/?id=2586606670)
+- [Construction Friendly Infestations](https://steamcommunity.com/sharedfiles/filedetails/?id=2800047809)
+- [Message 2 Letter](https://steamcommunity.com/sharedfiles/filedetails/?id=2655483454)
+- [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2583820138)
+- [No Edge Fade - Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2048191451)
 
 ## 1.3
 
