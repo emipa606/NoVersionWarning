@@ -198,4 +198,8 @@
   <li>mlph.OpenedDoorsDontBlockLight</li>
   <!-- Timelapse 2000 -->
   <li>co.uk.epicguru.timelapse2000</li>
+  <!-- Soil Relocation - Composter Addon (VEF Version) -->
+  <li>Wolf478.WolfsCompostAddon.VEFVersion</li>
+  <!-- Polyamory Gloomy Bed -->
+  <li>hutgoose.polyamorygloomybed</li>
 </ModIdsToFix>

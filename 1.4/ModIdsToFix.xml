@@ -226,4 +226,20 @@
   <li>jelly.OpenedDoorsDontBlockLight</li>
   <!-- No Edge Fade - Lite -->
   <li>OkraDonkey.NoEdgeFadeLite</li>
+  <!-- [1.3] WoodLog to WoodPlanks -->
+  <li>walkingproblem.woodplanks</li>
+  <!-- Glowstone -->
+  <li>Mantrasong.Glowstone.1</li>
+  <!-- Silent Sleep Accelerators -->
+  <li>metasynthetic.SilentSleepAccelerators</li>
+  <!-- Animal Filth? Don't Care -->
+  <li>animalfilthdontcare.1trickPonyta</li>
+  <!-- Polyamory Gloomy Bed -->
+  <li>hutgoose.polyamorygloomybed</li>
+  <!-- Jurrets -->
+  <li>DanDMan.JurretTurrets</li>
+  <!-- YeetBlades -->
+  <li>DanDMan.YEETBlades</li>
+  <!-- Safe Pause -->
+  <li>likeafox.rimworld.safepause</li>
 </ModIdsToFix>

@@ -115,6 +115,14 @@
 - [Message 2 Letter](https://steamcommunity.com/sharedfiles/filedetails/?id=2655483454)
 - [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2583820138)
 - [No Edge Fade - Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2048191451)
+- [[1.3] WoodLog to WoodPlanks](https://steamcommunity.com/sharedfiles/filedetails/?id=1621766001)
+- [Glowstone](https://steamcommunity.com/sharedfiles/filedetails/?id=1545160307)
+- [Silent Sleep Accelerators](https://steamcommunity.com/sharedfiles/filedetails/?id=2582185182)
+- [Animal Filth? Don't Care](https://steamcommunity.com/sharedfiles/filedetails/?id=2573432875)
+- [Polyamory Gloomy Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2416237058)
+- [Jurrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2627565110)
+- [YeetBlades](https://steamcommunity.com/sharedfiles/filedetails/?id=2578297107)
+- [Safe Pause](https://steamcommunity.com/sharedfiles/filedetails/?id=1551734715)
 
 ## 1.3
 
@@ -217,3 +225,5 @@
 - [Commercial Server 1.1](https://steamcommunity.com/sharedfiles/filedetails/?id=2009769986)
 - [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1750069106)
 - [Timelapse 2000](https://steamcommunity.com/sharedfiles/filedetails/?id=1930819411)
+- [Soil Relocation - Composter Addon (VEF Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=2778773000)
+- [Polyamory Gloomy Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2416237058)
