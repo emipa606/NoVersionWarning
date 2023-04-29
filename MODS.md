@@ -123,6 +123,21 @@
 - [Jurrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2627565110)
 - [YeetBlades](https://steamcommunity.com/sharedfiles/filedetails/?id=2578297107)
 - [Safe Pause](https://steamcommunity.com/sharedfiles/filedetails/?id=1551734715)
+- [Vanilla RT Solar Flare Shield Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=1941652952)
+- [[KYD] More Pawns Get Prosthetics!](https://steamcommunity.com/sharedfiles/filedetails/?id=2268226864)
+- [Vanilla Faction Expanded - better textures and pawnkinds](https://steamcommunity.com/sharedfiles/filedetails/?id=2613207747)
+- [Thog's Guns - Lead and Powder Pack REPRIMED](https://steamcommunity.com/sharedfiles/filedetails/?id=2785178595)
+- [BlindsightWorks](https://steamcommunity.com/sharedfiles/filedetails/?id=2560622116)
+- [Random Icon Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2559389824)
+- [Ancient Eastern Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=2393395676)
+- [[WD] Partially-Passable Wind Turbines](https://steamcommunity.com/sharedfiles/filedetails/?id=1621527381)
+- [Steampunk: Just Brass](https://steamcommunity.com/sharedfiles/filedetails/?id=2708155857)
+- [No Restrictions on Faction Ideologies](https://steamcommunity.com/sharedfiles/filedetails/?id=2648808175)
+- [Pawns Drool!](https://steamcommunity.com/sharedfiles/filedetails/?id=2103124583)
+- [[CZK] SeedsPlease Lite - Seeds Bench Restored](https://steamcommunity.com/sharedfiles/filedetails/?id=2604792119)
+- [Gallatross Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2848181058)
+- [Precious Coins Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2168263363)
+- [Animal Hide Walls Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2578005213)
 
 ## 1.3
 
