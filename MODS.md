@@ -138,6 +138,14 @@
 - [Gallatross Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2848181058)
 - [Precious Coins Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2168263363)
 - [Animal Hide Walls Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2578005213)
+- [Winter Taiga Biome](https://steamcommunity.com/sharedfiles/filedetails/?id=2793410549)
+- [Anti-Septic Smell Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2639653385)
+- [Glow Pod Drop Jelly when deconstructed](https://steamcommunity.com/sharedfiles/filedetails/?id=2687799979)
+- [Translucent Glasses (VAE)](https://steamcommunity.com/sharedfiles/filedetails/?id=2461885737)
+- [[CM] Vanilla W2X Upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=2603638251)
+- [[CZK] Combat Training ReTextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2592769651)
+- [[CZK] Textures - Enhanced Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2592769472)
+- [[CZK] Textures - Eyepatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2592769267)
 
 ## 1.3
 

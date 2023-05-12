@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.4.17 - Added some more supported mods
+
+
 1.4.16 - Added a bunch of supported mods
 
 

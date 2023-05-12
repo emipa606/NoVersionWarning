@@ -272,4 +272,20 @@
   <li>Macro98.PreciousCoinsRetexture</li>
   <!-- Animal Hide Walls Retextured -->
   <li>Smoopadoop.TentRetexture</li>
+  <!-- Winter Taiga Biome -->
+  <li>reel.FrozenForest</li>
+  <!-- Anti-Septic Smell Patch -->
+  <li>Awan.Antisepsis.Patch</li>
+  <!-- Glow Pod Drop Jelly when deconstructed -->
+  <li>Ripmorld.GlowPodDeconstuct</li>
+  <!-- Translucent Glasses (VAE) -->
+  <li>Crudbone.TranslucentGlasses</li>
+  <!-- [CM] Vanilla W2X Upscale -->
+  <li>CM.VanillaTextures.Upscale</li>
+  <!-- [CZK] Combat Training ReTextured -->
+  <li>CZK.retextured.combattraining</li>
+  <!-- [CZK] Textures - Enhanced Eyes -->
+  <li>CZK.retextured.biotecheyes</li>
+  <!-- [CZK] Textures - Eyepatch -->
+  <li>CZK.retextured.eyepatch</li>
 </ModIdsToFix>
