@@ -116,7 +116,6 @@
 - [Opened Doors Don't Block Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2583820138)
 - [No Edge Fade - Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2048191451)
 - [[1.3] WoodLog to WoodPlanks](https://steamcommunity.com/sharedfiles/filedetails/?id=1621766001)
-- [Glowstone](https://steamcommunity.com/sharedfiles/filedetails/?id=1545160307)
 - [Silent Sleep Accelerators](https://steamcommunity.com/sharedfiles/filedetails/?id=2582185182)
 - [Animal Filth? Don't Care](https://steamcommunity.com/sharedfiles/filedetails/?id=2573432875)
 - [Polyamory Gloomy Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2416237058)
@@ -146,6 +145,14 @@
 - [[CZK] Combat Training ReTextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2592769651)
 - [[CZK] Textures - Enhanced Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2592769472)
 - [[CZK] Textures - Eyepatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2592769267)
+- [[FSF] Improved Ship Reactors](https://steamcommunity.com/sharedfiles/filedetails/?id=817349848)
+- [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
+- [Wolfs GauMedicine](https://steamcommunity.com/sharedfiles/filedetails/?id=2788115190)
+- [Psy-Eltex](https://steamcommunity.com/sharedfiles/filedetails/?id=2366166093)
+- [Mending Medieval](https://steamcommunity.com/sharedfiles/filedetails/?id=1880329210)
+- [[SC]Thrumbo Horn Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2382320670)
+- [Extract Tree Order](https://steamcommunity.com/sharedfiles/filedetails/?id=2583031446)
+- [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 
 ## 1.3
 

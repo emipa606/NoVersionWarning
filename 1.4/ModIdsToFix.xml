@@ -228,8 +228,6 @@
   <li>OkraDonkey.NoEdgeFadeLite</li>
   <!-- [1.3] WoodLog to WoodPlanks -->
   <li>walkingproblem.woodplanks</li>
-  <!-- Glowstone -->
-  <li>Mantrasong.Glowstone.1</li>
   <!-- Silent Sleep Accelerators -->
   <li>metasynthetic.SilentSleepAccelerators</li>
   <!-- Animal Filth? Don't Care -->
@@ -288,4 +286,20 @@
   <li>CZK.retextured.biotecheyes</li>
   <!-- [CZK] Textures - Eyepatch -->
   <li>CZK.retextured.eyepatch</li>
+  <!-- [FSF] Improved Ship Reactors -->
+  <li>FrozenSnowFox.ImprovedShipReactors</li>
+  <!-- TasteOfVanilla-ish Hotspring Retexture -->
+  <li>ICC.TOV.HS</li>
+  <!-- Wolfs GauMedicine -->
+  <li>Wolf478.GauMedicine</li>
+  <!-- Psy-Eltex -->
+  <li>xelnigma.psyeltex</li>
+  <!-- Mending Medieval -->
+  <li>bishop.mendingmedieval</li>
+  <!-- [SC]Thrumbo Horn Weapons -->
+  <li>Si.ThrumboHornWeapons</li>
+  <!-- Extract Tree Order -->
+  <li>Certainty.DesignateExtract</li>
+  <!-- Baby muffalo is Muffalump -->
+  <li>Baby.Muffalump</li>
 </ModIdsToFix>

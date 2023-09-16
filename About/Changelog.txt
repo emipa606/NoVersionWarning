@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.4.18 - Added some more reported mods as well as removed Glowstones as it was not error-free
+
+
 1.4.17 - Added some more supported mods
 
 
