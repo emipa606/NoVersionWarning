@@ -164,6 +164,8 @@
 - [HyArchitect](https://steamcommunity.com/sharedfiles/filedetails/?id=2861857488)
 - [Animal Flap Speed Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2555973793)
 - [Frostshards](https://steamcommunity.com/sharedfiles/filedetails/?id=2492309287)
+- [SRTS Expanded: RotorCraft](https://steamcommunity.com/sharedfiles/filedetails/?id=2156088844)
+- [Terran Ships for SRTS](https://steamcommunity.com/sharedfiles/filedetails/?id=2290585690)
 
 ## 1.3
 

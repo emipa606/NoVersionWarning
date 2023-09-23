@@ -324,4 +324,8 @@
   <li>cucumpear.flap</li>
   <!-- Frostshards -->
   <li>Myfharad.Frostshards</li>
+  <!-- SRTS Expanded: RotorCraft -->
+  <li>Shazbot.SRTS.RC</li>
+  <!-- Terran Ships for SRTS -->
+  <li>Khaydar.SRTS.TerranShips_copy</li>
 </ModIdsToFix>
