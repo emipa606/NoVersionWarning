@@ -302,4 +302,26 @@
   <li>Certainty.DesignateExtract</li>
   <!-- Baby muffalo is Muffalump -->
   <li>Baby.Muffalump</li>
+  <!-- Waste In Space -->
+  <li>Nolabritt.WasteInSpace</li>
+  <!-- Darkest hour (Night Only) -->
+  <li>DimonSever000.DarkestHourNight.Specific</li>
+  <!-- Less Beer Addiction -->
+  <li>SquirtingElephant.LessBeerAddiction</li>
+  <!-- Super Multi-Analyzer -->
+  <li>PKPenguin.SuperAnalyzer</li>
+  <!-- Evt Floors -->
+  <li>everytea.floors</li>
+  <!-- Catharsis Buff -->
+  <li>squid.catharsis</li>
+  <!-- Thinking Spot -->
+  <li>PartyCowboy.ThinkingSpot</li>
+  <!-- Fire Treated Wood -->
+  <li>neceros.firetreatedwood</li>
+  <!-- HyArchitect -->
+  <li>HyArchitect.ID</li>
+  <!-- Animal Flap Speed Fix -->
+  <li>cucumpear.flap</li>
+  <!-- Frostshards -->
+  <li>Myfharad.Frostshards</li>
 </ModIdsToFix>

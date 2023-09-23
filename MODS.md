@@ -153,6 +153,17 @@
 - [[SC]Thrumbo Horn Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2382320670)
 - [Extract Tree Order](https://steamcommunity.com/sharedfiles/filedetails/?id=2583031446)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
+- [Waste In Space](https://steamcommunity.com/sharedfiles/filedetails/?id=2192282869)
+- [Darkest hour (Night Only)](https://steamcommunity.com/sharedfiles/filedetails/?id=2222109772)
+- [Less Beer Addiction](https://steamcommunity.com/sharedfiles/filedetails/?id=2009275772)
+- [Super Multi-Analyzer](https://steamcommunity.com/sharedfiles/filedetails/?id=2091451553)
+- [Evt Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=1792420593)
+- [Catharsis Buff](https://steamcommunity.com/sharedfiles/filedetails/?id=2565508271)
+- [Thinking Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=1819265371)
+- [Fire Treated Wood](https://steamcommunity.com/sharedfiles/filedetails/?id=1854329145)
+- [HyArchitect](https://steamcommunity.com/sharedfiles/filedetails/?id=2861857488)
+- [Animal Flap Speed Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2555973793)
+- [Frostshards](https://steamcommunity.com/sharedfiles/filedetails/?id=2492309287)
 
 ## 1.3
 
