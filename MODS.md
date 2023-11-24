@@ -166,6 +166,10 @@
 - [Frostshards](https://steamcommunity.com/sharedfiles/filedetails/?id=2492309287)
 - [SRTS Expanded: RotorCraft](https://steamcommunity.com/sharedfiles/filedetails/?id=2156088844)
 - [Terran Ships for SRTS](https://steamcommunity.com/sharedfiles/filedetails/?id=2290585690)
+- [Vanilla Textures Expanded - Save Our Ship 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2805433179)
+- [no disturbed sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=1402856775)
+- [Invisible Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=2013416365)
+- [Wealth Display](https://steamcommunity.com/sharedfiles/filedetails/?id=2376329775)
 
 ## 1.3
 
