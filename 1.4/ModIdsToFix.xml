@@ -336,4 +336,16 @@
   <li>zzz.invisibleconduit</li>
   <!-- Wealth Display -->
   <li>heye.wealthdisplay</li>
+  <!-- Collars Aren't Clothes! -->
+  <li>artsyanthony.collarsnotclothes</li>
+  <!-- [BLD] Quantum Cooling Redux -->
+  <li>Alaestor.QuantumCooling</li>
+  <!-- Glowstone -->
+  <li>Mantrasong.Glowstone.1</li>
+  <!-- Chipboard -->
+  <li>OptimusPrimordial.Chipboard</li>
+  <!-- Lasting Flowers -->
+  <li>neceros.lastingflowers</li>
+  <!-- DH Additional Augments -->
+  <li>DigitalHare.AdditionalAugments</li>
 </ModIdsToFix>

@@ -170,6 +170,12 @@
 - [no disturbed sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=1402856775)
 - [Invisible Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=2013416365)
 - [Wealth Display](https://steamcommunity.com/sharedfiles/filedetails/?id=2376329775)
+- [Collars Aren't Clothes!](https://steamcommunity.com/sharedfiles/filedetails/?id=2620383977)
+- [[BLD] Quantum Cooling Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296)
+- [Glowstone](https://steamcommunity.com/sharedfiles/filedetails/?id=1545160307)
+- [Chipboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2459845101)
+- [Lasting Flowers](https://steamcommunity.com/sharedfiles/filedetails/?id=1911299809)
+- [DH Additional Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=2809181660)
 
 ## 1.3
 
