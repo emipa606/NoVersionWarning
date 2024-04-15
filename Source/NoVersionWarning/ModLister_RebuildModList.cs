@@ -3,7 +3,7 @@ using Verse;
 
 namespace NoVersionWarning;
 
-[HarmonyPatch(typeof(ModLister), "RebuildModList")]
+[HarmonyPatch(typeof(ModLister), nameof(ModLister.RebuildModList))]
 public static class ModLister_RebuildModList
 {
     [HarmonyPostfix]
@@ -31,7 +31,7 @@ public static class ModLister_RebuildModList
 
             modInfo.meta.SupportedVersions.Add(Main.currentVersion);
             modInfo.meta.description =
-                $"<color=yellow>Version-tag {Main.currentVersion.Major}.{Main.currentVersion.Minor} added by No Version Warning-mod</color>\n\n{modInfo.meta.description}";
+                $"<color=yellow>{"NVW.TagAdded".Translate($"{Main.currentVersion.Major}.{Main.currentVersion.Minor}")}</color>\n\n{modInfo.meta.description}";
 
             Main.updatedMods.Add(modInfo.Name);
         }

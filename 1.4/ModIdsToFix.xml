@@ -348,4 +348,36 @@
   <li>neceros.lastingflowers</li>
   <!-- DH Additional Augments -->
   <li>DigitalHare.AdditionalAugments</li>
+  <!-- More Components -->
+  <li>neceros.morecomponents</li>
+  <!-- Ambrosia Uproot -->
+  <li>Katte.AmbrosiaUproot</li>
+  <!-- [LTO] Texture Overhaul -->
+  <li>DerekBickley.LegacyTextureOverhaulfinal</li>
+  <!-- Construction Breakup -->
+  <li>br410bury.BreakupConstruction</li>
+  <!-- Optimized Leather -->
+  <li>trublucaribou.OptimizedLeather</li>
+  <!-- removeable psychics -->
+  <li>5katz.removepsychics</li>
+  <!-- Xen's XP Fixer -->
+  <li>Xen.XPFixer</li>
+  <!-- High Density Hydroponics Realism Patch -->
+  <li>romancase.hdhrp</li>
+  <!-- ExoHead -->
+  <li>mcminox.EXOHEAD_copy</li>
+  <!-- Farming Breakup -->
+  <li>br410bury.BreakupFarming</li>
+  <!-- Cooking Breakup -->
+  <li>br410bury.BreakupCooking</li>
+  <!-- Quality Matters -->
+  <li>Phlivan.QualityMatters</li>
+  <!-- Pawns are Drowning (1.3 Update) -->
+  <li>123nick.PawnsAreDrowning</li>
+  <!-- [JPT] Clean My Buttons -->
+  <li>JPT.CleanButtons</li>
+  <!-- Trainers, Serum, and AI Crafting -->
+  <li>Noromyx.TrainersSerumAICrafting</li>
+  <!-- unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics -->
+  <li>Blake.EliteBionicFrameworkArchotechExpandedProsthetics</li>
 </ModIdsToFix>

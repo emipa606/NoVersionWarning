@@ -202,4 +202,16 @@
   <li>Wolf478.WolfsCompostAddon.VEFVersion</li>
   <!-- Polyamory Gloomy Bed -->
   <li>hutgoose.polyamorygloomybed</li>
+  <!-- VFE: Mechanoids - Quarry Compatability Patch -->
+  <li>Silver.VFEMQuarryPatch</li>
+  <!-- Optimized Leather -->
+  <li>trublucaribou.OptimizedLeather</li>
+  <!-- Autoinjectors -->
+  <li>BFAnri.Autoinjectors</li>
+  <!-- Xen's XP Fixer -->
+  <li>Xen.XPFixer</li>
+  <!-- Better Mood Descriptions -->
+  <li>carlarc.BetterMoodDescriptions</li>
+  <!-- unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics -->
+  <li>Blake.EliteBionicFrameworkArchotechExpandedProsthetics</li>
 </ModIdsToFix>

@@ -1,5 +1,13 @@
 # Currently covered mods
 
+## 1.5
+
+- [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
+- [Hidden Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2590369351)
+- [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
+- [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
+- [CleaningStation](https://steamcommunity.com/sharedfiles/filedetails/?id=1541893512)
+
 ## 1.4
 
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
@@ -176,9 +184,23 @@
 - [Chipboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2459845101)
 - [Lasting Flowers](https://steamcommunity.com/sharedfiles/filedetails/?id=1911299809)
 - [DH Additional Augments](https://steamcommunity.com/sharedfiles/filedetails/?id=2809181660)
-
+- [More Components](https://steamcommunity.com/sharedfiles/filedetails/?id=1254970979)
+- [Ambrosia Uproot](https://steamcommunity.com/sharedfiles/filedetails/?id=2701864546)
+- [[LTO] Texture Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2300663137)
+- [Construction Breakup](https://steamcommunity.com/sharedfiles/filedetails/?id=2557334454)
+- [Optimized Leather](https://steamcommunity.com/sharedfiles/filedetails/?id=2252798130)
+- [removeable psychics](https://steamcommunity.com/sharedfiles/filedetails/?id=2110931217)
+- [Xen's XP Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=947140943)
+- [High Density Hydroponics Realism Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2602192339)
+- [ExoHead](https://steamcommunity.com/sharedfiles/filedetails/?id=2515379509)
+- [Farming Breakup](https://steamcommunity.com/sharedfiles/filedetails/?id=2557473948)
+- [Cooking Breakup](https://steamcommunity.com/sharedfiles/filedetails/?id=2557474326)
+- [Quality Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2585864821)
+- [Pawns are Drowning (1.3 Update)](https://steamcommunity.com/sharedfiles/filedetails/?id=2594967723)
+- [[JPT] Clean My Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2480050136)
+- [Trainers, Serum, and AI Crafting](https://steamcommunity.com/sharedfiles/filedetails/?id=2589534007)
+- [unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1746071278)
 ## 1.3
-
 - [UN-Colony [1.2]](https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003)
 - [Outdoor Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=1545708330)
 - [Prosthetic No Missing Body Parts](https://steamcommunity.com/sharedfiles/filedetails/?id=2103563425)
@@ -280,3 +302,9 @@
 - [Timelapse 2000](https://steamcommunity.com/sharedfiles/filedetails/?id=1930819411)
 - [Soil Relocation - Composter Addon (VEF Version)](https://steamcommunity.com/sharedfiles/filedetails/?id=2778773000)
 - [Polyamory Gloomy Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2416237058)
+- [VFE: Mechanoids - Quarry Compatability Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2502561617)
+- [Optimized Leather](https://steamcommunity.com/sharedfiles/filedetails/?id=2252798130)
+- [Autoinjectors](https://steamcommunity.com/sharedfiles/filedetails/?id=2239914457)
+- [Xen's XP Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=947140943)
+- [Better Mood Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2063386985)
+- [unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1746071278)

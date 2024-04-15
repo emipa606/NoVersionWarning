@@ -1,18 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <OutputPath>..\..\1.4\Assemblies</OutputPath>
+    <OutputPath>..\..\1.5\Assemblies</OutputPath>
     <TargetFramework>net48</TargetFramework>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
     <DebugType>None</DebugType>
     <LangVersion>latest</LangVersion>
-    <FileVersion>1.4.21</FileVersion>
+    <FileVersion>1.5.0</FileVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Krafs.Publicizer" Version="*">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
     <PackageReference Include="Krafs.Rimworld.Ref">
       <Version>*</Version>
       <ExcludeAssets>runtime</ExcludeAssets>
@@ -22,8 +18,10 @@
       <Version>*</Version>
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
-  </ItemGroup>
-  <ItemGroup>
+    <PackageReference Include="Krafs.Publicizer" Version="*">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <Publicize Include="Assembly-CSharp" />
   </ItemGroup>
 </Project>

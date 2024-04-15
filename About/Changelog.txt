@@ -1,5 +1,9 @@
 # Changelog for NoVersionWarning
 
+1.5.0 - Updated for 1.5
+Used DeepL to update translations for ChineseSimplified, French, German
+
+
 1.4.22 - Added support for a few more mods
 
 

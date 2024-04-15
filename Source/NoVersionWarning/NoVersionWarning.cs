@@ -28,7 +28,7 @@ public class NoVersionWarningMod : Mod
         }
 
         Main.currentVersion = new Version(currentVersionString);
-        Main.updatedMods = new HashSet<string>();
+        Main.updatedMods = [];
         Main.modIdsToUpdate = fixedIdsIn();
 
         if (!Main.modIdsToUpdate.Any())
@@ -46,13 +46,13 @@ public class NoVersionWarningMod : Mod
         var xmlFolder = Path.Combine(Content.RootDir, Main.currentVersion.ToString());
         if (!Directory.Exists(xmlFolder))
         {
-            return new List<string>();
+            return [];
         }
 
         var xmlFile = Path.Combine(xmlFolder, "ModIdsToFix.xml");
         if (!File.Exists(xmlFile))
         {
-            return new List<string>();
+            return [];
         }
 
         var xmlDocument = new XmlDocument();
