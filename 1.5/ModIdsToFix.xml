@@ -10,4 +10,54 @@
   <li>neceros.givememeat</li>
   <!-- CleaningStation -->
   <li>navyseal5.CleaningStation</li>
+  <!-- Animals Forage -->
+  <li>Simmin.AnimalsForage</li>
+  <!-- Better Scenario Research and Tech Level Options -->
+  <li>largemoron.betterscenarioresearch</li>
+  <!-- Style Revised - Animalist -->
+  <li>StyleRevised.Animalist</li>
+  <!-- Bill Doors' Wall Mounted Turret Retexture -->
+  <li>3HSTltd.WMTRetex</li>
+  <!-- Glowstone -->
+  <li>Mantrasong.Glowstone.1</li>
+  <!-- Animal Namer -->
+  <li>onceupon2635.AnimalNamer</li>
+  <!-- Character Editor Retextured -->
+  <li>Neronix17.Retexture.CharacterEditor</li>
+  <!-- [LTo] Water -->
+  <li>DerekBickley.LTOTerrainWaterOnly</li>
+  <!-- Door Clearance -->
+  <li>Owlchemist.DoorClearance</li>
+  <!-- Psychically Deaf Mechanitor -->
+  <li>BoostHungry.PsychicallyDeafMechanitor</li>
+  <!-- Vanilla Plants Expanded : All Trees All Biomes Optional Patch -->
+  <li>be37.VPE.ATABP</li>
+  <!-- Don't Block Door -->
+  <li>tikubonn.DontBlockDoor</li>
+  <!-- RenameColony -->
+  <li>weilbyte.renamecolony</li>
+  <!-- Fixable Mood Debuffs Alert -->
+  <li>fyarn.FixableMoodDebuffsAlert</li>
+  <!-- TribalInstruments Retexture -->
+  <li>ghost.tribalinstrumentsretex</li>
+  <!-- Bradson's Main Button Icons for VE Textures -->
+  <li>bs.mbifvte</li>
+  <!-- Outposts No Mineable Plasteel and Components -->
+  <li>MysticFelines.VOE.noplasteelnocompmonentmining</li>
+  <!-- Prisoner Recreation -->
+  <li>BerryRagepyre.PrisonerRecreation</li>
+  <!-- SF Grim Reality -->
+  <li>SF.Grim.Reality</li>
+  <!-- Adobe Abode -->
+  <li>JKN.AdobeAbode</li>
+  <!-- Weight price -->
+  <li>deivisis.weightprice</li>
+  <!-- Simple FX: Vapor -->
+  <li>Owlchemist.SimpleFX.Vapor</li>
+  <!-- UI Retexture -->
+  <li>Katsudon.UIRetexture</li>
+  <!-- UI Button Retexture -->
+  <li>Katsudon.UIButtonRetexture</li>
+  <!-- Candy Hairs -->
+  <li>Candycorn.CandyHairs</li>
 </ModIdsToFix>

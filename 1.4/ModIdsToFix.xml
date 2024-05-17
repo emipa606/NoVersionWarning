@@ -172,8 +172,6 @@
   <li>cucumpear.storage</li>
   <!-- Production reskin -->
   <li>cattleya.productionreskin</li>
-  <!-- Candy Hairs -->
-  <li>Candycorn.CandyHairs</li>
   <!-- [JPT] Fertile Fields Makeover -->
   <li>JPT.FertileFieldsMakeover</li>
   <!-- Royalty Textures Expanded -->
@@ -380,4 +378,8 @@
   <li>Noromyx.TrainersSerumAICrafting</li>
   <!-- unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics -->
   <li>Blake.EliteBionicFrameworkArchotechExpandedProsthetics</li>
+  <!-- Craftable Psychics -->
+  <li>Ruddygreat.Craftablepsy</li>
+  <!-- Infused 2 Expansion -->
+  <li>jemlpro.Infusion2Expansion</li>
 </ModIdsToFix>
