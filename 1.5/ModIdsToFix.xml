@@ -54,10 +54,50 @@
   <li>deivisis.weightprice</li>
   <!-- Simple FX: Vapor -->
   <li>Owlchemist.SimpleFX.Vapor</li>
-  <!-- UI Retexture -->
-  <li>Katsudon.UIRetexture</li>
   <!-- UI Button Retexture -->
   <li>Katsudon.UIButtonRetexture</li>
   <!-- Candy Hairs -->
   <li>Candycorn.CandyHairs</li>
+  <!-- Better Ground Textures? -->
+  <li>Fissure.BetterGroundTextures</li>
+  <!-- Follow Me -->
+  <li>Fluffy.FollowMe</li>
+  <!-- Non-Functional Prosthetics -->
+  <li>stormshark.nfprosthetics</li>
+  <!-- Easy Speedup -->
+  <li>fyarn.EasySpeedup</li>
+  <!-- Perfect Pathfinding -->
+  <li>jp.perfectpathing</li>
+  <!-- Barely Better Spots -->
+  <li>Owlchemist.BarelyBetterSpots</li>
+  <!-- Wild Reproduction -->
+  <li>dninemfive.wildreproduction</li>
+  <!-- [CM] Biotech DLC Texture Upscale -->
+  <li>CM.Ideology.Upscaled2</li>
+  <!-- Auto-Cut Blight -->
+  <li>razor2.3.AnotherRimworldMod.AutoCutBlight</li>
+  <!-- Nutrient Paste Dispenser Command -->
+  <li>PureMJ.MjRimMods.NutrientPasteDispenserCommand</li>
+  <!-- Vee Hairs -->
+  <li>Lat.VeeHair</li>
+  <!-- [NL] Chibi Body -->
+  <li>Nals.ChibiBody</li>
+  <!-- [NL] Chibi Face Female only -->
+  <li>Nals.ChibiFaceFemale</li>
+  <!-- [NL] Chibi Face Male only -->
+  <li>Nals.ChibiFaceMale</li>
+  <!-- Gunlink with helmet -->
+  <li>ABC.GunlinkPatch</li>
+  <!-- Learning Threshold for Learning Job Fix -->
+  <li>Skye.LearningThresholdForLearningJobFix</li>
+  <!-- No Increased Expectations for Ideology Roles -->
+  <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
+  <!-- Power Tools -->
+  <li>Simmin.PowerTools</li>
+  <!-- [1.4] Odz Hairs -->
+  <li>1.3.Odz.Hairs</li>
+  <!-- Wall Vitals Monitor -->
+  <li>zzz.WallVitalsMonitor</li>
+  <!-- Loft Bed -->
+  <li>zed.0xff.LoftBed</li>
 </ModIdsToFix>

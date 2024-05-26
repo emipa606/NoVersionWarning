@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.5.2 - Added verified reported mods, removed one
+
+
 1.5.1 - Added support for a new batch of mods
 
 
