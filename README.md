@@ -9,8 +9,6 @@ Can be put anywhere in the mod-list as it just modifies the mod-list loader.
 
 If you know of a mod that should be added here, leave a link to it and Ill add it. 
 
-Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.
-
 ## [https://github.com/emipa606/NoVersionWarning/blob/main/MODS.md](Currently supported mods)
 
 	

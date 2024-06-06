@@ -29,8 +29,6 @@ Can be put anywhere in the mod-list as it just modifies the mod-list loader.
 
 If you know of a mod that should be added here, leave a link to it and Ill add it. 
 
-Its also possible to add mods to this list for others by adding a ModUpdateTag-def with the mod-ids that the tag should be added to. Please see the ModIdsToFix.xml-file for how this can be done.
-
 [h2][url=https://github.com/emipa606/NoVersionWarning/blob/main/MODS.md]Currently supported mods[/url][/h2]
 
 [table]
@@ -61,5 +59,5 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 [/list]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692][img]https://img.shields.io/github/v/release/emipa606/NoVersionWarning?label=latest%20version&amp;style=plastic&amp;labelColor=0070cd&amp;color=white[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.3</modVersion>
 </ModMetaData>

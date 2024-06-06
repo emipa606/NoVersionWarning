@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.5.3 - Added some more reported mods
+
+
 1.5.2 - Added verified reported mods, removed one
 
 

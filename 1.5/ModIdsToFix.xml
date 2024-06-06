@@ -100,4 +100,44 @@
   <li>zzz.WallVitalsMonitor</li>
   <!-- Loft Bed -->
   <li>zed.0xff.LoftBed</li>
+  <!-- Seed Vault -->
+  <li>espio.seedvault</li>
+  <!-- UI Retexture -->
+  <li>Katsudon.UIRetexture</li>
+  <!-- [JPT] Clean My Buttons -->
+  <li>JPT.CleanButtons</li>
+  <!-- Forgettable Pumps -->
+  <li>Topodic.ForgettablePumps</li>
+  <!-- More Ideological Words -->
+  <li>purpleyam.moreideologicalwords</li>
+  <!-- Xenotype Spawn Control -->
+  <li>bs.xenotypespawncontrol</li>
+  <!-- Wall Decorations -->
+  <li>ucp.WallDecorations</li>
+  <!-- TasteOfVanilla-ish Hotspring Retexture -->
+  <li>ICC.TOV.HS</li>
+  <!-- Textile Stats -->
+  <li>Revolus.TextileStats</li>
+  <!-- Ambition of the Cosmic -->
+  <li>explodoboy.SNSAmbitionCosmic</li>
+  <!-- Settlement Descriptions -->
+  <li>dninemfive.settlementdescription</li>
+  <!-- Venerated Xenotype Flexibility -->
+  <li>ChrisClark13.VeneratedXenotypeFlexibility</li>
+  <!-- Toxic Plants Expanded -->
+  <li>InertialMage.ToxicPlants</li>
+  <!-- Roo's Painting Expansion -->
+  <li>Rooboid.Paintings.Ex</li>
+  <!-- [Ry]Draw a bead -->
+  <li>Ryflamer.Misc.Drawabead</li>
+  <!-- No Refuelling -->
+  <li>sash.NoRefuelling</li>
+  <!-- Sun Lights [1.4+] -->
+  <li>zhrocks11.SunLights_copy</li>
+  <!-- Dubs' Bad Hygiene - More Drinkables -->
+  <li>DBH.DrinkPatches</li>
+  <!-- Polyamory Beds (Vanilla Edition) -->
+  <li>Meltup.PolyamoryBeds.Vanilla</li>
+  <!-- Prisoners Are Not Swines -->
+  <li>bustedbunny.PrisonersAreNotSwines</li>
 </ModIdsToFix>

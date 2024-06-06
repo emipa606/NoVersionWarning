@@ -2,5 +2,7 @@
   "Continued": false,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.5",
+  "SocialImageSet": true,
+  "FundingSet": true
 }
