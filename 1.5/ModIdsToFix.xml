@@ -2,14 +2,10 @@
 <ModIdsToFix>
   <!-- Audrey's Styles: Industrial -->
   <li>AudreysStyles.Industrial</li>
-  <!-- Hidden Eyes -->
-  <li>Cassie.HiddenEyes</li>
   <!-- Agrihand And Cleansweeper Retexture -->
   <li>Pal5k.AgrihandCleansweeperRetexture</li>
   <!-- Give Me Meat -->
   <li>neceros.givememeat</li>
-  <!-- CleaningStation -->
-  <li>navyseal5.CleaningStation</li>
   <!-- Animals Forage -->
   <li>Simmin.AnimalsForage</li>
   <!-- Better Scenario Research and Tech Level Options -->
@@ -22,8 +18,6 @@
   <li>Mantrasong.Glowstone.1</li>
   <!-- Animal Namer -->
   <li>onceupon2635.AnimalNamer</li>
-  <!-- Character Editor Retextured -->
-  <li>Neronix17.Retexture.CharacterEditor</li>
   <!-- [LTo] Water -->
   <li>DerekBickley.LTOTerrainWaterOnly</li>
   <!-- Door Clearance -->
@@ -76,8 +70,6 @@
   <li>CM.Ideology.Upscaled2</li>
   <!-- Auto-Cut Blight -->
   <li>razor2.3.AnotherRimworldMod.AutoCutBlight</li>
-  <!-- Nutrient Paste Dispenser Command -->
-  <li>PureMJ.MjRimMods.NutrientPasteDispenserCommand</li>
   <!-- Vee Hairs -->
   <li>Lat.VeeHair</li>
   <!-- [NL] Chibi Body -->
@@ -112,8 +104,6 @@
   <li>purpleyam.moreideologicalwords</li>
   <!-- Xenotype Spawn Control -->
   <li>bs.xenotypespawncontrol</li>
-  <!-- Wall Decorations -->
-  <li>ucp.WallDecorations</li>
   <!-- TasteOfVanilla-ish Hotspring Retexture -->
   <li>ICC.TOV.HS</li>
   <!-- Textile Stats -->

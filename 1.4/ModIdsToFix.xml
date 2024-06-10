@@ -4,32 +4,14 @@
   <li>StyleRevised.Animalist</li>
   <!-- Better T-Shirt Textures -->
   <li>Crudbone.BetterTShirts</li>
-  <!-- Craftable Glitterworld Medicine -->
-  <li>Vincenty.CraftableGlitterworldMedicine</li>
-  <!-- Heat Map -->
-  <li>falconne.HeatMap</li>
-  <!-- [KV] No Max Bills -->
-  <li>nomaxbills.kv.rw</li>
-  <!-- Vaccines -->
-  <li>sch518.Vaccines</li>
-  <!-- Auto links -->
-  <li>automatic.autolinks</li>
   <!-- Recon Helmet Fix -->
   <li>Crudbone.ReconRetexture</li>
   <!-- Vanilla Parka Retexture (VAE) -->
   <li>Crudbone.ParkaRetexture</li>
-  <!-- Fast Spreading Grass 2.0 -->
-  <li>DantheWAANN.FastSpreadingGrass2.0</li>
-  <!-- Simple Learning -->
-  <li>Fox.SimpleLearning</li>
-  <!-- Stuff on Tables -->
-  <li>Simmin.StuffonTables</li>
   <!-- Magical Freezer -->
   <li>Ysimir.MagicalTemperatures</li>
   <!-- Butchery Counts Meat Types -->
   <li>MrHacky.ButcheryCountsMeatTypes</li>
-  <!-- [SPK] Additional Vanilla Crafting -->
-  <li>SpookieWookie.AdditionalVanillaCrafting</li>
   <!-- Pawn Badge - XCOM Badge -->
   <li>Botaxalim.XcomBadge</li>
   <!-- Pawn Badge - XCOM Ranks -->
@@ -40,48 +22,31 @@
   <li>Djeeshka.CMT.Retexture</li>
   <!-- Comigo's Majestic Trees -->
   <li>ComigoGames.Textures.Trees</li>
-  <!-- Bionic icons -->
-  <li>automatic.bionicicons</li>
-  <!-- UI Button Retexture -->
-  <li>Katsudon.UIButtonRetexture</li>
   <!-- Opened Doors Don't Block Light -->
   <li>mlph.OpenedDoorsDontBlockLight</li>
   <!-- No Lazy Doctors -->
   <li>JBloodthorn.NoLazyDoctors</li>
   <!-- Ritual Chair -->
   <li>Task.RitualChair.zz</li>
-  <!-- [CP] Prisoner Outfit -->
-  <li>CP.Prisoner.Outfit</li>
   <!-- Anima Wood -->
   <li>Ripmorld.AnimaWood</li>
   <!-- Pruning Uses Plant Work Speed -->
   <li>fc.pruningusesplantworkspeed</li>
   <!-- [DBL]Awnings And Roofs -->
   <li>DBL.AwningsAndRoofs</li>
-  <!-- Full Armor - Hands and Feet -->
-  <li>SteveZero.FullArmorHandsFeet</li>
   <!-- Where's the gravel? - Grayscale Edition -->
   <li>faeldray.gravelgray</li>
   <!-- World Map Enhanced -->
   <li>laast.WorldMapEnhanced</li>
-  <!-- Perfect Pathfinding -->
-  <li>jp.perfectpathing</li>
-  <!-- Drape for Hiding -->
-  <li>Drape.forHiding</li>
   <!-- Life Support Continued [1.1+] -->
   <li>Troopersmith1.LifeSupport</li>
   <!-- Show Build Cost -->
-  <li>Cliffyq.ShowBuildCost</li>
   <!-- Ascetics Don't Need Tables -->
   <li>TrahsPanda.ADNT</li>
-  <!-- Condition Matters -->
-  <li>SteveZero.ConditionMatters</li>
   <!-- Ceiling Lights -->
   <li>neceros.ceilinglights</li>
   <!-- The Price is What? -->
   <li>CaptainMuscles.PriceIsWhat</li>
-  <!-- ED-CheatReactor -->
-  <li>Jaxxa.ED.CheatReactor</li>
   <!-- Custom Year and Speed -->
   <li>com.yayo.customYear</li>
   <!-- Fantasy Metals Reforged -->
@@ -98,20 +63,13 @@
   <li>stormknight.outdoorlighting</li>
   <!-- Advanced Polyamory Beds -->
   <li>Inggo.AdvancedPolyBeds</li>
-  <!-- [LTw] Force Field Walls -->
-  <li>DerekBickley.ForceFields</li>
   <!-- [LB] Vanilla Armors Retexture -->
   <li>Lelbaro.VanillaArmorsRetexture.LBVAR</li>
   <!-- [JWL] Fish Hatcheries -->
   <li>jwl.fishhatcheries</li>
-  <!-- Vault-Tec - Handy things for your vault! -->
-  <li>Twink.Vaultfurniture</li>
   <!-- Lanterns -->
   <li>erok.Lanterns</li>
-  <!-- Curb Stone -->
-  <li>SC.CurbStone</li>
   <!-- Absolute Legends Hair -->
-  <li>Absolute.Legends.Hair</li>
   <!-- Impassable Fences -->
   <li>Burusutazu.ImpassableFences</li>
   <!-- VPE - No Tilled Soil -->
@@ -120,8 +78,6 @@
   <li>N0C4P.prophetly01</li>
   <!-- Animal Medical Bed -->
   <li>neceros.animalmedicalbed</li>
-  <!-- MeditateAsWorkType -->
-  <li>maarx.meditateasworktype</li>
   <!-- [CZK] VIE Memes and Structures - Sh*ntao Begone Patch -->
   <li>CZK.VIEMemes.shintaopatch</li>
   <!-- VFE:M Drones Can pick Weapons -->
@@ -132,14 +88,8 @@
   <li>wool.uselesshair</li>
   <!-- Reinforced Walls -->
   <li>neceros.reinforcedwalls</li>
-  <!-- Hidden Eyes -->
-  <li>Cassie.HiddenEyes</li>
   <!-- Infinite Refuelables -->
   <li>OkraDonkey.InfiniteRefuelables</li>
-  <!-- [WD] Simple Concrete -->
-  <li>Wemd.SimpleConcrete</li>
-  <!-- Predictable Deep Drills -->
-  <li>Pausbrak.PredictableDeepDrills</li>
   <!-- Onesies -->
   <li>DanDMan.Onesies</li>
   <!-- Amrita - Age Reversing Serum -->
@@ -150,16 +100,10 @@
   <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
   <!-- Lolidrop's hairshop -->
   <li>Vanya.Agent.LolidropHairshop</li>
-  <!-- Garden Light -->
-  <li>SC.GradenFunitureLight</li>
   <!-- Furniture reskin -->
   <li>cattleya.furniturereskin</li>
   <!-- Flora reskin -->
   <li>cattleya.florareskin</li>
-  <!-- Comigo's Nutrition -->
-  <li>ComigoGames.Miniaturization.Kitchen</li>
-  <!-- Comigo's Bridges and Platforms -->
-  <li>ComigoGames.Water.Bridges</li>
   <!-- [Beta]Anime Hair -->
   <li>Beta.AnimeHair</li>
   <!-- Wheelchairs -->
@@ -168,16 +112,12 @@
   <li>Lat.VeeDeco</li>
   <!-- Vee Hairs -->
   <li>Lat.VeeHair</li>
-  <!-- Storage Solutions -->
-  <li>cucumpear.storage</li>
   <!-- Production reskin -->
   <li>cattleya.productionreskin</li>
   <!-- [JPT] Fertile Fields Makeover -->
   <li>JPT.FertileFieldsMakeover</li>
   <!-- Royalty Textures Expanded -->
   <li>deon.royaltytexturesexpanded</li>
-  <!-- Anima Obelisk Retexture -->
-  <li>MrKociak.AnimaObeliskRetexture</li>
   <!-- LongRangePodLauncher -->
   <li>hatti.longrangepodlauncher</li>
   <!-- Ideology Simplified - Raider -->
@@ -188,24 +128,17 @@
   <li>Slashandz.IdeologySimplifiedTreeConnection</li>
   <!-- Easy Conversions -->
   <li>Slashandz.EasyConversions</li>
-  <!-- Add Extract Skull Designator -->
-  <li>okthisismyidnow.AddExtractSkullDesignator.Specific</li>
   <!-- No Edge Fade -->
   <li>OkraDonkey.NoEdgeFade</li>
   <!-- GroThing -->
   <li>DanDMan.GroThingThings</li>
-  <!-- VWE - Grenades: Reasonable Reloading -->
-  <li>blitzbrigadier.VWEGBG</li>
   <!-- Psiamin -->
   <li>Vicaki.Psiamin</li>
-  <!-- AnimalHarvestingSpot ReTexture -->
-  <li>SC.AnimalHarvestingSpotReTexture</li>
   <!-- Dressers Hold Clothing -->
   <li>Cozarkian.DressersHoldClothing</li>
   <!-- Thunder Targeter -->
   <li>DanDMan.ThunderTargeter</li>
   <!-- [LCK] Add-On for Vanilla Traits Expanded -->
-  <li>LadyCookie.VTEExpansion</li>
   <!-- Jabbamonkey's HIRES Graphic Overhaul -->
   <li>jabbamonkey.graphicoverhaulhires</li>
   <!-- NO Vanilla Music -->
@@ -218,16 +151,12 @@
   <li>Windchime.FoodIsFood</li>
   <!-- Construction Friendly Infestations -->
   <li>Sk.cfinfestations</li>
-  <!-- Message 2 Letter -->
-  <li>okthisismyidnow.Message2Letter.Specific</li>
   <!-- Opened Doors Don't Block Light -->
   <li>jelly.OpenedDoorsDontBlockLight</li>
   <!-- No Edge Fade - Lite -->
   <li>OkraDonkey.NoEdgeFadeLite</li>
   <!-- [1.3] WoodLog to WoodPlanks -->
   <li>walkingproblem.woodplanks</li>
-  <!-- Silent Sleep Accelerators -->
-  <li>metasynthetic.SilentSleepAccelerators</li>
   <!-- Animal Filth? Don't Care -->
   <li>animalfilthdontcare.1trickPonyta</li>
   <!-- Polyamory Gloomy Bed -->
@@ -268,8 +197,6 @@
   <li>Macro98.PreciousCoinsRetexture</li>
   <!-- Animal Hide Walls Retextured -->
   <li>Smoopadoop.TentRetexture</li>
-  <!-- Winter Taiga Biome -->
-  <li>reel.FrozenForest</li>
   <!-- Anti-Septic Smell Patch -->
   <li>Awan.Antisepsis.Patch</li>
   <!-- Glow Pod Drop Jelly when deconstructed -->
@@ -308,8 +235,6 @@
   <li>SquirtingElephant.LessBeerAddiction</li>
   <!-- Super Multi-Analyzer -->
   <li>PKPenguin.SuperAnalyzer</li>
-  <!-- Evt Floors -->
-  <li>everytea.floors</li>
   <!-- Catharsis Buff -->
   <li>squid.catharsis</li>
   <!-- Thinking Spot -->
@@ -318,8 +243,6 @@
   <li>neceros.firetreatedwood</li>
   <!-- HyArchitect -->
   <li>HyArchitect.ID</li>
-  <!-- Animal Flap Speed Fix -->
-  <li>cucumpear.flap</li>
   <!-- Frostshards -->
   <li>Myfharad.Frostshards</li>
   <!-- SRTS Expanded: RotorCraft -->
@@ -344,8 +267,6 @@
   <li>OptimusPrimordial.Chipboard</li>
   <!-- Lasting Flowers -->
   <li>neceros.lastingflowers</li>
-  <!-- DH Additional Augments -->
-  <li>DigitalHare.AdditionalAugments</li>
   <!-- More Components -->
   <li>neceros.morecomponents</li>
   <!-- Ambrosia Uproot -->

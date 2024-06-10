@@ -10,10 +10,7 @@
   <li>maarx.meditateasworktype</li>
   <!-- Synthmeat -->
   <li>nuke.Synthmeat</li>
-  <!-- ED-CheatReactor -->
-  <li>Jaxxa.ED.CheatReactor</li>
   <!-- [1.2] Grenade Fix - Rearmed -->
-  <li>Dingo.GrenadeFixRearmed</li>
   <!-- ClutterDoors -->
   <li>ruyan.doors</li>
   <!-- Pawns Just Don't Die -->
@@ -28,16 +25,10 @@
   <li>Oreno.VFEFarming.DubsBadHygiene</li>
   <!-- Recon & Marine Helmet Visor (abandoned) -->
   <li>Crudbone.ReconRetexture</li>
-  <!-- Pawn Badge - XCOM Badge -->
-  <li>Botaxalim.XcomBadge</li>
   <!-- You've Never Eaten Without a Table -->
   <li>crlsniper.atewithouttable</li>
-  <!-- Don't Steal My Walls! -->
-  <li>Ronco.DontStealMyWalls</li>
   <!-- Tribal Jewelry -->
   <li>TheLamb.tribaljewelry</li>
-  <!-- Gunlink with helmet -->
-  <li>ABC.GunlinkPatch</li>
   <!-- Exotic Arsenal -->
   <li>xedos.arsenalexotic</li>
   <!-- Vanilla Parka Retexture (VAE) (abandoned) -->
@@ -58,10 +49,6 @@
   <li>Nekomancer.GiantTrees</li>
   <!-- More Trade Ships -->
   <li>PinoChemicali.MoreTradeShips</li>
-  <!-- [SYR] More Slaves -->
-  <li>syrchalis.moreslaves</li>
-  <!-- Furnace -->
-  <li>GT.Sam.Furnace</li>
   <!-- Gloomy Extra - Kitchen -->
   <li>Semo583.GloomyHExtraHUHKitchen</li>
   <!-- Stop Insulting Us! -->
@@ -82,18 +69,10 @@
   <li>y1nalin.vfesreinforcedembrasure</li>
   <!-- Baby muffalo is Muffalump -->
   <li>Baby.Muffalump</li>
-  <!-- Linkables Patch -->
-  <li>brat.linkpatch</li>
-  <!-- [CP] Prisoner Outfit -->
-  <li>CP.Prisoner.Outfit</li>
   <!-- Weapon Artwork Removal -->
   <li>Bar0th.WAR</li>
   <!-- Archotech Expanded Prosthetics Lite -->
   <li>Teok25.ArchotechExpanded.Prosthetics.Lite</li>
-  <!-- Gain Skill Passions -->
-  <li>denethor0.gainskillpassions</li>
-  <!-- StuffCount -->
-  <li>ruyan.stuffcount</li>
   <!-- Invisible Conduit -->
   <li>zzz.invisibleconduit</li>
   <!-- Dryxsteel -->
@@ -104,8 +83,6 @@
   <li>ChewyYui.VFEOverwallAC</li>
   <!-- Letter Reorderer -->
   <li>legodude17.letterreorder</li>
-  <!-- Less Rebuff -->
-  <li>Dingo.LessRebuff</li>
   <!-- Vanilla RT Solar Flare Shield Retexture -->
   <li>Phoenix.VanillaSolarSheild</li>
   <!-- Amrita - Age Reversing Serum -->
@@ -146,14 +123,9 @@
   <li>RusticFox.ChickenPlucker.RR</li>
   <!-- Where Are Your Shoes? (Vanilla Apparel Expanded) -->
   <li>Crudbone.WAYS</li>
-  <!-- Floored [1.0+] -->
-  <li>essecoisa.Floored</li>
   <!-- [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons -->
-  <li>brassy.sfguns.vanilla</li>
   <!-- no disturbed sleep -->
   <li>crlsniper.nodisturbedsleep</li>
-  <!-- Penoxycyline Is Medicine -->
-  <li>LWM.PenoxycylineIsMedicine</li>
   <!-- Bless the Devilstrand -->
   <li>daylight.BlessDevilSt</li>
   <!-- Without Steam -->
@@ -162,8 +134,6 @@
   <li>maarx.betternutrientpastedispensercontrols</li>
   <!-- Non-Functional Prosthetics -->
   <li>stormshark.nfprosthetics</li>
-  <!-- Floored - Yellow and Striped Tiles Only [1.0+] -->
-  <li>essecoisa.FlooredYASTO</li>
   <!-- WM Hydroponics with lamps -->
   <li>Wishmaster.HydroponicsWithLamps</li>
   <!-- More Lamps -->
@@ -184,14 +154,10 @@
   <li>neceros.lastingflowers</li>
   <!-- Insulation - Vanilla Textures -->
   <li>codyspring.InsulationVanillaTextures</li>
-  <!-- [WD] Barbed Wire -->
-  <li>Wemd.BarbedWire</li>
   <!-- Palisades -->
   <li>n7huntsman.palisades</li>
   <!-- Never Auto-reset Mods -->
   <li>OkraDonkey.NeverAutoResetMods</li>
-  <!-- ED-Embrasures -->
-  <li>Jaxxa.ED.Embrasures</li>
   <!-- Commercial Server 1.1 -->
   <li>seabass.commercialserver11</li>
   <!-- Opened Doors Don't Block Light -->
