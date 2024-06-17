@@ -16,8 +16,6 @@
   <li>3HSTltd.WMTRetex</li>
   <!-- Glowstone -->
   <li>Mantrasong.Glowstone.1</li>
-  <!-- Animal Namer -->
-  <li>onceupon2635.AnimalNamer</li>
   <!-- [LTo] Water -->
   <li>DerekBickley.LTOTerrainWaterOnly</li>
   <!-- Door Clearance -->
@@ -38,8 +36,6 @@
   <li>bs.mbifvte</li>
   <!-- Outposts No Mineable Plasteel and Components -->
   <li>MysticFelines.VOE.noplasteelnocompmonentmining</li>
-  <!-- Prisoner Recreation -->
-  <li>BerryRagepyre.PrisonerRecreation</li>
   <!-- SF Grim Reality -->
   <li>SF.Grim.Reality</li>
   <!-- Adobe Abode -->
@@ -130,4 +126,30 @@
   <li>Meltup.PolyamoryBeds.Vanilla</li>
   <!-- Prisoners Are Not Swines -->
   <li>bustedbunny.PrisonersAreNotSwines</li>
+  <!-- Rimwave Music -->
+  <li>Rev.RimwaveMusic</li>
+  <!-- Kemetic Apparel -->
+  <li>Sovereign.Elseud</li>
+  <!-- Kemetic Decorations -->
+  <li>Sovereign.Kemet</li>
+  <!-- Quality Colors -->
+  <li>legodude17.qualcolor</li>
+  <!-- Thump Cannon Nerf -->
+  <li>Jiopaba.ThumpNerf</li>
+  <!-- Better Vanilla Masking -->
+  <li>Owlchemist.BetterVanillaMasking</li>
+  <!-- Terrain Zone Selections -->
+  <li>pyrce.terrain.zone.select</li>
+  <!-- Bounded Roof Build Tool -->
+  <li>fyarn.BoundedRoofBuildTool</li>
+  <!-- H.C_AnimalReskins_Complete2 -->
+  <li>HC.AnimalReskins.Complete2</li>
+  <!-- Farmland Regrowth Compatibilitly Patch -->
+  <li>Aura.FarmlandRegrowthPatch</li>
+  <!-- Odz Face Replacer -->
+  <li>Odz.Facereplacer</li>
+  <!-- Passion On Level Up -->
+  <li>Capataina.PassionOnLevelUp</li>
+  <!-- Pawnmorpher Transhumanist -->
+  <li>takel.pawnmorphertranshumanist</li>
 </ModIdsToFix>
