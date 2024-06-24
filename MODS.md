@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -37,8 +35,6 @@
 - [Auto-Cut Blight](https://steamcommunity.com/sharedfiles/filedetails/?id=1885186534)
 - [Vee Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=1655880765)
 - [[NL] Chibi Body](https://steamcommunity.com/sharedfiles/filedetails/?id=1556214130)
-- [[NL] Chibi Face Female only](https://steamcommunity.com/sharedfiles/filedetails/?id=1540475285)
-- [[NL] Chibi Face Male only](https://steamcommunity.com/sharedfiles/filedetails/?id=1562135044)
 - [Gunlink with helmet](https://steamcommunity.com/sharedfiles/filedetails/?id=2500705510)
 - [Learning Threshold for Learning Job Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2886207005)
 - [No Increased Expectations for Ideology Roles](https://steamcommunity.com/sharedfiles/filedetails/?id=2648674904)
@@ -49,7 +45,6 @@
 - [Seed Vault](https://steamcommunity.com/sharedfiles/filedetails/?id=2995930813)
 - [UI Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2978831421)
 - [[JPT] Clean My Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2480050136)
-- [Forgettable Pumps](https://steamcommunity.com/sharedfiles/filedetails/?id=2927123901)
 - [More Ideological Words](https://steamcommunity.com/sharedfiles/filedetails/?id=2643795171)
 - [Xenotype Spawn Control](https://steamcommunity.com/sharedfiles/filedetails/?id=2891975564)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
@@ -78,9 +73,21 @@
 - [Odz Face Replacer](https://steamcommunity.com/sharedfiles/filedetails/?id=2970752861)
 - [Passion On Level Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3013984415)
 - [Pawnmorpher Transhumanist](https://steamcommunity.com/sharedfiles/filedetails/?id=2576751534)
-
+- [Craftable Blindfold](https://steamcommunity.com/sharedfiles/filedetails/?id=3153499698)
+- [Midworld Expanded: Vapes](https://steamcommunity.com/sharedfiles/filedetails/?id=2485064102)
+- [Bulk Carrier](https://steamcommunity.com/sharedfiles/filedetails/?id=1428989232)
+- [Passable (and Hefty) Vanilla Chemfuel Expanded Buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=2861276960)
+- [Jelly Farm 1.4](https://steamcommunity.com/sharedfiles/filedetails/?id=1363721847)
+- [Practical Pemmican](https://steamcommunity.com/sharedfiles/filedetails/?id=2761817611)
+- [Onesies](https://steamcommunity.com/sharedfiles/filedetails/?id=2684458397)
+- [Pawns Use Fire Extinguishers](https://steamcommunity.com/sharedfiles/filedetails/?id=2397915519)
+- [Quality Cooldown](https://steamcommunity.com/sharedfiles/filedetails/?id=1543069597)
+- [Pawn Badge - XCOM Ranks](https://steamcommunity.com/sharedfiles/filedetails/?id=2133895611)
+- [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
+- [World Map Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2523248314)
+- [Faux's Xenotype Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2906847036)
+- [1.3/Ideology Wound Remover](https://steamcommunity.com/sharedfiles/filedetails/?id=2839444849)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
@@ -115,7 +122,6 @@
 - [[LB] Vanilla Armors Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2109725521)
 - [[JWL] Fish Hatcheries](https://steamcommunity.com/sharedfiles/filedetails/?id=2664319970)
 - [Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=2711383738)
-- [Absolute Legends Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2195744587)
 - [Impassable Fences](https://steamcommunity.com/sharedfiles/filedetails/?id=2555094352)
 - [VPE - No Tilled Soil](https://steamcommunity.com/sharedfiles/filedetails/?id=2165594621)
 - [Pop Growth](https://steamcommunity.com/sharedfiles/filedetails/?id=2243265739)

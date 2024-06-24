@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
   <!-- Audrey's Styles: Industrial -->
   <li>AudreysStyles.Industrial</li>
@@ -70,10 +70,6 @@
   <li>Lat.VeeHair</li>
   <!-- [NL] Chibi Body -->
   <li>Nals.ChibiBody</li>
-  <!-- [NL] Chibi Face Female only -->
-  <li>Nals.ChibiFaceFemale</li>
-  <!-- [NL] Chibi Face Male only -->
-  <li>Nals.ChibiFaceMale</li>
   <!-- Gunlink with helmet -->
   <li>ABC.GunlinkPatch</li>
   <!-- Learning Threshold for Learning Job Fix -->
@@ -94,8 +90,6 @@
   <li>Katsudon.UIRetexture</li>
   <!-- [JPT] Clean My Buttons -->
   <li>JPT.CleanButtons</li>
-  <!-- Forgettable Pumps -->
-  <li>Topodic.ForgettablePumps</li>
   <!-- More Ideological Words -->
   <li>purpleyam.moreideologicalwords</li>
   <!-- Xenotype Spawn Control -->
@@ -152,4 +146,32 @@
   <li>Capataina.PassionOnLevelUp</li>
   <!-- Pawnmorpher Transhumanist -->
   <li>takel.pawnmorphertranshumanist</li>
+  <!-- Craftable Blindfold -->
+  <li>japa4551.craftableblindfold</li>
+  <!-- Midworld Expanded: Vapes -->
+  <li>miathea.midworldvapes</li>
+  <!-- Bulk Carrier -->
+  <li>Vanya.Tools.BulkCarrier</li>
+  <!-- Passable (and Hefty) Vanilla Chemfuel Expanded Buildings -->
+  <li>largemoron.passablechemfuel</li>
+  <!-- Jelly Farm 1.4 -->
+  <li>Daniledman.JellyFarm</li>
+  <!-- Practical Pemmican -->
+  <li>ETRT.PracticalPemmican</li>
+  <!-- Onesies -->
+  <li>DanDMan.Onesies</li>
+  <!-- Pawns Use Fire Extinguishers -->
+  <li>pointfeev.fireextinguisher</li>
+  <!-- Quality Cooldown -->
+  <li>dninemfive.qualitycooldown</li>
+  <!-- Pawn Badge - XCOM Ranks -->
+  <li>lurmey.XcomPawnBadge</li>
+  <!-- Pawn Badge - XCOM Badge -->
+  <li>Botaxalim.XcomBadge</li>
+  <!-- World Map Enhanced -->
+  <li>laast.WorldMapEnhanced</li>
+  <!-- Faux's Xenotype Icons -->
+  <li>Faux.IconXenotypes</li>
+  <!-- 1.3/Ideology Wound Remover -->
+  <li>WRK.WoundRemover</li>
 </ModIdsToFix>
