@@ -172,6 +172,30 @@
   <li>laast.WorldMapEnhanced</li>
   <!-- Faux's Xenotype Icons -->
   <li>Faux.IconXenotypes</li>
-  <!-- 1.3/Ideology Wound Remover -->
-  <li>WRK.WoundRemover</li>
+  <!-- Packaged Nutrient Paste -->
+  <li>GrazalThruka.PackagedPaste</li>
+  <!-- Retextured Apparel -->
+  <li>tenthwit.apparel</li>
+  <!-- Anti-Septic Smell Patch -->
+  <li>Awan.Antisepsis.Patch</li>
+  <!-- MealWood -->
+  <li>5katz.Meatwood</li>
+  <!-- [1.3] Tug Those Gas Rat Teats: Boomrats Yield Chemfuel -->
+  <li>Magus.TugThoseGasRatTeats</li>
+  <!-- Wooly Yaks -->
+  <li>zoura3025.woolyyaks</li>
+  <!-- Tusks and Claws - A Crashlands Inspired Mod -->
+  <li>ClossomMistake.Blegh</li>
+  <!-- Better Surgery -->
+  <li>Gege.BetterSurgery</li>
+  <!-- Just Leave Already -->
+  <li>Timuttie.JustLeaveAlready</li>
+  <!-- No Pseudo Translate无开发者乱码 -->
+  <li>LazyCat.NoPseudoTranslate</li>
+  <!-- Simply Wheel Barrow (Vehicle) -->
+  <li>CaptainTesss.MWB</li>
+  <!-- Reasonable Components -->
+  <li>twistedpacifist.ReasonableComponents</li>
+  <!-- VNPE Fridge Fix -->
+  <li>zed.0xff.VNPE.FridgeFix</li>
 </ModIdsToFix>
