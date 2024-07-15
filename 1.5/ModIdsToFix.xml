@@ -104,8 +104,6 @@
   <li>dninemfive.settlementdescription</li>
   <!-- Venerated Xenotype Flexibility -->
   <li>ChrisClark13.VeneratedXenotypeFlexibility</li>
-  <!-- Toxic Plants Expanded -->
-  <li>InertialMage.ToxicPlants</li>
   <!-- Roo's Painting Expansion -->
   <li>Rooboid.Paintings.Ex</li>
   <!-- [Ry]Draw a bead -->
@@ -198,4 +196,38 @@
   <li>twistedpacifist.ReasonableComponents</li>
   <!-- VNPE Fridge Fix -->
   <li>zed.0xff.VNPE.FridgeFix</li>
+  <!-- wasscreefted's Smokeleaf Expanded -->
+  <li>wasscreefted.SmokeleafExpanded</li>
+  <!-- Madman's Star Wars Ships (Aerocraft) -->
+  <li>MajesticMadman.StarWarsShipsAerocraft</li>
+  <!-- Architect Icons: Improved -->
+  <li>ai.improved.icons</li>
+  <!-- Quality Matters -->
+  <li>Phlivan.QualityMatters</li>
+  <!-- Thing Categories: Icons -->
+  <li>thing.categories.icons</li>
+  <!-- Better Linkable Colors -->
+  <li>drummeur.BetterLinkableColors</li>
+  <!-- Common Sense - opportunistic cleaning patch -->
+  <li>Yoann.CommonSenseOpportunisticCleaningPatch</li>
+  <!-- Boosted Transport Pods -->
+  <li>CB745.BoostedTransportPods</li>
+  <!-- HardcoreFoods -->
+  <li>Milky.HardcoreFoods</li>
+  <!-- Misc Building Changes Type A -->
+  <li>CB745.MiscBuildChaTA1</li>
+  <!-- Misc Building Changes Type B1 -->
+  <li>CB745.MiscBuildChaTB1</li>
+  <!-- Misc Building Changes Type B2 -->
+  <li>CB745.MiscBuildChaTB2</li>
+  <!-- Tribal Masks For All -->
+  <li>CB745.TribMaskFAll</li>
+  <!-- Smaller Work Stations -->
+  <li>CB745.SmallWorkS</li>
+  <!-- Hundred Percent Surgery -->
+  <li>CB745.HundredPercentSurgery</li>
+  <!-- OP-G Stuffed Arms'n'Armor -->
+  <li>CB745.OPGStuffedArmsAndArmor</li>
+  <!-- Market Value Filter -->
+  <li>zed.0xff.MarketValueFilter</li>
 </ModIdsToFix>
