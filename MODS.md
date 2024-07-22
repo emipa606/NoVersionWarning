@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -115,7 +117,19 @@
 - [Hundred Percent Surgery](https://steamcommunity.com/sharedfiles/filedetails/?id=3010540818)
 - [OP-G Stuffed Arms'n'Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=2522637478)
 - [Market Value Filter](https://steamcommunity.com/sharedfiles/filedetails/?id=2960434569)
+- [Power Tab 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2952716728)
+- [Jelano retexture - RPG Style Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2982280260)
+- [Faster Gene Coma Recovery](https://steamcommunity.com/sharedfiles/filedetails/?id=3018955558)
+- [Marine Armor Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=1638630888)
+- [Matter Manipulator](https://steamcommunity.com/sharedfiles/filedetails/?id=2868495491)
+- [Omnitron](https://steamcommunity.com/sharedfiles/filedetails/?id=2901847902)
+- [RimOffice](https://steamcommunity.com/sharedfiles/filedetails/?id=2653792492)
+- [[RWY]SRTS Expanded: The Crimson Fleet](https://steamcommunity.com/sharedfiles/filedetails/?id=2138497005)
+- [Real Flamethrowers]()
+- [Llamas forever!](https://steamcommunity.com/sharedfiles/filedetails/?id=2989281312)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

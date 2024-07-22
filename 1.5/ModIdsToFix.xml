@@ -230,4 +230,24 @@
   <li>CB745.OPGStuffedArmsAndArmor</li>
   <!-- Market Value Filter -->
   <li>zed.0xff.MarketValueFilter</li>
+  <!-- Power Tab 2 -->
+  <li>Owlchemist.PowerTab</li>
+  <!-- Jelano retexture - RPG Style Inventory -->
+  <li>JelanoRetexture.RPGStyleInventory</li>
+  <!-- Faster Gene Coma Recovery -->
+  <li>FasterGeneComa.Recovery</li>
+  <!-- Marine Armor Materials -->
+  <li>joethetech.marinearmormaterials</li>
+  <!-- Matter Manipulator -->
+  <li>mod5s.MatterManipulator</li>
+  <!-- Omnitron -->
+  <li>alaestor.omnitron</li>
+  <!-- RimOffice -->
+  <li>Rim.Office</li>
+  <!-- [RWY]SRTS Expanded: The Crimson Fleet -->
+  <li>Ravvy.SRTS.TCF</li>
+  <!-- Real Flamethrowers -->
+  <li>Sl4vP0weR.RealFlamethrowers</li>
+  <!-- Llamas forever! -->
+  <li>BigBadLlama.LlamasForever.Main</li>
 </ModIdsToFix>
