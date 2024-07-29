@@ -70,7 +70,7 @@
 - [Terrain Zone Selections](https://steamcommunity.com/sharedfiles/filedetails/?id=1542393171)
 - [Bounded Roof Build Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1104718095)
 - [H.C_AnimalReskins_Complete2](https://steamcommunity.com/sharedfiles/filedetails/?id=2329899837)
-- [Farmland Regrowth Compatibilitly Patch]()
+- [Farmland Regrowth Compatibilitly Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2994784323)
 - [Odz Face Replacer](https://steamcommunity.com/sharedfiles/filedetails/?id=2970752861)
 - [Passion On Level Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3013984415)
 - [Pawnmorpher Transhumanist](https://steamcommunity.com/sharedfiles/filedetails/?id=2576751534)
@@ -125,8 +125,17 @@
 - [Omnitron](https://steamcommunity.com/sharedfiles/filedetails/?id=2901847902)
 - [RimOffice](https://steamcommunity.com/sharedfiles/filedetails/?id=2653792492)
 - [[RWY]SRTS Expanded: The Crimson Fleet](https://steamcommunity.com/sharedfiles/filedetails/?id=2138497005)
-- [Real Flamethrowers]()
+- [Real Flamethrowers](https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070)
 - [Llamas forever!](https://steamcommunity.com/sharedfiles/filedetails/?id=2989281312)
+- [[SYR] Glowing Healroot](https://steamcommunity.com/sharedfiles/filedetails/?id=1517921835)
+- [Medical Training](https://steamcommunity.com/sharedfiles/filedetails/?id=1214615921)
+- [AssignedWorkbenches](https://steamcommunity.com/sharedfiles/filedetails/?id=2973942644)
+- [Give Me Christian Values](https://steamcommunity.com/sharedfiles/filedetails/?id=2894852133)
+- [Roofed Scanning](https://steamcommunity.com/sharedfiles/filedetails/?id=2870663873)
+- [Resource Muffaloes](https://steamcommunity.com/sharedfiles/filedetails/?id=2597847245)
+- [No Debris on Smoothed Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=2579442841)
+- [Tribal Ideology Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=3083595998)
+- [Veinminer R1.1](https://steamcommunity.com/sharedfiles/filedetails/?id=1541978411)
 
 ## 1.4
 
