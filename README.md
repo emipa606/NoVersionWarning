@@ -7,6 +7,8 @@ Instead of me republishing these mods with the only change being that the latest
 This mod adds the required tag to mods that have been reported working with the current version of the game.
 Can be put anywhere in the mod-list as it just modifies the mod-list loader.
 
+**This does not affect external mod-managers like RimPy unless they add support for it on their end. **
+
 If you know of a mod that should be added here, leave a link to it and Ill add it. 
 
 ## [Currently supported mods](https://github.com/emipa606/NoVersionWarning/blob/main/MODS.md)

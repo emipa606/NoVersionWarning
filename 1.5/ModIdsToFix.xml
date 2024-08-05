@@ -208,8 +208,6 @@
   <li>thing.categories.icons</li>
   <!-- Better Linkable Colors -->
   <li>drummeur.BetterLinkableColors</li>
-  <!-- Common Sense - opportunistic cleaning patch -->
-  <li>Yoann.CommonSenseOpportunisticCleaningPatch</li>
   <!-- Boosted Transport Pods -->
   <li>CB745.BoostedTransportPods</li>
   <!-- HardcoreFoods -->
@@ -268,4 +266,10 @@
   <li>GHOST.TribalIcons</li>
   <!-- Veinminer R1.1 -->
   <li>Ogliss.Toastehs.Veinminer</li>
+  <!-- New Mech: Mini-Miner -->
+  <li>Slashandz.MiniMiner</li>
+  <!-- Remove Nutrient Paste Expiration -->
+  <li>Roskii.NutrientPasteFix</li>
+  <!-- Vanilla Nutrient Paste Expanded: MiniGrinder -->
+  <li>zed.0xff.VNPE.MiniGrinder</li>
 </ModIdsToFix>

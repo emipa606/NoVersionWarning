@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -106,7 +104,6 @@
 - [Quality Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2585864821)
 - [Thing Categories: Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2945787596)
 - [Better Linkable Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2519621745)
-- [Common Sense - opportunistic cleaning patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2822058610)
 - [Boosted Transport Pods](https://steamcommunity.com/sharedfiles/filedetails/?id=2853909769)
 - [HardcoreFoods](https://steamcommunity.com/sharedfiles/filedetails/?id=2978984493)
 - [Misc Building Changes Type A](https://steamcommunity.com/sharedfiles/filedetails/?id=2173116600)
@@ -136,9 +133,10 @@
 - [No Debris on Smoothed Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=2579442841)
 - [Tribal Ideology Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=3083595998)
 - [Veinminer R1.1](https://steamcommunity.com/sharedfiles/filedetails/?id=1541978411)
-
+- [New Mech: Mini-Miner](https://steamcommunity.com/sharedfiles/filedetails/?id=2880619019)
+- [Remove Nutrient Paste Expiration](https://steamcommunity.com/sharedfiles/filedetails/?id=2533239527)
+- [Vanilla Nutrient Paste Expanded: MiniGrinder](https://steamcommunity.com/sharedfiles/filedetails/?id=2957616010)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
