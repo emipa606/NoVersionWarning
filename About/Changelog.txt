@@ -1,5 +1,9 @@
 # Changelog for NoVersionWarning
 
+1.5.12 - Updated mod:
+Added 106 mods
+
+
 1.5.11 - Updated mod:
 Removed 1 mods that have been updated to support the current version
 Added 3 mods
