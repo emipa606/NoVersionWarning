@@ -126,16 +126,12 @@
   <li>Sovereign.Kemet</li>
   <!-- Quality Colors -->
   <li>legodude17.qualcolor</li>
-  <!-- Thump Cannon Nerf -->
-  <li>Jiopaba.ThumpNerf</li>
   <!-- Better Vanilla Masking -->
   <li>Owlchemist.BetterVanillaMasking</li>
   <!-- Terrain Zone Selections -->
   <li>pyrce.terrain.zone.select</li>
   <!-- Bounded Roof Build Tool -->
   <li>fyarn.BoundedRoofBuildTool</li>
-  <!-- H.C_AnimalReskins_Complete2 -->
-  <li>HC.AnimalReskins.Complete2</li>
   <!-- Farmland Regrowth Compatibilitly Patch -->
   <li>Aura.FarmlandRegrowthPatch</li>
   <!-- Odz Face Replacer -->
@@ -179,7 +175,6 @@
   <!-- MealWood -->
   <li>5katz.Meatwood</li>
   <!-- [1.3] Tug Those Gas Rat Teats: Boomrats Yield Chemfuel -->
-  <li>Magus.TugThoseGasRatTeats</li>
   <!-- Wooly Yaks -->
   <li>zoura3025.woolyyaks</li>
   <!-- Tusks and Claws - A Crashlands Inspired Mod -->
@@ -280,16 +275,12 @@
   <li>Permanoob.ChemfuelSaunaHeater</li>
   <!-- Lucille - Barbed Bat -->
   <li>maledin.BarbedBat</li>
-  <!-- MM14 Uniform -->
-  <li>chanai.mm14</li>
   <!-- Yoda the Dog -->
   <li>Rhadamant.YodaTheDog</li>
   <!-- Yeow -->
   <li>DW.Yeow</li>
   <!-- Waterproof Battery -->
   <li>tikubonn.WaterproofBattery</li>
-  <!-- Hot Chocolate -->
-  <li>Wills.hotChocolate</li>
   <!-- Jurrets -->
   <li>DanDMan.JurretTurrets</li>
   <!-- Knife chair -->
@@ -344,8 +335,6 @@
   <li>StoneAnvil.Smokeleaf.Genetics.Korundgen.Kush</li>
   <!-- 木鱼 -->
   <li>kouyifozu.xiao</li>
-  <!-- Smooth Walls -->
-  <li>whooooooooooo.SmoothWalls</li>
   <!-- Hybrid Rice Plant -->
   <li>bbbbilly.hybridriceplant</li>
   <!-- アシュアGirls animal MOD 灰烬战线 -->
@@ -394,12 +383,8 @@
   <li>Sappho.ChemfuelTrader</li>
   <!-- Chinchilla Farming -->
   <li>RadGrinArcher.ChinchillaFarming</li>
-  <!-- Clean Hex Tiles -->
-  <li>Nuker1110.CleanHexTiles</li>
   <!-- Desert Eagle Handgun -->
   <li>Juneisfunny.Deagle</li>
-  <!-- Remove Preferred Xenotype Limit -->
-  <li>Obama.Idontlike.PreferredXenolimit</li>
   <!-- Ship Techprints -->
   <li>Pal5k.ShipTechprints</li>
   <!-- Super-Duper Awesome Coagulate Fix -->
@@ -462,8 +447,6 @@
   <li>IK.ThrumboReskin</li>
   <!-- Reborn into a New World! [Vanilla Expansion] -->
   <li>Henta1Hero.Isekaid</li>
-  <!-- Long Boi -->
-  <li>overpl.longboi</li>
   <!-- Swordfish -->
   <li>Emilskin.fishwep.Swordfish</li>
   <!-- Pale Genies -->
@@ -480,4 +463,8 @@
   <li>pawnbadges.byT</li>
   <!-- Pawn Badge - Assorted Job Icons -->
   <li>IRRISH.PawnBadgeAssortedJobIcons</li>
+  <!-- Remove Weather Overlays -->
+  <li>yipnz.removeweatheroverlay</li>
+  <!-- Wood Is Natural (For Trees) -->
+  <li>Dra.WoodIsNaturalForTrees</li>
 </ModIdsToFix>

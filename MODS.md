@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -65,11 +63,9 @@
 - [Kemetic Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2846817347)
 - [Kemetic Decorations](https://steamcommunity.com/sharedfiles/filedetails/?id=2836144432)
 - [Quality Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2420141361)
-- [Thump Cannon Nerf](https://steamcommunity.com/sharedfiles/filedetails/?id=2547119245)
 - [Better Vanilla Masking](https://steamcommunity.com/sharedfiles/filedetails/?id=1736114368)
 - [Terrain Zone Selections](https://steamcommunity.com/sharedfiles/filedetails/?id=1542393171)
 - [Bounded Roof Build Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=1104718095)
-- [H.C_AnimalReskins_Complete2](https://steamcommunity.com/sharedfiles/filedetails/?id=2329899837)
 - [Farmland Regrowth Compatibilitly Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2994784323)
 - [Odz Face Replacer](https://steamcommunity.com/sharedfiles/filedetails/?id=2970752861)
 - [Passion On Level Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3013984415)
@@ -91,7 +87,6 @@
 - [Retextured Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2042613316)
 - [Anti-Septic Smell Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2639653385)
 - [MealWood](https://steamcommunity.com/sharedfiles/filedetails/?id=2514077894)
-- [[1.3] Tug Those Gas Rat Teats: Boomrats Yield Chemfuel](https://steamcommunity.com/sharedfiles/filedetails/?id=2255314898)
 - [Wooly Yaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2829581026)
 - [Tusks and Claws - A Crashlands Inspired Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2367686220)
 - [Better Surgery](https://steamcommunity.com/sharedfiles/filedetails/?id=2986469522)
@@ -142,11 +137,9 @@
 - [Where is my weapon?](https://steamcommunity.com/sharedfiles/filedetails/?id=1539028008)
 - [Chemfuel to Sauna Heater](https://steamcommunity.com/sharedfiles/filedetails/?id=2801439933)
 - [Lucille - Barbed Bat](https://steamcommunity.com/sharedfiles/filedetails/?id=2707159550)
-- [MM14 Uniform](https://steamcommunity.com/sharedfiles/filedetails/?id=2803990065)
 - [Yoda the Dog](https://steamcommunity.com/sharedfiles/filedetails/?id=2810829408)
 - [Yeow](https://steamcommunity.com/sharedfiles/filedetails/?id=2483471017)
 - [Waterproof Battery](https://steamcommunity.com/sharedfiles/filedetails/?id=2746038714)
-- [Hot Chocolate](https://steamcommunity.com/sharedfiles/filedetails/?id=2256413956)
 - [Jurrets](https://steamcommunity.com/sharedfiles/filedetails/?id=2627565110)
 - [Knife chair](https://steamcommunity.com/sharedfiles/filedetails/?id=2643074608)
 - [Nationalist Militarism](https://steamcommunity.com/sharedfiles/filedetails/?id=2660276877)
@@ -174,7 +167,6 @@
 - [Monkfield's Garfworld](https://steamcommunity.com/sharedfiles/filedetails/?id=2898029299)
 - [Smokeleaf Genetics: Korundgen Kush](https://steamcommunity.com/sharedfiles/filedetails/?id=2896872796)
 - [木鱼](https://steamcommunity.com/sharedfiles/filedetails/?id=2884212297)
-- [Smooth Walls](https://steamcommunity.com/sharedfiles/filedetails/?id=1986348112)
 - [Hybrid Rice Plant](https://steamcommunity.com/sharedfiles/filedetails/?id=2494394279)
 - [アシュアGirls animal MOD 灰烬战线](https://steamcommunity.com/sharedfiles/filedetails/?id=2741186415)
 - [[Eng-SZ]English Pack for SZ Series Chinese Traditional Cultural Things Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2408998082)
@@ -199,9 +191,7 @@
 - [Blind Tribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2820946021)
 - [Chemfuel Trader](https://steamcommunity.com/sharedfiles/filedetails/?id=2923271550)
 - [Chinchilla Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=2323571909)
-- [Clean Hex Tiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2887940904)
 - [Desert Eagle Handgun](https://steamcommunity.com/sharedfiles/filedetails/?id=2812586598)
-- [Remove Preferred Xenotype Limit](https://steamcommunity.com/sharedfiles/filedetails/?id=2892769227)
 - [Ship Techprints](https://steamcommunity.com/sharedfiles/filedetails/?id=2908670058)
 - [Super-Duper Awesome Coagulate Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2887730779)
 - [SwampMonsters](https://steamcommunity.com/sharedfiles/filedetails/?id=2920010871)
@@ -233,7 +223,6 @@
 - [Pusheen in Rimworld](https://steamcommunity.com/sharedfiles/filedetails/?id=2983037226)
 - [THE LEGENDARY THRUMBO DOLL RESKIN](https://steamcommunity.com/sharedfiles/filedetails/?id=2968019036)
 - [Reborn into a New World! [Vanilla Expansion]](https://steamcommunity.com/sharedfiles/filedetails/?id=2966195878)
-- [Long Boi](https://steamcommunity.com/sharedfiles/filedetails/?id=2957725735)
 - [Swordfish](https://steamcommunity.com/sharedfiles/filedetails/?id=2964246416)
 - [Pale Genies](https://steamcommunity.com/sharedfiles/filedetails/?id=2941783073)
 - [ↁ Dryad Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2901873850)
@@ -242,9 +231,9 @@
 - [SortBy](https://steamcommunity.com/sharedfiles/filedetails/?id=2819678889)
 - [101 Pawn Badges](https://steamcommunity.com/sharedfiles/filedetails/?id=2465364521)
 - [Pawn Badge - Assorted Job Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2184581646)
-
+- [Remove Weather Overlays](https://steamcommunity.com/sharedfiles/filedetails/?id=2471914077)
+- [Wood Is Natural (For Trees)](https://steamcommunity.com/sharedfiles/filedetails/?id=2895354126)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
