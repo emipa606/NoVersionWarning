@@ -289,8 +289,6 @@
   <li>SaberVS7.NationalistMilitarism</li>
   <!-- Ladies Can Flirt Too! -->
   <li>Xenofell.LadiesCanFlirtToo</li>
-  <!-- Title Belt -->
-  <li>bblkepling.TitleBelt</li>
   <!-- The Pyramidalist Mod -->
   <li>marius.pyramidalist</li>
   <!-- PrisonerMoodBoost -->
@@ -441,8 +439,6 @@
   <li>iiitta.AuthorityOutlander</li>
   <!-- Alpha Bees - Stuffed -->
   <li>jelly.RBStuffed</li>
-  <!-- Pusheen in Rimworld -->
-  <li>Jaye.Pusheen</li>
   <!-- THE LEGENDARY THRUMBO DOLL RESKIN -->
   <li>IK.ThrumboReskin</li>
   <!-- Reborn into a New World! [Vanilla Expansion] -->
@@ -467,4 +463,16 @@
   <li>yipnz.removeweatheroverlay</li>
   <!-- Wood Is Natural (For Trees) -->
   <li>Dra.WoodIsNaturalForTrees</li>
+  <!-- Table_1x1 by timtim -->
+  <li>timtim.Table1x1</li>
+  <!-- Retextured Sculptures -->
+  <li>tenthwit.sculptures</li>
+  <!-- Research Assistants -->
+  <li>TheGoofyOne.ResearchAssistants</li>
+  <!-- Overcapped Accuracy (Continued) -->
+  <li>com.RimWorld.Nales.OvercappedAccuracy</li>
+  <!-- Plant Anything in Hydroponics -->
+  <li>Uveren.plantanyinhydro</li>
+  <!-- Forien's Naturalize Genome -->
+  <li>Forien.NaturalizeGenome</li>
 </ModIdsToFix>
