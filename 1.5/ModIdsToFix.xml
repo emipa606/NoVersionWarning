@@ -227,12 +227,8 @@
   <li>Owlchemist.PowerTab</li>
   <!-- Jelano retexture - RPG Style Inventory -->
   <li>JelanoRetexture.RPGStyleInventory</li>
-  <!-- Faster Gene Coma Recovery -->
-  <li>FasterGeneComa.Recovery</li>
   <!-- Marine Armor Materials -->
   <li>joethetech.marinearmormaterials</li>
-  <!-- Matter Manipulator -->
-  <li>mod5s.MatterManipulator</li>
   <!-- Omnitron -->
   <li>alaestor.omnitron</li>
   <!-- RimOffice -->
@@ -347,8 +343,6 @@
   <li>DeusExEyes</li>
   <!-- FCP - Great Khan Equipment -->
   <li>Rick.FCPGK</li>
-  <!-- Faster Workspeed for Mechs -->
-  <li>forza.fasterWorkMechs</li>
   <!-- Lenient Kibble Recipe -->
   <li>Volt.Kibble</li>
   <!-- More UwU -->
@@ -475,4 +469,14 @@
   <li>Uveren.plantanyinhydro</li>
   <!-- Forien's Naturalize Genome -->
   <li>Forien.NaturalizeGenome</li>
+  <!-- Project Armory 1.4.0.1 [1.4] -->
+  <li>Plymouth.ProjectArmoury.Mod</li>
+  <!-- Damage Multipliers -->
+  <li>PrivateGER.DamageMultipliers</li>
+  <!-- Caps' Onesies Port -->
+  <li>Capataina.OnesiesPort</li>
+  <!-- Prestige Psychic Harmonizer -->
+  <li>horriblenerd.prestigeharmonizer</li>
+  <!-- 1x1bed一格床 -->
+  <li>032.1x1bed</li>
 </ModIdsToFix>
