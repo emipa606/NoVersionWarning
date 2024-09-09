@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -200,7 +202,7 @@
 - [Pinata](https://steamcommunity.com/sharedfiles/filedetails/?id=2799051520)
 - [Contain Toxic Waste](https://steamcommunity.com/sharedfiles/filedetails/?id=2881076651)
 - [Rimays](https://steamcommunity.com/sharedfiles/filedetails/?id=2896484860)
-- [Husko's Improved Rimays]()
+- [Huskos Improved Rimays](https://steamcommunity.com/sharedfiles/filedetails/?id=3159433372)
 - [High School Uniform Thai Girl](https://steamcommunity.com/sharedfiles/filedetails/?id=2933963058)
 - [Healer Mech Serum Regrows Genes](https://steamcommunity.com/sharedfiles/filedetails/?id=2884980696)
 - [HydroCorn](https://steamcommunity.com/sharedfiles/filedetails/?id=2465981517)
@@ -239,7 +241,12 @@
 - [Caps' Onesies Port](https://steamcommunity.com/sharedfiles/filedetails/?id=3009352960)
 - [Prestige Psychic Harmonizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2822378323)
 - [1x1bed一格床](https://steamcommunity.com/sharedfiles/filedetails/?id=1417873240)
+- [Adjacent Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2517853803)
+- [Command range extender mechanoid - Observer](https://steamcommunity.com/sharedfiles/filedetails/?id=2928331234)
+- [POW Camp Warden Militor](https://steamcommunity.com/sharedfiles/filedetails/?id=2883698190)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

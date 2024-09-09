@@ -479,4 +479,10 @@
   <li>horriblenerd.prestigeharmonizer</li>
   <!-- 1x1bed一格床 -->
   <li>032.1x1bed</li>
+  <!-- Adjacent Light -->
+  <li>jp.AdjacentLight</li>
+  <!-- Command range extender mechanoid - Observer -->
+  <li>Gege.Obserever</li>
+  <!-- POW Camp Warden Militor -->
+  <li>Panacea.POW.Militor</li>
 </ModIdsToFix>
