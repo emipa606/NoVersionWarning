@@ -244,6 +244,10 @@
 - [Adjacent Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2517853803)
 - [Command range extender mechanoid - Observer](https://steamcommunity.com/sharedfiles/filedetails/?id=2928331234)
 - [POW Camp Warden Militor](https://steamcommunity.com/sharedfiles/filedetails/?id=2883698190)
+- [Craftable Reinforced Barrels](https://steamcommunity.com/sharedfiles/filedetails/?id=2555061347)
+- [Faster Prunning](https://steamcommunity.com/sharedfiles/filedetails/?id=2893007960)
+- [Stone To Steel Hardcore 1.4 ](https://steamcommunity.com/sharedfiles/filedetails/?id=2902014460)
+- [Show Fertility on Health Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=2879306896)
 
 ## 1.4
 

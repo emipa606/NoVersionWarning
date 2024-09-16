@@ -485,4 +485,12 @@
   <li>Gege.Obserever</li>
   <!-- POW Camp Warden Militor -->
   <li>Panacea.POW.Militor</li>
+  <!-- Craftable Reinforced Barrels -->
+  <li>RoyalF.CraftableRBarrels</li>
+  <!-- Faster Prunning -->
+  <li>Faster.Prunning</li>
+  <!-- Stone To Steel Hardcore 1.4  -->
+  <li>captaingeorge.StoneToSteelHardcore</li>
+  <!-- Show Fertility on Health Tab -->
+  <li>zilla.fertilityinfo</li>
 </ModIdsToFix>
