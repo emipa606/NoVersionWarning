@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -248,9 +246,12 @@
 - [Faster Prunning](https://steamcommunity.com/sharedfiles/filedetails/?id=2893007960)
 - [Stone To Steel Hardcore 1.4 ](https://steamcommunity.com/sharedfiles/filedetails/?id=2902014460)
 - [Show Fertility on Health Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=2879306896)
-
+- [Architecture of the Rim (Adopted)](https://steamcommunity.com/sharedfiles/filedetails/?id=3023282073)
+- [More World Features Names](https://steamcommunity.com/sharedfiles/filedetails/?id=2986843377)
+- [Stone Chairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2437037491)
+- [Megabees](https://steamcommunity.com/sharedfiles/filedetails/?id=2830700043)
+- [No Vanilla Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1930877982)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
@@ -309,7 +310,6 @@
 - [Production reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2257451032)
 - [Candy Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2823792295)
 - [[JPT] Fertile Fields Makeover](https://steamcommunity.com/sharedfiles/filedetails/?id=1653937715)
-- [Royalty Textures Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2062377912)
 - [LongRangePodLauncher](https://steamcommunity.com/sharedfiles/filedetails/?id=819435604)
 - [Ideology Simplified - Raider](https://steamcommunity.com/sharedfiles/filedetails/?id=2649132044)
 - [Ideology Simplified - Rancher](https://steamcommunity.com/sharedfiles/filedetails/?id=2649504237)

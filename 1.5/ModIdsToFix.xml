@@ -493,4 +493,14 @@
   <li>captaingeorge.StoneToSteelHardcore</li>
   <!-- Show Fertility on Health Tab -->
   <li>zilla.fertilityinfo</li>
+  <!-- Architecture of the Rim (Adopted) -->
+  <li>Shork.Torpedo.Architecture</li>
+  <!-- More World Features Names -->
+  <li>Virstag.MoreWorldFeaturesNames</li>
+  <!-- Stone Chairs -->
+  <li>Simmin.StoneChairs</li>
+  <!-- Megabees -->
+  <li>zoura3025.megabees</li>
+  <!-- No Vanilla Hair -->
+  <li>m0ek.NoVanillaHair</li>
 </ModIdsToFix>

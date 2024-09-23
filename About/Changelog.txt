@@ -1,5 +1,16 @@
 # Changelog for NoVersionWarning
 
+1.5.18 - [b]Changes[/b]
+Removed 1 mods:
+Royalty Textures Expanded
+Added 5 mods:
+Architecture of the Rim (Adopted)
+More World Features Names
+Stone Chairs
+Megabees
+No Vanilla Hair
+
+
 1.5.17 - Updated mod:
 Added 4 mods
 
