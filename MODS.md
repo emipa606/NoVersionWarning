@@ -42,7 +42,6 @@
 - [[1.4] Odz Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2580682912)
 - [Wall Vitals Monitor](https://steamcommunity.com/sharedfiles/filedetails/?id=1334289344)
 - [Loft Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299)
-- [Seed Vault](https://steamcommunity.com/sharedfiles/filedetails/?id=2995930813)
 - [UI Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2978831421)
 - [[JPT] Clean My Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2480050136)
 - [More Ideological Words](https://steamcommunity.com/sharedfiles/filedetails/?id=2643795171)
@@ -201,7 +200,6 @@
 - [Contain Toxic Waste](https://steamcommunity.com/sharedfiles/filedetails/?id=2881076651)
 - [Rimays](https://steamcommunity.com/sharedfiles/filedetails/?id=2896484860)
 - [Huskos Improved Rimays](https://steamcommunity.com/sharedfiles/filedetails/?id=3159433372)
-- [High School Uniform Thai Girl](https://steamcommunity.com/sharedfiles/filedetails/?id=2933963058)
 - [Healer Mech Serum Regrows Genes](https://steamcommunity.com/sharedfiles/filedetails/?id=2884980696)
 - [HydroCorn](https://steamcommunity.com/sharedfiles/filedetails/?id=2465981517)
 - [Uncomfortable Sleeping Spots](https://steamcommunity.com/sharedfiles/filedetails/?id=2970654342)
@@ -251,6 +249,7 @@
 - [Stone Chairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2437037491)
 - [Megabees](https://steamcommunity.com/sharedfiles/filedetails/?id=2830700043)
 - [No Vanilla Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1930877982)
+- [Guinea Pig Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=2589545157)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)

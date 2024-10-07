@@ -84,8 +84,6 @@
   <li>zzz.WallVitalsMonitor</li>
   <!-- Loft Bed -->
   <li>zed.0xff.LoftBed</li>
-  <!-- Seed Vault -->
-  <li>espio.seedvault</li>
   <!-- UI Retexture -->
   <li>Katsudon.UIRetexture</li>
   <!-- [JPT] Clean My Buttons -->
@@ -403,8 +401,6 @@
   <li>MIKO.Rimays</li>
   <!-- Husko's Improved Rimays -->
   <li>husko.improvements.rimays</li>
-  <!-- High School Uniform Thai Girl -->
-  <li>ADD.APP.HSG</li>
   <!-- Healer Mech Serum Regrows Genes -->
   <li>glencoe2004.healerMechSerumRegrowsGenes</li>
   <!-- HydroCorn -->
@@ -503,4 +499,6 @@
   <li>zoura3025.megabees</li>
   <!-- No Vanilla Hair -->
   <li>m0ek.NoVanillaHair</li>
+  <!-- Guinea Pig Farming -->
+  <li>RadGrinArcher.GuineaPigFarming</li>
 </ModIdsToFix>

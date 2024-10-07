@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.5.19 - [b]Changes[/b]
+Removed 2 mods:
+Seed Vault
+High School Uniform Thai Girl
+Added 1 mods:
+Guinea Pig Farming
+
+
 1.5.18 - [b]Changes[/b]
 Removed 1 mods:
 Royalty Textures Expanded
