@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -250,7 +252,10 @@
 - [Megabees](https://steamcommunity.com/sharedfiles/filedetails/?id=2830700043)
 - [No Vanilla Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1930877982)
 - [Guinea Pig Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=2589545157)
+- [Less Ambrosia Addiction](https://steamcommunity.com/sharedfiles/filedetails/?id=2975380328)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
