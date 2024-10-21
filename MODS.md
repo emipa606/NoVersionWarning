@@ -253,6 +253,8 @@
 - [No Vanilla Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1930877982)
 - [Guinea Pig Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=2589545157)
 - [Less Ambrosia Addiction](https://steamcommunity.com/sharedfiles/filedetails/?id=2975380328)
+- [Stronghold - Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=3035647578)
+- [Rimhold: Crusader](https://steamcommunity.com/sharedfiles/filedetails/?id=2571464361)
 
 ## 1.4
 

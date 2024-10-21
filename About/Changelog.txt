@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.5.21 - [b]Changes[/b]
+Added 2 mods:
+Stronghold - Soundtrack
+Rimhold: Crusader
+
+
 1.5.20 - [b]Changes[/b]
 Added 1 mods:
 Less Ambrosia Addiction
