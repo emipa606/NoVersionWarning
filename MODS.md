@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -26,7 +24,6 @@
 - [Simple FX: Vapor](https://steamcommunity.com/sharedfiles/filedetails/?id=2886571275)
 - [UI Button Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2824782634)
 - [Candy Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2921804170)
-- [Better Ground Textures?](https://steamcommunity.com/sharedfiles/filedetails/?id=2009702813)
 - [Follow Me](https://steamcommunity.com/sharedfiles/filedetails/?id=715759739)
 - [Non-Functional Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1595520572)
 - [Easy Speedup](https://steamcommunity.com/sharedfiles/filedetails/?id=1132557840)
@@ -255,9 +252,9 @@
 - [Less Ambrosia Addiction](https://steamcommunity.com/sharedfiles/filedetails/?id=2975380328)
 - [Stronghold - Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=3035647578)
 - [Rimhold: Crusader](https://steamcommunity.com/sharedfiles/filedetails/?id=2571464361)
-
+- [Disable Newcomer's Jobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2836608085)
+- [Atelier](https://steamcommunity.com/sharedfiles/filedetails/?id=2926292009)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

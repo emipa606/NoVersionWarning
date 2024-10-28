@@ -48,8 +48,6 @@
   <li>Katsudon.UIButtonRetexture</li>
   <!-- Candy Hairs -->
   <li>Candycorn.CandyHairs</li>
-  <!-- Better Ground Textures? -->
-  <li>Fissure.BetterGroundTextures</li>
   <!-- Follow Me -->
   <li>Fluffy.FollowMe</li>
   <!-- Non-Functional Prosthetics -->
@@ -507,4 +505,8 @@
   <li>Augustus.ShOST</li>
   <!-- Rimhold: Crusader -->
   <li>Augustus.ShcOST</li>
+  <!-- Disable Newcomer's Jobs -->
+  <li>iforgotmysocks.DisableNewcomersJob</li>
+  <!-- Atelier -->
+  <li>Timuttie.Atelier</li>
 </ModIdsToFix>

@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.5.22 - [b]Changes[/b]
+Removed 1 mods:
+Better Ground Textures?
+Added 2 mods:
+Disable Newcomer's Jobs
+Atelier
+
+
 1.5.21 - [b]Changes[/b]
 Added 2 mods:
 Stronghold - Soundtrack
