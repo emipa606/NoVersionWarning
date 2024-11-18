@@ -201,8 +201,6 @@
   <li>drummeur.BetterLinkableColors</li>
   <!-- Boosted Transport Pods -->
   <li>CB745.BoostedTransportPods</li>
-  <!-- HardcoreFoods -->
-  <li>Milky.HardcoreFoods</li>
   <!-- Misc Building Changes Type A -->
   <li>CB745.MiscBuildChaTA1</li>
   <!-- Misc Building Changes Type B1 -->
@@ -237,8 +235,6 @@
   <li>BigBadLlama.LlamasForever.Main</li>
   <!-- [SYR] Glowing Healroot -->
   <li>syrchalis.glowinghealroot</li>
-  <!-- Medical Training -->
-  <li>itchyflea.medicaltraining</li>
   <!-- AssignedWorkbenches -->
   <li>maarx.assignedworkbenches</li>
   <!-- Give Me Christian Values -->
@@ -509,4 +505,6 @@
   <li>iforgotmysocks.DisableNewcomersJob</li>
   <!-- Atelier -->
   <li>Timuttie.Atelier</li>
+  <!-- Rimatomics PID Autothrottle -->
+  <li>beelzebot.RimaomicsPIDAutothrottle</li>
 </ModIdsToFix>

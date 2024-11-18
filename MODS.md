@@ -100,7 +100,6 @@
 - [Thing Categories: Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2945787596)
 - [Better Linkable Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2519621745)
 - [Boosted Transport Pods](https://steamcommunity.com/sharedfiles/filedetails/?id=2853909769)
-- [HardcoreFoods](https://steamcommunity.com/sharedfiles/filedetails/?id=2978984493)
 - [Misc Building Changes Type A](https://steamcommunity.com/sharedfiles/filedetails/?id=2173116600)
 - [Misc Building Changes Type B1](https://steamcommunity.com/sharedfiles/filedetails/?id=2173117438)
 - [Misc Building Changes Type B2](https://steamcommunity.com/sharedfiles/filedetails/?id=2173117055)
@@ -118,7 +117,6 @@
 - [Real Flamethrowers](https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070)
 - [Llamas forever!](https://steamcommunity.com/sharedfiles/filedetails/?id=2989281312)
 - [[SYR] Glowing Healroot](https://steamcommunity.com/sharedfiles/filedetails/?id=1517921835)
-- [Medical Training](https://steamcommunity.com/sharedfiles/filedetails/?id=1214615921)
 - [AssignedWorkbenches](https://steamcommunity.com/sharedfiles/filedetails/?id=2973942644)
 - [Give Me Christian Values](https://steamcommunity.com/sharedfiles/filedetails/?id=2894852133)
 - [Roofed Scanning](https://steamcommunity.com/sharedfiles/filedetails/?id=2870663873)
@@ -254,6 +252,7 @@
 - [Rimhold: Crusader](https://steamcommunity.com/sharedfiles/filedetails/?id=2571464361)
 - [Disable Newcomer's Jobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2836608085)
 - [Atelier](https://steamcommunity.com/sharedfiles/filedetails/?id=2926292009)
+- [Rimatomics PID Autothrottle](https://steamcommunity.com/sharedfiles/filedetails/?id=2670896802)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
