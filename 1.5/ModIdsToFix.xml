@@ -132,8 +132,6 @@
   <li>Aura.FarmlandRegrowthPatch</li>
   <!-- Odz Face Replacer -->
   <li>Odz.Facereplacer</li>
-  <!-- Passion On Level Up -->
-  <li>Capataina.PassionOnLevelUp</li>
   <!-- Pawnmorpher Transhumanist -->
   <li>takel.pawnmorphertranshumanist</li>
   <!-- Craftable Blindfold -->
@@ -463,8 +461,6 @@
   <li>Plymouth.ProjectArmoury.Mod</li>
   <!-- Damage Multipliers -->
   <li>PrivateGER.DamageMultipliers</li>
-  <!-- Caps' Onesies Port -->
-  <li>Capataina.OnesiesPort</li>
   <!-- Prestige Psychic Harmonizer -->
   <li>horriblenerd.prestigeharmonizer</li>
   <!-- 1x1bed一格床 -->
@@ -507,4 +503,26 @@
   <li>Timuttie.Atelier</li>
   <!-- Rimatomics PID Autothrottle -->
   <li>beelzebot.RimaomicsPIDAutothrottle</li>
+  <!-- Midworld Expanded: Medical -->
+  <li>miathea.medicalexpansion</li>
+  <!-- Midworld Expanded: Flak Armor -->
+  <li>miathea.flakarmorexpansion</li>
+  <!-- Aliens: Fireteam Elite Armory -->
+  <li>JangoDsoul.AlinesFT.Armor</li>
+  <!-- Hemogen Cuisine -->
+  <li>Mallow.HemogenCuisine</li>
+  <!-- More Sanguine Houses -->
+  <li>MoreSanguineHouses.Mod</li>
+  <!-- Simple Medieval Faction -->
+  <li>iiitta.SimpleMedievalFaction</li>
+  <!-- BMX and Biker Outfits -->
+  <li>LilScoot.BMXandBikerOutfits</li>
+  <!-- [M.W]Multi-ToolBox -->
+  <li>peytonshow.paa</li>
+  <!-- Smokeleaf Lite [HH] -->
+  <li>HH.Smokeleaf.Lite</li>
+  <!-- Fallout Shelter Vanilla Retexture -->
+  <li>DerekBickley.FalloutShelterVanillaWeaponRetexture</li>
+  <!-- FCP Tents -->
+  <li>Rick.FCPTents</li>
 </ModIdsToFix>

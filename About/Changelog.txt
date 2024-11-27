@@ -1,5 +1,23 @@
 # Changelog for NoVersionWarning
 
+1.5.24 - [b]Changes[/b]
+Removed 2 mods:
+Passion On Level Up
+Caps' Onesies Port
+Added 11 mods:
+Midworld Expanded: Medical
+Midworld Expanded: Flak Armor
+Aliens: Fireteam Elite Armory
+Hemogen Cuisine
+More Sanguine Houses
+Simple Medieval Faction
+BMX and Biker Outfits
+[M.W]Multi-ToolBox
+Smokeleaf Lite [HH]
+Fallout Shelter Vanilla Retexture
+FCP Tents
+
+
 1.5.23 - [b]Changes[/b]
 Removed 1 mods:
 Medical Training
