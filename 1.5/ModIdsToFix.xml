@@ -525,4 +525,8 @@
   <li>DerekBickley.FalloutShelterVanillaWeaponRetexture</li>
   <!-- FCP Tents -->
   <li>Rick.FCPTents</li>
+  <!-- No Prayer -->
+  <li>OkraDonkey.NoPrayer</li>
+  <!-- PriorityClean -->
+  <li>fyarn.PriorityClean</li>
 </ModIdsToFix>

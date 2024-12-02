@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -262,7 +264,11 @@
 - [Smokeleaf Lite [HH]](https://steamcommunity.com/sharedfiles/filedetails/?id=2626665539)
 - [Fallout Shelter Vanilla Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2565305459)
 - [FCP Tents](https://steamcommunity.com/sharedfiles/filedetails/?id=2560114781)
+- [No Prayer](https://steamcommunity.com/sharedfiles/filedetails/?id=2012791539)
+- [PriorityClean](https://steamcommunity.com/sharedfiles/filedetails/?id=1294779672)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

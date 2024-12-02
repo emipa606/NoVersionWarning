@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.5.25 - [b]Changes[/b]
+Added 2 mods:
+No Prayer
+PriorityClean
+
+
 1.5.24 - [b]Changes[/b]
 Removed 2 mods:
 Passion On Level Up
