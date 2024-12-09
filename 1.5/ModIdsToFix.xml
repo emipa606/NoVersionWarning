@@ -94,8 +94,6 @@
   <li>ICC.TOV.HS</li>
   <!-- Textile Stats -->
   <li>Revolus.TextileStats</li>
-  <!-- Ambition of the Cosmic -->
-  <li>explodoboy.SNSAmbitionCosmic</li>
   <!-- Settlement Descriptions -->
   <li>dninemfive.settlementdescription</li>
   <!-- Venerated Xenotype Flexibility -->
@@ -529,4 +527,8 @@
   <li>OkraDonkey.NoPrayer</li>
   <!-- PriorityClean -->
   <li>fyarn.PriorityClean</li>
+  <!-- [ZEN] Gas Traps And Shells Retextured -->
+  <li>Poet.RetexturedGasTrapsShells</li>
+  <!-- Palisades -->
+  <li>n7huntsman.palisades</li>
 </ModIdsToFix>

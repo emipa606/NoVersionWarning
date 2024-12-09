@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.5.26 - [b]Changes[/b]
+Removed 1 mods:
+Ambition of the Cosmic
+Added 2 mods:
+[ZEN] Gas Traps And Shells Retextured
+Palisades
+
+
 1.5.25 - [b]Changes[/b]
 Added 2 mods:
 No Prayer

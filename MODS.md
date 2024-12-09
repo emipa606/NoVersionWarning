@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -49,7 +47,6 @@
 - [Xenotype Spawn Control](https://steamcommunity.com/sharedfiles/filedetails/?id=2891975564)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
 - [Textile Stats](https://steamcommunity.com/sharedfiles/filedetails/?id=2045777828)
-- [Ambition of the Cosmic](https://steamcommunity.com/sharedfiles/filedetails/?id=1802857253)
 - [Settlement Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945)
 - [Venerated Xenotype Flexibility](https://steamcommunity.com/sharedfiles/filedetails/?id=2898282983)
 - [Roo's Painting Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2881104358)
@@ -266,9 +263,9 @@
 - [FCP Tents](https://steamcommunity.com/sharedfiles/filedetails/?id=2560114781)
 - [No Prayer](https://steamcommunity.com/sharedfiles/filedetails/?id=2012791539)
 - [PriorityClean](https://steamcommunity.com/sharedfiles/filedetails/?id=1294779672)
-
+- [[ZEN] Gas Traps And Shells Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2239011415)
+- [Palisades](https://steamcommunity.com/sharedfiles/filedetails/?id=1547782284)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
