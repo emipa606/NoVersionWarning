@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.5.27 - [b]Changes[/b]
+Added 1 mods:
+AI Upscaled Textures - Mods
+
+
 1.5.26 - [b]Changes[/b]
 Removed 1 mods:
 Ambition of the Cosmic
