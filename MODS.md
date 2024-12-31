@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -246,7 +244,6 @@
 - [Megabees](https://steamcommunity.com/sharedfiles/filedetails/?id=2830700043)
 - [No Vanilla Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1930877982)
 - [Guinea Pig Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=2589545157)
-- [Less Ambrosia Addiction](https://steamcommunity.com/sharedfiles/filedetails/?id=2975380328)
 - [Stronghold - Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=3035647578)
 - [Rimhold: Crusader](https://steamcommunity.com/sharedfiles/filedetails/?id=2571464361)
 - [Disable Newcomer's Jobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2836608085)
@@ -268,9 +265,10 @@
 - [[ZEN] Gas Traps And Shells Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2239011415)
 - [Palisades](https://steamcommunity.com/sharedfiles/filedetails/?id=1547782284)
 - [AI Upscaled Textures - Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2323211835)
-
+- [No Natural Psyfocus Decrease](https://steamcommunity.com/sharedfiles/filedetails/?id=2448505614)
+- [Add Extract Skull Designator](https://steamcommunity.com/sharedfiles/filedetails/?id=2656105761)
+- [Skulls and Ivory](https://steamcommunity.com/sharedfiles/filedetails/?id=3169742181)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

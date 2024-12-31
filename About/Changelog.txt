@@ -1,5 +1,22 @@
 # Changelog for NoVersionWarning
 
+1.5.28 - [b]Changes[/b]
+Removed 3 mods:
+True
+True
+Less Ambrosia Addiction
+Added 9 mods:
+True
+True
+No Natural Psyfocus Decrease
+True
+True
+Add Extract Skull Designator
+True
+True
+Skulls and Ivory
+
+
 1.5.27 - [b]Changes[/b]
 Added 1 mods:
 AI Upscaled Textures - Mods
