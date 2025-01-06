@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.5.29 - [b]Changes[/b]
+Removed 2 mods:
+More UwU
+Tynan's book relic
+Added 3 mods:
+Simple Learning
+Simple Pallet
+Memorial Cross
+
+
 1.5.28 - [b]Changes[/b]
 Removed 3 mods:
 True
