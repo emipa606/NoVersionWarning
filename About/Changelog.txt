@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.5.30 - [b]Changes[/b]
+Removed 2 mods:
+[1.4] Odz Hairs
+Odz Face Replacer
+Added 2 mods:
+Caution Tiles [1.0+]
+Animalstrawbed
+
+
 1.5.29 - [b]Changes[/b]
 Removed 2 mods:
 More UwU

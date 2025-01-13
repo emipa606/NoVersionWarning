@@ -8,8 +8,6 @@
   <li>neceros.givememeat</li>
   <!-- Animals Forage -->
   <li>Simmin.AnimalsForage</li>
-  <!-- Better Scenario Research and Tech Level Options -->
-  <li>largemoron.betterscenarioresearch</li>
   <!-- Style Revised - Animalist -->
   <li>StyleRevised.Animalist</li>
   <!-- Bill Doors' Wall Mounted Turret Retexture -->
@@ -76,8 +74,6 @@
   <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
   <!-- Power Tools -->
   <li>Simmin.PowerTools</li>
-  <!-- [1.4] Odz Hairs -->
-  <li>1.3.Odz.Hairs</li>
   <!-- Wall Vitals Monitor -->
   <li>zzz.WallVitalsMonitor</li>
   <!-- Loft Bed -->
@@ -128,8 +124,6 @@
   <li>fyarn.BoundedRoofBuildTool</li>
   <!-- Farmland Regrowth Compatibilitly Patch -->
   <li>Aura.FarmlandRegrowthPatch</li>
-  <!-- Odz Face Replacer -->
-  <li>Odz.Facereplacer</li>
   <!-- Pawnmorpher Transhumanist -->
   <li>takel.pawnmorphertranshumanist</li>
   <!-- Craftable Blindfold -->
@@ -539,4 +533,8 @@
   <li>TheGoofyOne.SimplePallet</li>
   <!-- Memorial Cross -->
   <li>Grave.Cross</li>
+  <!-- Caution Tiles [1.0+] -->
+  <li>essecoisa.CautionTiles</li>
+  <!-- Animalstrawbed -->
+  <li>tosenbo.Animalstrawbed</li>
 </ModIdsToFix>
