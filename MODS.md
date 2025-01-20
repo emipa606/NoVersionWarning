@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -268,7 +270,10 @@
 - [Memorial Cross](https://steamcommunity.com/sharedfiles/filedetails/?id=2860953165)
 - [Caution Tiles [1.0+]](https://steamcommunity.com/sharedfiles/filedetails/?id=1543195228)
 - [Animalstrawbed](https://steamcommunity.com/sharedfiles/filedetails/?id=2000940558)
+- [[Aerocraft Framework]Helicopters and Planes](https://steamcommunity.com/sharedfiles/filedetails/?id=2974080320)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
