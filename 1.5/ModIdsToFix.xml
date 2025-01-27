@@ -102,8 +102,6 @@
   <li>sash.NoRefuelling</li>
   <!-- Sun Lights [1.4+] -->
   <li>zhrocks11.SunLights_copy</li>
-  <!-- Dubs' Bad Hygiene - More Drinkables -->
-  <li>DBH.DrinkPatches</li>
   <!-- Polyamory Beds (Vanilla Edition) -->
   <li>Meltup.PolyamoryBeds.Vanilla</li>
   <!-- Prisoners Are Not Swines -->
@@ -499,8 +497,6 @@
   <li>Mallow.HemogenCuisine</li>
   <!-- More Sanguine Houses -->
   <li>MoreSanguineHouses.Mod</li>
-  <!-- Simple Medieval Faction -->
-  <li>iiitta.SimpleMedievalFaction</li>
   <!-- BMX and Biker Outfits -->
   <li>LilScoot.BMXandBikerOutfits</li>
   <!-- [M.W]Multi-ToolBox -->
@@ -539,4 +535,8 @@
   <li>tosenbo.Animalstrawbed</li>
   <!-- [Aerocraft Framework]Helicopters and Planes -->
   <li>Asieruso23.AF.PlanesB</li>
+  <!-- Animal Equipment -->
+  <li>Owlchemist.AnimalGear.Equipment</li>
+  <!-- Functional Room -->
+  <li>miyamiya.functionalroom.latest</li>
 </ModIdsToFix>

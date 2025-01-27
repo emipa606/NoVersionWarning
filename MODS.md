@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -53,7 +51,6 @@
 - [[Ry]Draw a bead](https://steamcommunity.com/sharedfiles/filedetails/?id=2007482587)
 - [No Refuelling](https://steamcommunity.com/sharedfiles/filedetails/?id=2890072143)
 - [Sun Lights [1.4+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2038896999)
-- [Dubs' Bad Hygiene - More Drinkables](https://steamcommunity.com/sharedfiles/filedetails/?id=3106756751)
 - [Polyamory Beds (Vanilla Edition)](https://steamcommunity.com/sharedfiles/filedetails/?id=2008138191)
 - [Prisoners Are Not Swines](https://steamcommunity.com/sharedfiles/filedetails/?id=2613966365)
 - [Rimwave Music](https://steamcommunity.com/sharedfiles/filedetails/?id=1863115711)
@@ -251,7 +248,6 @@
 - [Aliens: Fireteam Elite Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=3046453581)
 - [Hemogen Cuisine](https://steamcommunity.com/sharedfiles/filedetails/?id=2933693918)
 - [More Sanguine Houses](https://steamcommunity.com/sharedfiles/filedetails/?id=2990384072)
-- [Simple Medieval Faction](https://steamcommunity.com/sharedfiles/filedetails/?id=2960079442)
 - [BMX and Biker Outfits](https://steamcommunity.com/sharedfiles/filedetails/?id=2654036625)
 - [[M.W]Multi-ToolBox](https://steamcommunity.com/sharedfiles/filedetails/?id=2824283616)
 - [Smokeleaf Lite [HH]](https://steamcommunity.com/sharedfiles/filedetails/?id=2626665539)
@@ -271,9 +267,9 @@
 - [Caution Tiles [1.0+]](https://steamcommunity.com/sharedfiles/filedetails/?id=1543195228)
 - [Animalstrawbed](https://steamcommunity.com/sharedfiles/filedetails/?id=2000940558)
 - [[Aerocraft Framework]Helicopters and Planes](https://steamcommunity.com/sharedfiles/filedetails/?id=2974080320)
-
+- [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984)
+- [Functional Room](https://steamcommunity.com/sharedfiles/filedetails/?id=2407244637)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

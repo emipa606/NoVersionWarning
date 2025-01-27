@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.5.32 - [b]Changes[/b]
+Removed 2 mods:
+Simple Medieval Faction
+Dubs' Bad Hygiene - More Drinkables
+Added 2 mods:
+Animal Equipment
+Functional Room
+
+
 1.5.31 - [b]Changes[/b]
 Added 1 mods:
 [Aerocraft Framework]Helicopters and Planes
