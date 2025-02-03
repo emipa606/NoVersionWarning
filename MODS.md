@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -269,7 +271,10 @@
 - [[Aerocraft Framework]Helicopters and Planes](https://steamcommunity.com/sharedfiles/filedetails/?id=2974080320)
 - [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984)
 - [Functional Room](https://steamcommunity.com/sharedfiles/filedetails/?id=2407244637)
+- [Supersoldiers Unleashed (VFE - Ancients Patch)](https://steamcommunity.com/sharedfiles/filedetails/?id=2799891404)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
