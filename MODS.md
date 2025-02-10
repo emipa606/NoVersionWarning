@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -42,7 +40,6 @@
 - [Wall Vitals Monitor](https://steamcommunity.com/sharedfiles/filedetails/?id=1334289344)
 - [Loft Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299)
 - [UI Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2978831421)
-- [[JPT] Clean My Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2480050136)
 - [More Ideological Words](https://steamcommunity.com/sharedfiles/filedetails/?id=2643795171)
 - [Xenotype Spawn Control](https://steamcommunity.com/sharedfiles/filedetails/?id=2891975564)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
@@ -272,9 +269,10 @@
 - [Animal Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=2568865984)
 - [Functional Room](https://steamcommunity.com/sharedfiles/filedetails/?id=2407244637)
 - [Supersoldiers Unleashed (VFE - Ancients Patch)](https://steamcommunity.com/sharedfiles/filedetails/?id=2799891404)
-
+- [Revia Race - Facial Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2820313308)
+- [Tier 2 Temperature](https://steamcommunity.com/sharedfiles/filedetails/?id=2881626861)
+- [Where's the gravel? - Grayscale Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282175)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
@@ -332,7 +330,6 @@
 - [Vee Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=1655880765)
 - [Production reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2257451032)
 - [Candy Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=2823792295)
-- [[JPT] Fertile Fields Makeover](https://steamcommunity.com/sharedfiles/filedetails/?id=1653937715)
 - [LongRangePodLauncher](https://steamcommunity.com/sharedfiles/filedetails/?id=819435604)
 - [Ideology Simplified - Raider](https://steamcommunity.com/sharedfiles/filedetails/?id=2649132044)
 - [Ideology Simplified - Rancher](https://steamcommunity.com/sharedfiles/filedetails/?id=2649504237)
@@ -419,7 +416,6 @@
 - [Cooking Breakup](https://steamcommunity.com/sharedfiles/filedetails/?id=2557474326)
 - [Quality Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2585864821)
 - [Pawns are Drowning (1.3 Update)](https://steamcommunity.com/sharedfiles/filedetails/?id=2594967723)
-- [[JPT] Clean My Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2480050136)
 - [Trainers, Serum, and AI Crafting](https://steamcommunity.com/sharedfiles/filedetails/?id=2589534007)
 - [unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1746071278)
 - [Craftable Psychics](https://steamcommunity.com/sharedfiles/filedetails/?id=2013938600)

@@ -80,8 +80,6 @@
   <li>zed.0xff.LoftBed</li>
   <!-- UI Retexture -->
   <li>Katsudon.UIRetexture</li>
-  <!-- [JPT] Clean My Buttons -->
-  <li>JPT.CleanButtons</li>
   <!-- More Ideological Words -->
   <li>purpleyam.moreideologicalwords</li>
   <!-- Xenotype Spawn Control -->
@@ -541,4 +539,10 @@
   <li>miyamiya.functionalroom.latest</li>
   <!-- Supersoldiers Unleashed (VFE - Ancients Patch) -->
   <li>VFEA.SuperUnleashed</li>
+  <!-- Revia Race - Facial Animation -->
+  <li>Vinzero.Revia.FacialAnimation</li>
+  <!-- Tier 2 Temperature -->
+  <li>Strachi.tiertwotemp</li>
+  <!-- Where's the gravel? - Grayscale Edition -->
+  <li>faeldray.gravelgray</li>
 </ModIdsToFix>
