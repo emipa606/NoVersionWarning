@@ -545,4 +545,8 @@
   <li>Strachi.tiertwotemp</li>
   <!-- Where's the gravel? - Grayscale Edition -->
   <li>faeldray.gravelgray</li>
+  <!-- Silent Sleep Accelerators -->
+  <li>metasynthetic.SilentSleepAccelerators</li>
+  <!-- Craftable -->
+  <li>Mawy.craftable</li>
 </ModIdsToFix>
