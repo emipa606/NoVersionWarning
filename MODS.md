@@ -276,6 +276,9 @@
 - [Where's the gravel? - Grayscale Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282175)
 - [Silent Sleep Accelerators](https://steamcommunity.com/sharedfiles/filedetails/?id=2582185182)
 - [Craftable](https://steamcommunity.com/sharedfiles/filedetails/?id=2232096297)
+- [Nackblad Inc Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=727687246)
+- [Binoculars Revamp for Combat Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2826459541)
+- [Glitterworld Medicine + Luciferium + Neutroamine](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282228)
 
 ## 1.4
 

@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.5.36 - [b]Changes[/b]
+Added 3 mods:
+Nackblad Inc Rimhair
+Binoculars Revamp for Combat Extended
+Glitterworld Medicine + Luciferium + Neutroamine
+
+
 1.5.35 - [b]Changes[/b]
 Added 2 mods:
 Silent Sleep Accelerators

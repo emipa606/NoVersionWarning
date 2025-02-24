@@ -549,4 +549,10 @@
   <li>metasynthetic.SilentSleepAccelerators</li>
   <!-- Craftable -->
   <li>Mawy.craftable</li>
+  <!-- Nackblad Inc Rimhair -->
+  <li>NackbladInc.Rimhair</li>
+  <!-- Binoculars Revamp for Combat Extended -->
+  <li>Keshash.BinocularsRevamp</li>
+  <!-- Glitterworld Medicine + Luciferium + Neutroamine -->
+  <li>Prolle.Glitterworld.Medicine</li>
 </ModIdsToFix>
