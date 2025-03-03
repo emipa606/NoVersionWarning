@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.5.37 - [b]Changes[/b]
+Added 1 mods:
+Animals Like Hay
+
+
 1.5.36 - [b]Changes[/b]
 Added 3 mods:
 Nackblad Inc Rimhair

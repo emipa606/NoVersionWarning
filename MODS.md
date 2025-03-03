@@ -279,6 +279,7 @@
 - [Nackblad Inc Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=727687246)
 - [Binoculars Revamp for Combat Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2826459541)
 - [Glitterworld Medicine + Luciferium + Neutroamine](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282228)
+- [Animals Like Hay](https://steamcommunity.com/sharedfiles/filedetails/?id=2894203636)
 
 ## 1.4
 
