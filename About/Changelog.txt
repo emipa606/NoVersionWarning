@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.5.38 - [b]Changes[/b]
+Removed 2 mods:
+MealWood
+removeable psychics
+Added 3 mods:
+Colorful Coats - Vanilla Animals Expanded!
+Colorful Coats - Megafauna!
+Colorful Coats - Dodos!
+
+
 1.5.37 - [b]Changes[/b]
 Added 1 mods:
 Animals Like Hay

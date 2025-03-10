@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -79,7 +77,6 @@
 - [Packaged Nutrient Paste](https://steamcommunity.com/sharedfiles/filedetails/?id=3094485664)
 - [Retextured Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2042613316)
 - [Anti-Septic Smell Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2639653385)
-- [MealWood](https://steamcommunity.com/sharedfiles/filedetails/?id=2514077894)
 - [Wooly Yaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2829581026)
 - [Tusks and Claws - A Crashlands Inspired Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2367686220)
 - [Better Surgery](https://steamcommunity.com/sharedfiles/filedetails/?id=2986469522)
@@ -280,9 +277,10 @@
 - [Binoculars Revamp for Combat Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2826459541)
 - [Glitterworld Medicine + Luciferium + Neutroamine](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282228)
 - [Animals Like Hay](https://steamcommunity.com/sharedfiles/filedetails/?id=2894203636)
-
+- [Colorful Coats - Vanilla Animals Expanded!](https://steamcommunity.com/sharedfiles/filedetails/?id=2398446130)
+- [Colorful Coats - Megafauna!](https://steamcommunity.com/sharedfiles/filedetails/?id=2560113727)
+- [Colorful Coats - Dodos!](https://steamcommunity.com/sharedfiles/filedetails/?id=2388053651)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
@@ -418,7 +416,6 @@
 - [[LTO] Texture Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2300663137)
 - [Construction Breakup](https://steamcommunity.com/sharedfiles/filedetails/?id=2557334454)
 - [Optimized Leather](https://steamcommunity.com/sharedfiles/filedetails/?id=2252798130)
-- [removeable psychics](https://steamcommunity.com/sharedfiles/filedetails/?id=2110931217)
 - [Xen's XP Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=947140943)
 - [High Density Hydroponics Realism Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2602192339)
 - [ExoHead](https://steamcommunity.com/sharedfiles/filedetails/?id=2515379509)

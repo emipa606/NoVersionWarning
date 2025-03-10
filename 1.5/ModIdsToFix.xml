@@ -154,8 +154,6 @@
   <li>tenthwit.apparel</li>
   <!-- Anti-Septic Smell Patch -->
   <li>Awan.Antisepsis.Patch</li>
-  <!-- MealWood -->
-  <li>5katz.Meatwood</li>
   <!-- [1.3] Tug Those Gas Rat Teats: Boomrats Yield Chemfuel -->
   <!-- Wooly Yaks -->
   <li>zoura3025.woolyyaks</li>
@@ -557,4 +555,10 @@
   <li>Prolle.Glitterworld.Medicine</li>
   <!-- Animals Like Hay -->
   <li>jp.AnimalsLikeHay</li>
+  <!-- Colorful Coats - Vanilla Animals Expanded! -->
+  <li>purpleyam.colorfulcoats.vaewildlife</li>
+  <!-- Colorful Coats - Megafauna! -->
+  <li>purpleyam.colorfulcoats.spinomegafauna</li>
+  <!-- Colorful Coats - Dodos! -->
+  <li>purpleyam.colorfulcoats.hlxdodo</li>
 </ModIdsToFix>
