@@ -165,8 +165,6 @@
   <li>Timuttie.JustLeaveAlready</li>
   <!-- No Pseudo Translate无开发者乱码 -->
   <li>LazyCat.NoPseudoTranslate</li>
-  <!-- Simply Wheel Barrow (Vehicle) -->
-  <li>CaptainTesss.MWB</li>
   <!-- Reasonable Components -->
   <li>twistedpacifist.ReasonableComponents</li>
   <!-- VNPE Fridge Fix -->
@@ -561,4 +559,6 @@
   <li>purpleyam.colorfulcoats.spinomegafauna</li>
   <!-- Colorful Coats - Dodos! -->
   <li>purpleyam.colorfulcoats.hlxdodo</li>
+  <!-- ETRT: Medicine Production -->
+  <li>ETRT.MedicineProduction</li>
 </ModIdsToFix>
