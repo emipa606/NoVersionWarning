@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.5.40 - [b]Changes[/b]
+Added 1 mods:
+Sleep Meditation
+
+
 1.5.39 - [b]Changes[/b]
 Removed 1 mods:
 Simply Wheel Barrow (Vehicle)
