@@ -283,6 +283,8 @@
 - [Colorful Coats - Dodos!](https://steamcommunity.com/sharedfiles/filedetails/?id=2388053651)
 - [ETRT: Medicine Production](https://steamcommunity.com/sharedfiles/filedetails/?id=1544557152)
 - [Sleep Meditation](https://steamcommunity.com/sharedfiles/filedetails/?id=3029526972)
+- [Additional Auto-Slaughter Button](https://steamcommunity.com/sharedfiles/filedetails/?id=2888973018)
+- [[Vee]Apparel Retexture (upscaled)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879027060)
 
 ## 1.4
 

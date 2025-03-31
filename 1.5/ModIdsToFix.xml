@@ -563,4 +563,8 @@
   <li>ETRT.MedicineProduction</li>
   <!-- Sleep Meditation -->
   <li>Sl4vP0weR.SleepMeditation</li>
+  <!-- Additional Auto-Slaughter Button -->
+  <li>Backgammon.AASButton</li>
+  <!-- [Vee]Apparel Retexture (upscaled) -->
+  <li>Lat.ApparelRetexture_upscaled</li>
 </ModIdsToFix>

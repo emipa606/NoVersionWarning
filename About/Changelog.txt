@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.5.41 - [b]Changes[/b]
+Added 2 mods:
+Additional Auto-Slaughter Button
+[Vee]Apparel Retexture (upscaled)
+
+
 1.5.40 - [b]Changes[/b]
 Added 1 mods:
 Sleep Meditation
