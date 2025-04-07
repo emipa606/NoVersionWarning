@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.5.42 - [b]Changes[/b]
+Added 2 mods:
+[SYR] Terrain
+Combat Extended Aimbot
+
+
 1.5.41 - [b]Changes[/b]
 Added 2 mods:
 Additional Auto-Slaughter Button

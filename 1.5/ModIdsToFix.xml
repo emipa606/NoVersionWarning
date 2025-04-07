@@ -567,4 +567,8 @@
   <li>Backgammon.AASButton</li>
   <!-- [Vee]Apparel Retexture (upscaled) -->
   <li>Lat.ApparelRetexture_upscaled</li>
+  <!-- [SYR] Terrain -->
+  <li>syrchalis.terrain</li>
+  <!-- Combat Extended Aimbot -->
+  <li>bustedbunny.combatextendedaimbot</li>
 </ModIdsToFix>

@@ -285,6 +285,8 @@
 - [Sleep Meditation](https://steamcommunity.com/sharedfiles/filedetails/?id=3029526972)
 - [Additional Auto-Slaughter Button](https://steamcommunity.com/sharedfiles/filedetails/?id=2888973018)
 - [[Vee]Apparel Retexture (upscaled)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879027060)
+- [[SYR] Terrain](https://steamcommunity.com/sharedfiles/filedetails/?id=1544439671)
+- [Combat Extended Aimbot](https://steamcommunity.com/sharedfiles/filedetails/?id=2590848610)
 
 ## 1.4
 
