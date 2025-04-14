@@ -287,6 +287,8 @@
 - [[Vee]Apparel Retexture (upscaled)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879027060)
 - [[SYR] Terrain](https://steamcommunity.com/sharedfiles/filedetails/?id=1544439671)
 - [Combat Extended Aimbot](https://steamcommunity.com/sharedfiles/filedetails/?id=2590848610)
+- [Persona Core to High Subcore](https://steamcommunity.com/sharedfiles/filedetails/?id=3160469412)
+- [Packed Sand and Dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2493275334)
 
 ## 1.4
 

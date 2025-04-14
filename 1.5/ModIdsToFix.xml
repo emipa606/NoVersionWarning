@@ -571,4 +571,8 @@
   <li>syrchalis.terrain</li>
   <!-- Combat Extended Aimbot -->
   <li>bustedbunny.combatextendedaimbot</li>
+  <!-- Persona Core to High Subcore -->
+  <li>DN.PersonaHighSubcore</li>
+  <!-- Packed Sand and Dirt -->
+  <li>Owlchemist.PackedSand</li>
 </ModIdsToFix>
