@@ -289,6 +289,8 @@
 - [Combat Extended Aimbot](https://steamcommunity.com/sharedfiles/filedetails/?id=2590848610)
 - [Persona Core to High Subcore](https://steamcommunity.com/sharedfiles/filedetails/?id=3160469412)
 - [Packed Sand and Dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2493275334)
+- [Sacred White Fox - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2810035167)
+- [Devilstrand Animals](https://steamcommunity.com/sharedfiles/filedetails/?id=2523496761)
 
 ## 1.4
 

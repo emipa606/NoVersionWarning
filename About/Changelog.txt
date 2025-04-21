@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.5.44 - [b]Changes[/b]
+Added 2 mods:
+Sacred White Fox - Upscaled
+Devilstrand Animals
+
+
 1.5.43 - [b]Changes[/b]
 Added 2 mods:
 Persona Core to High Subcore
