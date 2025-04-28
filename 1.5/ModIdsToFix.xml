@@ -579,4 +579,8 @@
   <li>Vinzero.SWhiteFoxUP</li>
   <!-- Devilstrand Animals -->
   <li>ATK.DevilstrandAnimals</li>
+  <!-- Animal Tab Icons -->
+  <li>sky.ui.animaltabicons</li>
+  <!-- Plantable Wild Berries -->
+  <li>ChrisBradel.PlantableWildBerries</li>
 </ModIdsToFix>

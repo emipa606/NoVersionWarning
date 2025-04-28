@@ -291,6 +291,8 @@
 - [Packed Sand and Dirt](https://steamcommunity.com/sharedfiles/filedetails/?id=2493275334)
 - [Sacred White Fox - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2810035167)
 - [Devilstrand Animals](https://steamcommunity.com/sharedfiles/filedetails/?id=2523496761)
+- [Animal Tab Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2913312848)
+- [Plantable Wild Berries](https://steamcommunity.com/sharedfiles/filedetails/?id=1527882769)
 
 ## 1.4
 

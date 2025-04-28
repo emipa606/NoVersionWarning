@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.5.45 - [b]Changes[/b]
+Added 2 mods:
+Animal Tab Icons
+Plantable Wild Berries
+
+
 1.5.44 - [b]Changes[/b]
 Added 2 mods:
 Sacred White Fox - Upscaled
