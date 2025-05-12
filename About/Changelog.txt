@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.5.46 - [b]Changes[/b]
+Removed 1 mods:
+101 Pawn Badges
+
+
 1.5.45 - [b]Changes[/b]
 Added 2 mods:
 Animal Tab Icons

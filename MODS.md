@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -210,7 +208,6 @@
 - [Thrumbo reskin (official plush)](https://steamcommunity.com/sharedfiles/filedetails/?id=2968299755)
 - [Girl's Frontline Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=1713193296)
 - [SortBy](https://steamcommunity.com/sharedfiles/filedetails/?id=2819678889)
-- [101 Pawn Badges](https://steamcommunity.com/sharedfiles/filedetails/?id=2465364521)
 - [Pawn Badge - Assorted Job Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2184581646)
 - [Remove Weather Overlays](https://steamcommunity.com/sharedfiles/filedetails/?id=2471914077)
 - [Wood Is Natural (For Trees)](https://steamcommunity.com/sharedfiles/filedetails/?id=2895354126)
@@ -293,9 +290,7 @@
 - [Devilstrand Animals](https://steamcommunity.com/sharedfiles/filedetails/?id=2523496761)
 - [Animal Tab Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2913312848)
 - [Plantable Wild Berries](https://steamcommunity.com/sharedfiles/filedetails/?id=1527882769)
-
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
