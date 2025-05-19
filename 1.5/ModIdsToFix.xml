@@ -581,4 +581,12 @@
   <li>sky.ui.animaltabicons</li>
   <!-- Plantable Wild Berries -->
   <li>ChrisBradel.PlantableWildBerries</li>
+  <!-- More Darklight Colours -->
+  <li>Endoxis.MoreDarklightColours</li>
+  <!-- Jelano Retexture - Rim War -->
+  <li>JelanoRetexture.RimWar</li>
+  <!-- Jelano Retexture - Vanilla Outposts -->
+  <li>JelanoRetexture.VanillaOutposts</li>
+  <!-- Jelano retexture - Factional War -->
+  <li>JelanoRetexture.FactionalWar</li>
 </ModIdsToFix>

@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.5.47 - [b]Changes[/b]
+Added 4 mods:
+More Darklight Colours
+Jelano Retexture - Rim War
+Jelano Retexture - Vanilla Outposts
+Jelano retexture - Factional War
+
+
 1.5.46 - [b]Changes[/b]
 Removed 1 mods:
 101 Pawn Badges

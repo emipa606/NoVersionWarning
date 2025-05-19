@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -290,7 +292,13 @@
 - [Devilstrand Animals](https://steamcommunity.com/sharedfiles/filedetails/?id=2523496761)
 - [Animal Tab Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2913312848)
 - [Plantable Wild Berries](https://steamcommunity.com/sharedfiles/filedetails/?id=1527882769)
+- [More Darklight Colours](https://steamcommunity.com/sharedfiles/filedetails/?id=2889392135)
+- [Jelano Retexture - Rim War](https://steamcommunity.com/sharedfiles/filedetails/?id=2983090422)
+- [Jelano Retexture - Vanilla Outposts](https://steamcommunity.com/sharedfiles/filedetails/?id=3000381668)
+- [Jelano retexture - Factional War](https://steamcommunity.com/sharedfiles/filedetails/?id=2982697389)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
