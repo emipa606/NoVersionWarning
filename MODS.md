@@ -296,6 +296,7 @@
 - [Jelano Retexture - Rim War](https://steamcommunity.com/sharedfiles/filedetails/?id=2983090422)
 - [Jelano Retexture - Vanilla Outposts](https://steamcommunity.com/sharedfiles/filedetails/?id=3000381668)
 - [Jelano retexture - Factional War](https://steamcommunity.com/sharedfiles/filedetails/?id=2982697389)
+- [Ambrosia Uproot](https://steamcommunity.com/sharedfiles/filedetails/?id=2701864546)
 
 ## 1.4
 
