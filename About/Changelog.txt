@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.5.49 - [b]Changes[/b]
+Removed 1 mods:
+Xenotype Icon: Elf
+Added 2 mods:
+Sash is Neolithic
+Ultra Vanilla Theme
+
+
 1.5.48 - [b]Changes[/b]
 Added 1 mods:
 Ambrosia Uproot

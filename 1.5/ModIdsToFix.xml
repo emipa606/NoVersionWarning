@@ -385,8 +385,6 @@
   <li>mentalproblem.nightstalker</li>
   <!-- Machined Components -->
   <li>AlexNares.MachinedComponents</li>
-  <!-- Xenotype Icon: Elf -->
-  <li>Gniwu.XenotypeIconElf</li>
   <!-- SuperCoolMod2 -->
   <li>Magic.SuperCoolMod2</li>
   <!-- Ideoligion icon Holy Nation -->
@@ -591,4 +589,8 @@
   <li>JelanoRetexture.FactionalWar</li>
   <!-- Ambrosia Uproot -->
   <li>Katte.AmbrosiaUproot</li>
+  <!-- Sash is Neolithic -->
+  <li>iiitta.SashisNeolithic</li>
+  <!-- Ultra Vanilla Theme -->
+  <li>com.yayo.ultraVanillaTheme</li>
 </ModIdsToFix>

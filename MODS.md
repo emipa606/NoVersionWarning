@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -194,7 +192,6 @@
 - [[Patch] Cosmic Horrors - Sellable MiGo Energy Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2933648691)
 - [Nightstalker](https://steamcommunity.com/sharedfiles/filedetails/?id=3163620989)
 - [Machined Components](https://steamcommunity.com/sharedfiles/filedetails/?id=3157665111)
-- [Xenotype Icon: Elf](https://steamcommunity.com/sharedfiles/filedetails/?id=3075806211)
 - [SuperCoolMod2](https://steamcommunity.com/sharedfiles/filedetails/?id=3040728277)
 - [Ideoligion icon Holy Nation](https://steamcommunity.com/sharedfiles/filedetails/?id=2801842699)
 - [Hydroponic Hay](https://steamcommunity.com/sharedfiles/filedetails/?id=874368789)
@@ -297,9 +294,9 @@
 - [Jelano Retexture - Vanilla Outposts](https://steamcommunity.com/sharedfiles/filedetails/?id=3000381668)
 - [Jelano retexture - Factional War](https://steamcommunity.com/sharedfiles/filedetails/?id=2982697389)
 - [Ambrosia Uproot](https://steamcommunity.com/sharedfiles/filedetails/?id=2701864546)
-
+- [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
+- [Ultra Vanilla Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=2012631342)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
