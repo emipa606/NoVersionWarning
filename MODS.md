@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -296,7 +298,12 @@
 - [Ambrosia Uproot](https://steamcommunity.com/sharedfiles/filedetails/?id=2701864546)
 - [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
 - [Ultra Vanilla Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=2012631342)
+- [Bonible's VEW:Laser Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2874341239)
+- [Ancient Litter Begone](https://steamcommunity.com/sharedfiles/filedetails/?id=2572075987)
+- [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

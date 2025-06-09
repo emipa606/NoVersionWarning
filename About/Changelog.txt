@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.5.50 - [b]Changes[/b]
+Added 3 mods:
+Bonible's VEW:Laser Retexture
+Ancient Litter Begone
+Roppoi Hair - Upscaled
+
+
 1.5.49 - [b]Changes[/b]
 Removed 1 mods:
 Xenotype Icon: Elf
