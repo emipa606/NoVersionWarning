@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 using System.Xml;
 using HarmonyLib;
@@ -11,9 +12,9 @@ namespace NoVersionWarning;
 
 public static class Main
 {
-    public static Version currentVersion;
-    public static List<string> modIdsToUpdate;
-    public static HashSet<string> updatedMods;
+    public static Version CurrentVersion;
+    public static List<string> ModIdsToUpdate;
+    public static HashSet<string> UpdatedMods;
 }
 
 public class NoVersionWarningMod : Mod
@@ -27,11 +28,11 @@ public class NoVersionWarningMod : Mod
             return;
         }
 
-        Main.currentVersion = new Version(currentVersionString);
-        Main.updatedMods = [];
-        Main.modIdsToUpdate = fixedIdsIn();
+        Main.CurrentVersion = new Version(currentVersionString);
+        Main.UpdatedMods = [];
+        Main.ModIdsToUpdate = fixedIdsIn();
 
-        if (!Main.modIdsToUpdate.Any())
+        if (!Main.ModIdsToUpdate.Any())
         {
             Log.Message("[NoVersionWarning]: No mod-ids found, ignoring.");
             return;
@@ -43,7 +44,7 @@ public class NoVersionWarningMod : Mod
 
     private List<string> fixedIdsIn()
     {
-        var xmlFolder = Path.Combine(Content.RootDir, Main.currentVersion.ToString());
+        var xmlFolder = Path.Combine(Content.RootDir, Main.CurrentVersion.ToString());
         if (!Directory.Exists(xmlFolder))
         {
             return [];
@@ -58,13 +59,8 @@ public class NoVersionWarningMod : Mod
         var xmlDocument = new XmlDocument();
         xmlDocument.Load(xmlFile);
 
-        var returnValue = new List<string>();
         var modIds = xmlDocument.GetElementsByTagName("li");
-        foreach (XmlNode modId in modIds)
-        {
-            returnValue.Add(modId.InnerText);
-        }
 
-        return returnValue;
+        return (from XmlNode modId in modIds select modId.InnerText).ToList();
     }
 }

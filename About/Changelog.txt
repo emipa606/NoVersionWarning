@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.6.0 - Mod updated for 1.6 and passed autotests
+
+
 1.5.50 - [b]Changes[/b]
 Added 3 mods:
 Bonible's VEW:Laser Retexture
