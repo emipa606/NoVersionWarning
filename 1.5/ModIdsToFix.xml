@@ -545,8 +545,6 @@
   <li>NackbladInc.Rimhair</li>
   <!-- Binoculars Revamp for Combat Extended -->
   <li>Keshash.BinocularsRevamp</li>
-  <!-- Glitterworld Medicine + Luciferium + Neutroamine -->
-  <li>Prolle.Glitterworld.Medicine</li>
   <!-- Animals Like Hay -->
   <li>jp.AnimalsLikeHay</li>
   <!-- Colorful Coats - Vanilla Animals Expanded! -->
@@ -599,4 +597,16 @@
   <li>Clib.AncientLitterBegone</li>
   <!-- Roppoi Hair - Upscaled -->
   <li>Vinzero.RophairUP</li>
+  <!-- Heat Pumps -->
+  <li>Pineapple.HeatPump</li>
+  <!-- [HB] Insect Meat Reskin -->
+  <li>HB.Reskin.InsectMeat</li>
+  <!-- [HB] Pemmican Reskin -->
+  <li>HB.Reskin.Pemmican</li>
+  <!-- Another Milk Retexture -->
+  <li>Mallow.MilkRetexture</li>
+  <!-- Baby muffalo is Muffalump -->
+  <li>Baby.Muffalump</li>
+  <!-- CorpseTab -->
+  <li>tikubonn.CorpseTab</li>
 </ModIdsToFix>

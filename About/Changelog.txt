@@ -1,5 +1,25 @@
 # Changelog for NoVersionWarning
 
+1.6.1 - [b]Changes[/b]
+Removed 1 mods:
+Glitterworld Medicine + Luciferium + Neutroamine for version 1.5
+Added 14 mods:
+Heat Pumps for 1.5
+Personal Work Categories
+Tech Tree Patch Framework
+JustStorytellers
+[HB] Insect Meat Reskin for 1.5
+[HB] Insect Meat Reskin
+[HB] Pemmican Reskin for 1.5
+[HB] Pemmican Reskin
+Another Milk Retexture for 1.5
+Another Milk Retexture
+Baby muffalo is Muffalump for 1.5
+Baby muffalo is Muffalump
+[GMT] Trading Spot
+CorpseTab for 1.5
+
+
 1.6.0 - Mod updated for 1.6 and passed autotests
 
 

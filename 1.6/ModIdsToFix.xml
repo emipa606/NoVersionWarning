@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
+  <!-- Personal Work Categories -->
+  <li>densevoid.hui.personalworkcat</li>
+  <!-- Tech Tree Patch Framework -->
+  <li>GonDragon.TTPF</li>
+  <!-- JustStorytellers -->
+  <li>tiagocc0.JustStorytellers</li>
+  <!-- [HB] Insect Meat Reskin -->
+  <li>HB.Reskin.InsectMeat</li>
+  <!-- [HB] Pemmican Reskin -->
+  <li>HB.Reskin.Pemmican</li>
+  <!-- Another Milk Retexture -->
+  <li>Mallow.MilkRetexture</li>
+  <!-- Baby muffalo is Muffalump -->
+  <li>Baby.Muffalump</li>
+  <!-- [GMT] Trading Spot -->
+  <li>Grizzlemethis.TradingSpot.RW</li>
+  <!-- Optimization: Leathers - C# Edition -->
+  <li>Scorpio.OptimizationLeathers</li>
 </ModIdsToFix>
