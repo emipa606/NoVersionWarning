@@ -4,8 +4,6 @@
   <li>densevoid.hui.personalworkcat</li>
   <!-- Tech Tree Patch Framework -->
   <li>GonDragon.TTPF</li>
-  <!-- JustStorytellers -->
-  <li>tiagocc0.JustStorytellers</li>
   <!-- [HB] Insect Meat Reskin -->
   <li>HB.Reskin.InsectMeat</li>
   <!-- [HB] Pemmican Reskin -->
@@ -18,4 +16,8 @@
   <li>Grizzlemethis.TradingSpot.RW</li>
   <!-- Optimization: Leathers - C# Edition -->
   <li>Scorpio.OptimizationLeathers</li>
+  <!-- Sash is Neolithic -->
+  <li>iiitta.SashisNeolithic</li>
+  <!-- Royalty Patch for [MUS]Gothicstyle Vampire Furniture  -->
+  <li>nm93.P.MUSGVF</li>
 </ModIdsToFix>

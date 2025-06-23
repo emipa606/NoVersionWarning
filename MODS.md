@@ -2,12 +2,13 @@
 ## 1.6
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Tech Tree Patch Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=3328259637)
-- [JustStorytellers](https://steamcommunity.com/sharedfiles/filedetails/?id=3217699484)
 - [[HB] Insect Meat Reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2951104603)
 - [[HB] Pemmican Reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2950042191)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
+- [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
+- [Royalty Patch for [MUS]Gothicstyle Vampire Furniture ](https://steamcommunity.com/sharedfiles/filedetails/?id=3135383068)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
@@ -313,6 +314,7 @@
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [CorpseTab](https://steamcommunity.com/sharedfiles/filedetails/?id=2599842476)
+- [Friendly Fire Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1582686191)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)

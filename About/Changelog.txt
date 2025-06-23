@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.2 - [b]Changes[/b]
+Removed 1 mods:
+JustStorytellers
+Added 3 mods:
+Sash is Neolithic
+Royalty Patch for [MUS]Gothicstyle Vampire Furniture 
+Friendly Fire Tweaks for 1.5
+
+
 1.6.1 - [b]Changes[/b]
 Removed 1 mods:
 Glitterworld Medicine + Luciferium + Neutroamine for version 1.5
