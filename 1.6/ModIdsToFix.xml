@@ -20,4 +20,6 @@
   <li>iiitta.SashisNeolithic</li>
   <!-- Royalty Patch for [MUS]Gothicstyle Vampire Furniture  -->
   <li>nm93.P.MUSGVF</li>
+  <!-- Show Fertility on Health Tab -->
+  <li>zilla.fertilityinfo</li>
 </ModIdsToFix>

@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.6.3 - [b]Changes[/b]
+Removed 2 mods:
+Xenotype Spawn Control for version 1.5
+Packaged Nutrient Paste for version 1.5
+Added 1 mods:
+Show Fertility on Health Tab
+
+
 1.6.2 - [b]Changes[/b]
 Removed 1 mods:
 JustStorytellers

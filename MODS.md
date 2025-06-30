@@ -9,6 +9,7 @@
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
 - [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
 - [Royalty Patch for [MUS]Gothicstyle Vampire Furniture ](https://steamcommunity.com/sharedfiles/filedetails/?id=3135383068)
+- [Show Fertility on Health Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=2879306896)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
@@ -51,7 +52,6 @@
 - [Loft Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=2961708299)
 - [UI Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2978831421)
 - [More Ideological Words](https://steamcommunity.com/sharedfiles/filedetails/?id=2643795171)
-- [Xenotype Spawn Control](https://steamcommunity.com/sharedfiles/filedetails/?id=2891975564)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
 - [Textile Stats](https://steamcommunity.com/sharedfiles/filedetails/?id=2045777828)
 - [Settlement Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945)
@@ -84,7 +84,6 @@
 - [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
 - [World Map Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2523248314)
 - [Faux's Xenotype Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2906847036)
-- [Packaged Nutrient Paste](https://steamcommunity.com/sharedfiles/filedetails/?id=3094485664)
 - [Retextured Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2042613316)
 - [Anti-Septic Smell Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2639653385)
 - [Wooly Yaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2829581026)
