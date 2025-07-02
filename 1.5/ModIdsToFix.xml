@@ -28,8 +28,6 @@
   <li>weilbyte.renamecolony</li>
   <!-- Fixable Mood Debuffs Alert -->
   <li>fyarn.FixableMoodDebuffsAlert</li>
-  <!-- TribalInstruments Retexture -->
-  <li>ghost.tribalinstrumentsretex</li>
   <!-- Bradson's Main Button Icons for VE Textures -->
   <li>bs.mbifvte</li>
   <!-- Outposts No Mineable Plasteel and Components -->
@@ -223,8 +221,6 @@
   <li>Brat.resourcemuffaloes</li>
   <!-- No Debris on Smoothed Floors -->
   <li>Herigony.NoDebris</li>
-  <!-- Tribal Ideology Icons -->
-  <li>GHOST.TribalIcons</li>
   <!-- Veinminer R1.1 -->
   <li>Ogliss.Toastehs.Veinminer</li>
   <!-- New Mech: Mini-Miner -->
@@ -261,8 +257,6 @@
   <li>Nerdy.PrisonerMoodBoost</li>
   <!-- Pamonha Mod -->
   <li>mahrimba.pamonha</li>
-  <!-- Morrowrim Floor Doodles -->
-  <li>GHOST.MorrowrimDoodles</li>
   <!-- Smokeleaf Severity -->
   <li>Skelsh.SmokeleadSeverity</li>
   <!-- SkettiMod - Unofficial Vanilla Cooking Expanded Addon -->

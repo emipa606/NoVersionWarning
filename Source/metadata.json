@@ -9,5 +9,10 @@
     " compatible mods",
     "compatibility"
   ],
-  "LastXmlCleaning": "2025-06-30T11:07:31.3179203+02:00"
+  "LastXmlCleaning": "2025-07-02T15:21:46.7756546+02:00",
+  "Patches": false,
+  "Defs": false,
+  "Assemblies": true,
+  "LinesOfCode": 5639.0,
+  "LinesOfXML": 0
 }

@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.4 - [b]Changes[/b]
+Removed 3 mods:
+Morrowrim Floor Doodles for version 1.5
+Tribal Ideology Icons for version 1.5
+TribalInstruments Retexture for version 1.5
+
+
 1.6.3 - [b]Changes[/b]
 Removed 2 mods:
 Xenotype Spawn Control for version 1.5
