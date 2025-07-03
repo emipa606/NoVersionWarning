@@ -9,6 +9,7 @@
 - [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
 - [Royalty Patch for [MUS]Gothicstyle Vampire Furniture ](https://steamcommunity.com/sharedfiles/filedetails/?id=3135383068)
 - [Show Fertility on Health Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=2879306896)
+- [Work Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2029596262)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
