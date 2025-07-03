@@ -1,7 +1,6 @@
 # Currently covered mods
 ## 1.6
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
-- [Tech Tree Patch Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=3328259637)
 - [[HB] Insect Meat Reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2951104603)
 - [[HB] Pemmican Reskin](https://steamcommunity.com/sharedfiles/filedetails/?id=2950042191)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
