@@ -261,8 +261,6 @@
   <li>Skelsh.SmokeleadSeverity</li>
   <!-- SkettiMod - Unofficial Vanilla Cooking Expanded Addon -->
   <li>Saximaphone.SkettiMod</li>
-  <!-- Rubber Trees! -->
-  <li>cubicPsycho.RTRubber</li>
   <!-- Potato Battery -->
   <li>TaosChagic.PotatoBattery</li>
   <!-- Potato Cannon -->
@@ -387,8 +385,6 @@
   <li>pleccymm.hedgehogs</li>
   <!-- Authority Outlander -->
   <li>iiitta.AuthorityOutlander</li>
-  <!-- Alpha Bees - Stuffed -->
-  <li>jelly.RBStuffed</li>
   <!-- THE LEGENDARY THRUMBO DOLL RESKIN -->
   <li>IK.ThrumboReskin</li>
   <!-- Reborn into a New World! [Vanilla Expansion] -->
@@ -439,8 +435,6 @@
   <li>Panacea.POW.Militor</li>
   <!-- Craftable Reinforced Barrels -->
   <li>RoyalF.CraftableRBarrels</li>
-  <!-- Faster Prunning -->
-  <li>Faster.Prunning</li>
   <!-- Stone To Steel Hardcore 1.4  -->
   <li>captaingeorge.StoneToSteelHardcore</li>
   <!-- Show Fertility on Health Tab -->
@@ -497,8 +491,6 @@
   <li>n7huntsman.palisades</li>
   <!-- AI Upscaled Textures - Mods -->
   <li>AIRetexture.Mods</li>
-  <!-- No Natural Psyfocus Decrease -->
-  <li>zirc.NoNaturalPsyfocusDecrease</li>
   <!-- Add Extract Skull Designator -->
   <li>okthisismyidnow.AddExtractSkullDesignator.Specific</li>
   <!-- Skulls and Ivory -->
@@ -527,8 +519,6 @@
   <li>Strachi.tiertwotemp</li>
   <!-- Where's the gravel? - Grayscale Edition -->
   <li>faeldray.gravelgray</li>
-  <!-- Silent Sleep Accelerators -->
-  <li>metasynthetic.SilentSleepAccelerators</li>
   <!-- Craftable -->
   <li>Mawy.craftable</li>
   <!-- Nackblad Inc Rimhair -->
@@ -601,4 +591,6 @@
   <li>tikubonn.CorpseTab</li>
   <!-- Friendly Fire Tweaks -->
   <li>Alex.FriendlyFireTweaks</li>
+  <!-- Max Gain Cap Removal -->
+  <li>Onkelflo.MaxGainCapRemoval</li>
 </ModIdsToFix>

@@ -1,5 +1,37 @@
 # Changelog for NoVersionWarning
 
+1.6.6 - [b]Changes[/b]
+Removed 5 mods:
+Rubber Trees! for version 1.5
+No Natural Psyfocus Decrease for version 1.5
+Silent Sleep Accelerators for version 1.5
+Alpha Bees - Stuffed for version 1.5
+Faster Prunning for version 1.5
+Added 22 mods:
+Max Gain Cap Removal for 1.5
+Genetic Natural Focus
+Weapon Condition Matters, and so does Quality
+Rimano: Architect Icons
+Layers: Capes and Armor
+More Beautiful Bodies
+Rustic Meal Retexture
+Simple FX: Smoke Patches
+DocPawnOverhaul
+Craftable Deathrest Capacity Serum
+Infestations Spawn in Darkness
+Ovums For Prisoners
+I Don't Care
+Mining Priority
+Better Vanilla Masking
+[KV] Don't stop the music
+[WD] Fast Moisture Pumps
+Actually Vanilla Music Expansion
+[SYR] Marbled Marble
+Land in water
+Scrollable Gizmos
+Scenario Searchbars
+
+
 1.6.5 - [b]Changes[/b]
 Removed 1 mods:
 Tech Tree Patch Framework

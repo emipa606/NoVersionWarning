@@ -20,4 +20,46 @@
   <li>nm93.P.MUSGVF</li>
   <!-- Show Fertility on Health Tab -->
   <li>zilla.fertilityinfo</li>
+  <!-- Genetic Natural Focus -->
+  <li>DanielWedemeyer.GeneticNaturalFocus</li>
+  <!-- Weapon Condition Matters, and so does Quality -->
+  <li>Xaviien.WeaponConditionMattersAndSoDoesQuality</li>
+  <!-- Rimano: Architect Icons -->
+  <li>Deadmano.RimanoArchitectIcons</li>
+  <!-- Layers: Capes and Armor -->
+  <li>Yy.CapesandArmor</li>
+  <!-- More Beautiful Bodies -->
+  <li>Burpee.MoreBeautifulBodies</li>
+  <!-- Rustic Meal Retexture -->
+  <li>Jelheb.RusticMealRetexture</li>
+  <!-- Simple FX: Smoke Patches -->
+  <li>MysticFelines.SimpleFX.Smoke2.Patches</li>
+  <!-- DocPawnOverhaul -->
+  <li>drzhivago.docpawnoverhaul</li>
+  <!-- Craftable Deathrest Capacity Serum -->
+  <li>MajesticMadman.CraftableDeathrest</li>
+  <!-- Infestations Spawn in Darkness -->
+  <li>Murmur.ISiD</li>
+  <!-- Ovums For Prisoners -->
+  <li>Sert.OvumsForPrisoners</li>
+  <!-- I Don't Care -->
+  <li>Virstag.DontCare</li>
+  <!-- Mining Priority -->
+  <li>Uuugggg.MiningPriority</li>
+  <!-- Better Vanilla Masking -->
+  <li>Owlchemist.BetterVanillaMasking</li>
+  <!-- [KV] Don't stop the music -->
+  <li>dontstopthemusic.kv.rw</li>
+  <!-- [WD] Fast Moisture Pumps -->
+  <li>Wemd.FastMoisturePumps</li>
+  <!-- Actually Vanilla Music Expansion -->
+  <li>Billnotic.ActuallyVanillaMusicExpansion</li>
+  <!-- [SYR] Marbled Marble -->
+  <li>syrchalis.marbledmarble</li>
+  <!-- Land in water -->
+  <li>NeziTheAvali.LandInWater</li>
+  <!-- Scrollable Gizmos -->
+  <li>Blockdude.ScrollableGizmos</li>
+  <!-- Scenario Searchbars -->
+  <li>nimrag.scenariosearchbar</li>
 </ModIdsToFix>
