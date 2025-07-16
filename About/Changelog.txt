@@ -1,5 +1,17 @@
 # Changelog for NoVersionWarning
 
+1.6.7 - [b]Changes[/b]
+Removed 8 mods:
+Misc Building Changes Type B2 for version 1.5
+Tribal Masks For All for version 1.5
+Rimano: Architect Icons
+Misc Building Changes Type A for version 1.5
+Boosted Transport Pods for version 1.5
+Smaller Work Stations for version 1.5
+Hundred Percent Surgery for version 1.5
+Misc Building Changes Type B1 for version 1.5
+
+
 1.6.6 - [b]Changes[/b]
 Removed 5 mods:
 Rubber Trees! for version 1.5
