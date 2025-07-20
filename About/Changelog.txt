@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.6.8 - [b]Changes[/b]
+Removed 6 mods:
+I Don't Care
+Rustic Meal Retexture
+Actually Vanilla Music Expansion
+More Beautiful Bodies
+UI Retexture for version 1.5
+OP-G Stuffed Arms'n'Armor for version 1.5
+
+
 1.6.7 - [b]Changes[/b]
 Removed 8 mods:
 Misc Building Changes Type B2 for version 1.5
