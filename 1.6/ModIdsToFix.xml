@@ -2,10 +2,6 @@
 <ModIdsToFix>
   <!-- Personal Work Categories -->
   <li>densevoid.hui.personalworkcat</li>
-  <!-- [HB] Insect Meat Reskin -->
-  <li>HB.Reskin.InsectMeat</li>
-  <!-- [HB] Pemmican Reskin -->
-  <li>HB.Reskin.Pemmican</li>
   <!-- Another Milk Retexture -->
   <li>Mallow.MilkRetexture</li>
   <!-- Baby muffalo is Muffalump -->
@@ -16,24 +12,18 @@
   <li>Scorpio.OptimizationLeathers</li>
   <!-- Sash is Neolithic -->
   <li>iiitta.SashisNeolithic</li>
-  <!-- Royalty Patch for [MUS]Gothicstyle Vampire Furniture  -->
-  <li>nm93.P.MUSGVF</li>
   <!-- Show Fertility on Health Tab -->
   <li>zilla.fertilityinfo</li>
   <!-- Genetic Natural Focus -->
   <li>DanielWedemeyer.GeneticNaturalFocus</li>
   <!-- Weapon Condition Matters, and so does Quality -->
   <li>Xaviien.WeaponConditionMattersAndSoDoesQuality</li>
-  <!-- Layers: Capes and Armor -->
-  <li>Yy.CapesandArmor</li>
   <!-- Simple FX: Smoke Patches -->
   <li>MysticFelines.SimpleFX.Smoke2.Patches</li>
   <!-- DocPawnOverhaul -->
   <li>drzhivago.docpawnoverhaul</li>
   <!-- Craftable Deathrest Capacity Serum -->
   <li>MajesticMadman.CraftableDeathrest</li>
-  <!-- Infestations Spawn in Darkness -->
-  <li>Murmur.ISiD</li>
   <!-- Ovums For Prisoners -->
   <li>Sert.OvumsForPrisoners</li>
   <!-- Mining Priority -->
@@ -52,4 +42,116 @@
   <li>Blockdude.ScrollableGizmos</li>
   <!-- Scenario Searchbars -->
   <li>nimrag.scenariosearchbar</li>
+  <!-- Kemetic Decorations - the legacy of Jerry -->
+  <li>Sovereign.Samsucksfrozenchicken</li>
+  <!-- Kemetic Decorations -->
+  <li>Sovereign.Kemet</li>
+  <!-- Kemetic Apparel -->
+  <li>Sovereign.Elseud</li>
+  <!-- [ATW] Ridiculous Horse Variety -->
+  <li>mgatwood.horsevariety</li>
+  <!-- Tribal Crib -->
+  <li>TribalCrib.Mod</li>
+  <!-- Vee Hairs -->
+  <li>Lat.VeeHair</li>
+  <!-- [Uru] Rim Seraph hair -->
+  <li>Uru.Seraph.Hair</li>
+  <!-- Vanilla Hairs and Beards Retextured -->
+  <li>hourai.vanillahairsretex</li>
+  <!-- [NL] Chibi Face Male only -->
+  <li>Nals.ChibiFaceMale</li>
+  <!-- [NL] Chibi Face Female only -->
+  <li>Nals.ChibiFaceFemale</li>
+  <!-- [NL] Chibi Body -->
+  <li>Nals.ChibiBody</li>
+  <!-- Phantom Materials -->
+  <li>BBBBilly.PhantomMaterials</li>
+  <!-- Mechanitors can wear hats too! -->
+  <li>Oken.UseEyesLayerMechanitor</li>
+  <!-- Gunlink with helmet -->
+  <li>ABC.GunlinkPatch</li>
+  <!-- No Increased Expectations for Ideology Roles -->
+  <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
+  <!-- Vanilla Psycasts expanded - Revert some nerf -->
+  <li>mobivis.vpe.revertsomenerf</li>
+  <!-- VPE psycastfocus cost genes -->
+  <li>GetDonkedOn.PsyCostGenes</li>
+  <!-- UnderWhere -->
+  <li>Malistaticy.UnderWhere</li>
+  <!-- UnderWhere Patches -->
+  <li>Og.UnderWherePatches</li>
+  <!-- [LYN] Cookie Genes (Skin and Hair Colors) -->
+  <li>Cookie.Genes</li>
+  <!-- Before the Crash: Backstories -->
+  <li>BTC.backstories</li>
+  <!-- Architect Icons for Vanilla Expanded -->
+  <li>ve.architect.icons</li>
+  <!-- Architect Icons: Improved -->
+  <li>ai.improved.icons</li>
+  <!-- Bradson's Main Button Icons for VE Textures (Continued) -->
+  <li>karma.mbifvte</li>
+  <!-- Hammer and Sickle Symbols -->
+  <li>VanillaExpanded.Ideo.HammerAndSickle</li>
+  <!-- Medical Tab - Forked -->
+  <li>tofudriver.MedicalTabForked</li>
+  <!-- Advanced Moisture Pump (Continued) -->
+  <li>CiXwOw.advancedmoisturepump</li>
+  <!-- No Mythic Category -->
+  <li>kahirDragoon.nomythiccategory</li>
+  <!-- More Ideological Words -->
+  <li>purpleyam.moreideologicalwords</li>
+  <!-- Van's Retexture : Quarry -->
+  <li>sirvan.quarryretexture</li>
+  <!-- WanderJoinsPlus -->
+  <li>Ogliss.WanderJoinsPlus</li>
+  <!-- Animal Discovery -->
+  <li>hatena.AnimalDiscovery</li>
+  <!-- Disable Automatically Select Travel Supplies -->
+  <li>flangopink.disableautoselecttravelsupplies</li>
+  <!-- Easy Speedup -->
+  <li>fyarn.EasySpeedup</li>
+  <!-- [SYR] Glowing Healroot -->
+  <li>syrchalis.glowinghealroot</li>
+  <!-- [KV] Hand 'n' Footwear [Adopted] -->
+  <li>handandfootwearcontinued.kv.rw</li>
+  <!-- Marine Armor Materials -->
+  <li>joethetech.marinearmormaterials</li>
+  <!-- RescueeJoinsPlus -->
+  <li>Ogliss.RescueeJoinsPlus</li>
+  <!-- Table_1x1 by timtim -->
+  <li>timtim.Table1x1</li>
+  <!-- Tribal Headgear Retexturing -->
+  <li>densevoid.tribalheadgear</li>
+  <!-- Vanilla Solar Shield Retexture -->
+  <li>phoenix135.vanillahsolarshieldretexture</li>
+  <!-- Stylish Shelves -->
+  <li>SexWith.FoxGirls.Uuuuu</li>
+  <!-- Shella Backgrounds -->
+  <li>stm.ShellaBackgrounds</li>
+  <!-- Common Sense - opportunistic cleaning patch -->
+  <li>Yoann.CommonSenseOpportunisticCleaningPatch</li>
+  <!-- Fuse Plus - Retexture -->
+  <li>bluelizard.fuseplus.retexture</li>
+  <!-- SF Grim Reality -->
+  <li>SF.Grim.Reality</li>
+  <!-- Roo's HD Royalty Hairstyles -->
+  <li>Rooboid.RoyalhairHD</li>
+  <!-- [FSF] Efficient Utilities -->
+  <li>FrozenSnowFox.EfficientUtilities</li>
+  <!-- Tabletop Trove - Additional Joy Objects and Decor -->
+  <li>SoulfulPumpkin.TabletopTrove</li>
+  <!-- Bodyparts Rot -->
+  <li>Murmur.BodypartsRot</li>
+  <!-- Bo's Milkable Animals -->
+  <li>Bos.MilkableAnimals</li>
+  <!-- Mouse Drag Lag Fix (Linux) -->
+  <li>Almantuxas.MouseDragFix</li>
+  <!-- Hex-Retexture -->
+  <li>Hex.Retexture</li>
+  <!-- Chatting on Comms -->
+  <li>5katz.CommsChat</li>
+  <!-- FenceGate Patch -->
+  <li>Yoann.FenceGatePatch</li>
+  <!-- Allow Altars in Throneroom -->
+  <li>z4k97b.altarsinthroneroom</li>
 </ModIdsToFix>

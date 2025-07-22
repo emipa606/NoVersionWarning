@@ -1,5 +1,74 @@
 # Changelog for NoVersionWarning
 
+1.6.9 - [b]Changes[/b]
+Removed 8 mods:
+Infestations Spawn in Darkness
+Royalty Patch for [MUS]Gothicstyle Vampire Furniture 
+No Vanilla Hair for version 1.5
+[HB] Pemmican Reskin
+[HB] Pemmican Reskin for version 1.5
+[HB] Insect Meat Reskin
+[HB] Insect Meat Reskin for version 1.5
+Layers: Capes and Armor
+Added 56 mods:
+Kemetic Decorations - the legacy of Jerry
+Kemetic Decorations
+Kemetic Apparel
+[ATW] Ridiculous Horse Variety
+Tribal Crib
+Vee Hairs
+[Uru] Rim Seraph hair
+Vanilla Hairs and Beards Retextured
+[NL] Chibi Face Male only
+[NL] Chibi Face Female only
+[NL] Chibi Body
+Phantom Materials
+Mechanitors can wear hats too!
+Gunlink with helmet
+No Increased Expectations for Ideology Roles
+Vanilla Psycasts expanded - Revert some nerf
+VPE psycastfocus cost genes
+UnderWhere
+UnderWhere Patches
+[LYN] Cookie Genes (Skin and Hair Colors)
+Before the Crash: Backstories
+Architect Icons for Vanilla Expanded
+Architect Icons: Improved
+Bradson's Main Button Icons for VE Textures (Continued)
+Hammer and Sickle Symbols
+Medical Tab - Forked
+Advanced Moisture Pump (Continued)
+No Mythic Category
+More Ideological Words
+Van's Retexture : Quarry
+WanderJoinsPlus
+Animal Discovery
+Disable Automatically Select Travel Supplies
+Easy Speedup
+[SYR] Glowing Healroot
+[KV] Hand 'n' Footwear [Adopted]
+Marine Armor Materials
+RescueeJoinsPlus
+Table_1x1 by timtim
+Tribal Headgear Retexturing
+Vanilla Solar Shield Retexture
+Stylish Shelves
+Shella Backgrounds
+Common Sense - opportunistic cleaning patch
+Fuse Plus - Retexture
+SF Grim Reality
+Roo's HD Royalty Hairstyles
+[FSF] Efficient Utilities
+Tabletop Trove - Additional Joy Objects and Decor
+Bodyparts Rot
+Bo's Milkable Animals
+Mouse Drag Lag Fix (Linux)
+Hex-Retexture
+Chatting on Comms
+FenceGate Patch
+Allow Altars in Throneroom
+
+
 1.6.8 - [b]Changes[/b]
 Removed 6 mods:
 I Don't Care
