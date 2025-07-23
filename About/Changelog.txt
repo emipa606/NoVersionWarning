@@ -1,5 +1,18 @@
 # Changelog for NoVersionWarning
 
+1.6.10 - [b]Changes[/b]
+Removed 4 mods:
+Scrollable Gizmos
+Van's Retexture : Quarry
+Hex-Retexture
+No Mythic Category
+Added 4 mods:
+Inclusive Skin Tones
+Van's Paintings
+[CM] Ideology DLC Texture Upscale
+Relations Tab
+
+
 1.6.9 - [b]Changes[/b]
 Removed 8 mods:
 Infestations Spawn in Darkness

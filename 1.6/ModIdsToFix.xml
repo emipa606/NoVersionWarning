@@ -38,8 +38,6 @@
   <li>syrchalis.marbledmarble</li>
   <!-- Land in water -->
   <li>NeziTheAvali.LandInWater</li>
-  <!-- Scrollable Gizmos -->
-  <li>Blockdude.ScrollableGizmos</li>
   <!-- Scenario Searchbars -->
   <li>nimrag.scenariosearchbar</li>
   <!-- Kemetic Decorations - the legacy of Jerry -->
@@ -96,12 +94,8 @@
   <li>tofudriver.MedicalTabForked</li>
   <!-- Advanced Moisture Pump (Continued) -->
   <li>CiXwOw.advancedmoisturepump</li>
-  <!-- No Mythic Category -->
-  <li>kahirDragoon.nomythiccategory</li>
   <!-- More Ideological Words -->
   <li>purpleyam.moreideologicalwords</li>
-  <!-- Van's Retexture : Quarry -->
-  <li>sirvan.quarryretexture</li>
   <!-- WanderJoinsPlus -->
   <li>Ogliss.WanderJoinsPlus</li>
   <!-- Animal Discovery -->
@@ -146,12 +140,18 @@
   <li>Bos.MilkableAnimals</li>
   <!-- Mouse Drag Lag Fix (Linux) -->
   <li>Almantuxas.MouseDragFix</li>
-  <!-- Hex-Retexture -->
-  <li>Hex.Retexture</li>
   <!-- Chatting on Comms -->
   <li>5katz.CommsChat</li>
   <!-- FenceGate Patch -->
   <li>Yoann.FenceGatePatch</li>
   <!-- Allow Altars in Throneroom -->
   <li>z4k97b.altarsinthroneroom</li>
+  <!-- Inclusive Skin Tones -->
+  <li>h2forge.InclusiveSkinTones</li>
+  <!-- Van's Paintings -->
+  <li>SirVan.VansPaintings</li>
+  <!-- [CM] Ideology DLC Texture Upscale -->
+  <li>CM.Ideology.Upscaled</li>
+  <!-- Relations Tab -->
+  <li>Fluffy.FluffyRelations</li>
 </ModIdsToFix>
