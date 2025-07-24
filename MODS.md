@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -76,7 +78,13 @@
 - [Van's Paintings](https://steamcommunity.com/sharedfiles/filedetails/?id=2901656436)
 - [[CM] Ideology DLC Texture Upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=2603637629)
 - [Relations Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=709317151)
+- [Silver Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2483911712)
+- [Animal Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=712141500)
+- [PriorityClean](https://steamcommunity.com/sharedfiles/filedetails/?id=1294779672)
+- [No Debris on Smoothed Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=2579442841)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

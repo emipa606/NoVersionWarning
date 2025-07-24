@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.6.11 - [b]Changes[/b]
+Added 4 mods:
+Silver Coins
+Animal Tab
+PriorityClean
+No Debris on Smoothed Floors
+
+
 1.6.10 - [b]Changes[/b]
 Removed 4 mods:
 Scrollable Gizmos

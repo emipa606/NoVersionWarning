@@ -154,4 +154,12 @@
   <li>CM.Ideology.Upscaled</li>
   <!-- Relations Tab -->
   <li>Fluffy.FluffyRelations</li>
+  <!-- Silver Coins -->
+  <li>SirLalaPyon.SilverCoins</li>
+  <!-- Animal Tab -->
+  <li>Fluffy.AnimalTab</li>
+  <!-- PriorityClean -->
+  <li>fyarn.PriorityClean</li>
+  <!-- No Debris on Smoothed Floors -->
+  <li>Herigony.NoDebris</li>
 </ModIdsToFix>

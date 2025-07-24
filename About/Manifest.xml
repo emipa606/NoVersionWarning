@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>NoVersionWarning</identifier>
-  <version>1.6.10</version>
+  <version>1.6.11</version>
   <dependencies />
   <incompatibleWith />
   <loadBefore />
