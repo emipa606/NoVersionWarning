@@ -162,4 +162,34 @@
   <li>fyarn.PriorityClean</li>
   <!-- No Debris on Smoothed Floors -->
   <li>Herigony.NoDebris</li>
+  <!-- Pawn Badge Fan Fork [Adopted] -->
+  <li>SaucyPigeon.PawnBadge</li>
+  <!-- Rim-Effect: Music -->
+  <li>RimEffect.Music</li>
+  <!-- Pawn Badge - Sol Defense Corps Navy -->
+  <li>DrTernithPlague.PawnBadge.SDCNavy</li>
+  <!-- Pawn Badge - Halo MCC Rank Badges -->
+  <li>PBFF.HMCC</li>
+  <!-- Neotokyo Music -->
+  <li>cush.neotokyo</li>
+  <!-- Music on the Rim -->
+  <li>bishop.music</li>
+  <!-- Character Editor Retextured -->
+  <li>Neronix17.Retexture.CharacterEditor</li>
+  <!-- Peer Pressure -->
+  <li>joseasoler.peerpressure</li>
+  <!-- SlaveBar -->
+  <li>temmie3754.slavebar</li>
+  <!-- Practical Pemmican -->
+  <li>ETRT.PracticalPemmican</li>
+  <!-- Roo's HD Hairstyles -->
+  <li>Rooboid.Hdhair</li>
+  <!-- Roo's HD Accessory Hairstyles -->
+  <li>Rooboid.AccessoryHairsHD</li>
+  <!-- Roo's HD Dreadlock Hairstyles -->
+  <li>Rooboid.DreadlockHairsHD</li>
+  <!-- Roo's HD Glasses Hairstyles -->
+  <li>Rooboid.GlasseshairHD</li>
+  <!-- Resource Replicator [1.0->1.4] -->
+  <li>A3I.RimMods.ResourceReplicator</li>
 </ModIdsToFix>

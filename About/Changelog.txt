@@ -1,5 +1,24 @@
 # Changelog for NoVersionWarning
 
+1.6.12 - [b]Changes[/b]
+Added 15 mods:
+Pawn Badge Fan Fork [Adopted]
+Rim-Effect: Music
+Pawn Badge - Sol Defense Corps Navy
+Pawn Badge - Halo MCC Rank Badges
+Neotokyo Music
+Music on the Rim
+Character Editor Retextured
+Peer Pressure
+SlaveBar
+Practical Pemmican
+Roo's HD Hairstyles
+Roo's HD Accessory Hairstyles
+Roo's HD Dreadlock Hairstyles
+Roo's HD Glasses Hairstyles
+Resource Replicator [1.0->1.4]
+
+
 1.6.11 - [b]Changes[/b]
 Added 4 mods:
 Silver Coins

@@ -82,6 +82,21 @@
 - [Animal Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=712141500)
 - [PriorityClean](https://steamcommunity.com/sharedfiles/filedetails/?id=1294779672)
 - [No Debris on Smoothed Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=2579442841)
+- [Pawn Badge Fan Fork [Adopted]](https://steamcommunity.com/sharedfiles/filedetails/?id=2526040241)
+- [Rim-Effect: Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2479560991)
+- [Pawn Badge - Sol Defense Corps Navy](https://steamcommunity.com/sharedfiles/filedetails/?id=2752105258)
+- [Pawn Badge - Halo MCC Rank Badges](https://steamcommunity.com/sharedfiles/filedetails/?id=2669659857)
+- [Neotokyo Music](https://steamcommunity.com/sharedfiles/filedetails/?id=1764392883)
+- [Music on the Rim](https://steamcommunity.com/sharedfiles/filedetails/?id=1872570102)
+- [Character Editor Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2855844396)
+- [Peer Pressure](https://steamcommunity.com/sharedfiles/filedetails/?id=3057626086)
+- [SlaveBar](https://steamcommunity.com/sharedfiles/filedetails/?id=3019111152)
+- [Practical Pemmican](https://steamcommunity.com/sharedfiles/filedetails/?id=2761817611)
+- [Roo's HD Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2551783208)
+- [Roo's HD Accessory Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2944982026)
+- [Roo's HD Dreadlock Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2902544033)
+- [Roo's HD Glasses Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2869561673)
+- [Resource Replicator [1.0->1.4]](https://steamcommunity.com/sharedfiles/filedetails/?id=3187349754)
 
 ## 1.5
 
