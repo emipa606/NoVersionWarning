@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.6.13 - [b]Changes[/b]
+Removed 2 mods:
+Reasonable Components for version 1.5
+Neotokyo Music
+Added 3 mods:
+[ATW] Ridiculous Chicken Variety
+[ATW] Ridiculous Cat Variety
+Bill Doors' Simple Signs
+
+
 1.6.12 - [b]Changes[/b]
 Added 15 mods:
 Pawn Badge Fan Fork [Adopted]

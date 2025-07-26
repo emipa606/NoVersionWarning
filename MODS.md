@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -86,7 +84,6 @@
 - [Rim-Effect: Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2479560991)
 - [Pawn Badge - Sol Defense Corps Navy](https://steamcommunity.com/sharedfiles/filedetails/?id=2752105258)
 - [Pawn Badge - Halo MCC Rank Badges](https://steamcommunity.com/sharedfiles/filedetails/?id=2669659857)
-- [Neotokyo Music](https://steamcommunity.com/sharedfiles/filedetails/?id=1764392883)
 - [Music on the Rim](https://steamcommunity.com/sharedfiles/filedetails/?id=1872570102)
 - [Character Editor Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2855844396)
 - [Peer Pressure](https://steamcommunity.com/sharedfiles/filedetails/?id=3057626086)
@@ -97,9 +94,10 @@
 - [Roo's HD Dreadlock Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2902544033)
 - [Roo's HD Glasses Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2869561673)
 - [Resource Replicator [1.0->1.4]](https://steamcommunity.com/sharedfiles/filedetails/?id=3187349754)
-
+- [[ATW] Ridiculous Chicken Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2915951260)
+- [[ATW] Ridiculous Cat Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2908560649)
+- [Bill Doors' Simple Signs](https://steamcommunity.com/sharedfiles/filedetails/?id=2905097730)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -178,7 +176,6 @@
 - [Better Surgery](https://steamcommunity.com/sharedfiles/filedetails/?id=2986469522)
 - [Just Leave Already](https://steamcommunity.com/sharedfiles/filedetails/?id=2929733063)
 - [No Pseudo Translate无开发者乱码](https://steamcommunity.com/sharedfiles/filedetails/?id=2808842065)
-- [Reasonable Components](https://steamcommunity.com/sharedfiles/filedetails/?id=1542915888)
 - [VNPE Fridge Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2976541719)
 - [wasscreefted's Smokeleaf Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2829785635)
 - [Madman's Star Wars Ships (Aerocraft)](https://steamcommunity.com/sharedfiles/filedetails/?id=2979997791)
