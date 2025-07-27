@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.6.14 - [b]Changes[/b]
+Removed 3 mods:
+Advanced Moisture Pump (Continued)
+FenceGate Patch
+Common Sense - opportunistic cleaning patch
+Added 2 mods:
+Halo - Soundtrack [1.1]
+Roo's Tattoos - Starter Pack 
+
+
 1.6.13 - [b]Changes[/b]
 Removed 2 mods:
 Reasonable Components for version 1.5

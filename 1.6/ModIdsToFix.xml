@@ -92,8 +92,6 @@
   <li>VanillaExpanded.Ideo.HammerAndSickle</li>
   <!-- Medical Tab - Forked -->
   <li>tofudriver.MedicalTabForked</li>
-  <!-- Advanced Moisture Pump (Continued) -->
-  <li>CiXwOw.advancedmoisturepump</li>
   <!-- More Ideological Words -->
   <li>purpleyam.moreideologicalwords</li>
   <!-- WanderJoinsPlus -->
@@ -122,8 +120,6 @@
   <li>SexWith.FoxGirls.Uuuuu</li>
   <!-- Shella Backgrounds -->
   <li>stm.ShellaBackgrounds</li>
-  <!-- Common Sense - opportunistic cleaning patch -->
-  <li>Yoann.CommonSenseOpportunisticCleaningPatch</li>
   <!-- Fuse Plus - Retexture -->
   <li>bluelizard.fuseplus.retexture</li>
   <!-- SF Grim Reality -->
@@ -142,8 +138,6 @@
   <li>Almantuxas.MouseDragFix</li>
   <!-- Chatting on Comms -->
   <li>5katz.CommsChat</li>
-  <!-- FenceGate Patch -->
-  <li>Yoann.FenceGatePatch</li>
   <!-- Allow Altars in Throneroom -->
   <li>z4k97b.altarsinthroneroom</li>
   <!-- Inclusive Skin Tones -->
@@ -196,4 +190,8 @@
   <li>mgatwood.catvariety</li>
   <!-- Bill Doors' Simple Signs -->
   <li>3HSTltd.signs</li>
+  <!-- Halo - Soundtrack [1.1] -->
+  <li>ONegative.HaloSoundtrack</li>
+  <!-- Roo's Tattoos - Starter Pack  -->
+  <li>Rooboid.RooTattoo</li>
 </ModIdsToFix>
