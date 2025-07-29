@@ -194,4 +194,14 @@
   <li>ONegative.HaloSoundtrack</li>
   <!-- Roo's Tattoos - Starter Pack  -->
   <li>Rooboid.RooTattoo</li>
+  <!-- Bury On The Spot -->
+  <li>dhultgren.buryonthespot</li>
+  <!-- Toymaker's Additional Outposts Retextured -->
+  <li>Toymaker.VOE.AO.Retextured</li>
+  <!-- Project RimFactory Revived Retextured -->
+  <li>Aranmaho.PRF.Retexture</li>
+  <!-- World Map Polluted Tiles - Improved Visibility -->
+  <li>Araylie.BetterWorldMapPollutedTiles</li>
+  <!-- Visible Entity Capacities -->
+  <li>Choosechee.VisibleEntityCapacities</li>
 </ModIdsToFix>

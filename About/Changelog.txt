@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.15 - [b]Changes[/b]
+Added 5 mods:
+Bury On The Spot
+Toymaker's Additional Outposts Retextured
+Project RimFactory Revived Retextured
+World Map Polluted Tiles - Improved Visibility
+Visible Entity Capacities
+
+
 1.6.14 - [b]Changes[/b]
 Removed 3 mods:
 Advanced Moisture Pump (Continued)

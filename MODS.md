@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -96,7 +98,14 @@
 - [Bill Doors' Simple Signs](https://steamcommunity.com/sharedfiles/filedetails/?id=2905097730)
 - [Halo - Soundtrack [1.1]](https://steamcommunity.com/sharedfiles/filedetails/?id=1570997636)
 - [Roo's Tattoos - Starter Pack ](https://steamcommunity.com/sharedfiles/filedetails/?id=2555588467)
+- [Bury On The Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2180356108)
+- [Toymaker's Additional Outposts Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=3020739638)
+- [Project RimFactory Revived Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2883894160)
+- [World Map Polluted Tiles - Improved Visibility](https://steamcommunity.com/sharedfiles/filedetails/?id=3000540696)
+- [Visible Entity Capacities](https://steamcommunity.com/sharedfiles/filedetails/?id=3267779657)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
