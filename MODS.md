@@ -103,6 +103,8 @@
 - [Project RimFactory Revived Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2883894160)
 - [World Map Polluted Tiles - Improved Visibility](https://steamcommunity.com/sharedfiles/filedetails/?id=3000540696)
 - [Visible Entity Capacities](https://steamcommunity.com/sharedfiles/filedetails/?id=3267779657)
+- [Perishable Hemogen](https://steamcommunity.com/sharedfiles/filedetails/?id=3438026345)
+- [[KR] Star Wars RimThemes](https://steamcommunity.com/sharedfiles/filedetails/?id=2899066274)
 
 ## 1.5
 

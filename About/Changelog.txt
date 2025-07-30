@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.16 - [b]Changes[/b]
+Added 2 mods:
+Perishable Hemogen
+[KR] Star Wars RimThemes
+
+
 1.6.15 - [b]Changes[/b]
 Added 5 mods:
 Bury On The Spot
