@@ -198,8 +198,6 @@
   <li>dhultgren.buryonthespot</li>
   <!-- Toymaker's Additional Outposts Retextured -->
   <li>Toymaker.VOE.AO.Retextured</li>
-  <!-- Project RimFactory Revived Retextured -->
-  <li>Aranmaho.PRF.Retexture</li>
   <!-- World Map Polluted Tiles - Improved Visibility -->
   <li>Araylie.BetterWorldMapPollutedTiles</li>
   <!-- Visible Entity Capacities -->
@@ -208,4 +206,10 @@
   <li>richiemoddy.perishableHemogen</li>
   <!-- [KR] Star Wars RimThemes -->
   <li>KenobiRock.SWRimThemes</li>
+  <!-- Cut Everything in Zone -->
+  <li>nercury.CutEverythingInZone</li>
+  <!-- Unified Xml Export -->
+  <li>name.krypt.rimworld.unifiedxmlexport</li>
+  <!-- Consciousness Affects Learning Speed -->
+  <li>Jdalt.CALS</li>
 </ModIdsToFix>

@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.17 - [b]Changes[/b]
+Removed 1 mods:
+Project RimFactory Revived Retextured
+Added 3 mods:
+Cut Everything in Zone
+Unified Xml Export
+Consciousness Affects Learning Speed
+
+
 1.6.16 - [b]Changes[/b]
 Added 2 mods:
 Perishable Hemogen
