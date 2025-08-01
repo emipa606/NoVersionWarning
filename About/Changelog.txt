@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.18 - [b]Changes[/b]
+Added 1 mods:
+Unified Xml Export for 1.5
+
+
 1.6.17 - [b]Changes[/b]
 Removed 1 mods:
 Project RimFactory Revived Retextured
