@@ -40,7 +40,6 @@
 - [UnderWhere Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=3354891128)
 - [[LYN] Cookie Genes (Skin and Hair Colors)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879072525)
 - [Before the Crash: Backstories](https://steamcommunity.com/sharedfiles/filedetails/?id=3457023552)
-- [Architect Icons for Vanilla Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3317454272)
 - [Architect Icons: Improved](https://steamcommunity.com/sharedfiles/filedetails/?id=2879451234)
 - [Bradson's Main Button Icons for VE Textures (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3372126541)
 - [Hammer and Sickle Symbols](https://steamcommunity.com/sharedfiles/filedetails/?id=2561742020)
@@ -105,9 +104,7 @@
 - [Cut Everything in Zone](https://steamcommunity.com/sharedfiles/filedetails/?id=2546149292)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
 - [Consciousness Affects Learning Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2969141614)
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -392,9 +389,7 @@
 - [Friendly Fire Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1582686191)
 - [Max Gain Cap Removal](https://steamcommunity.com/sharedfiles/filedetails/?id=1866959462)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
-
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
