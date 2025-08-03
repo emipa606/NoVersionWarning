@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.20 - [b]Changes[/b]
+Added 2 mods:
+Xeva's Rimhair
+Roppoi Hair - Upscaled
+
+
 1.6.19 - [b]Changes[/b]
 Removed 1 mods:
 Architect Icons for Vanilla Expanded
