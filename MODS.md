@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -37,7 +35,6 @@
 - [Gunlink with helmet](https://steamcommunity.com/sharedfiles/filedetails/?id=2500705510)
 - [No Increased Expectations for Ideology Roles](https://steamcommunity.com/sharedfiles/filedetails/?id=2648674904)
 - [Vanilla Psycasts expanded - Revert some nerf](https://steamcommunity.com/sharedfiles/filedetails/?id=3034150760)
-- [VPE psycastfocus cost genes](https://steamcommunity.com/sharedfiles/filedetails/?id=3048020073)
 - [UnderWhere](https://steamcommunity.com/sharedfiles/filedetails/?id=1870010563)
 - [UnderWhere Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=3354891128)
 - [[LYN] Cookie Genes (Skin and Hair Colors)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879072525)
@@ -103,14 +100,12 @@
 - [Visible Entity Capacities](https://steamcommunity.com/sharedfiles/filedetails/?id=3267779657)
 - [Perishable Hemogen](https://steamcommunity.com/sharedfiles/filedetails/?id=3438026345)
 - [[KR] Star Wars RimThemes](https://steamcommunity.com/sharedfiles/filedetails/?id=2899066274)
-- [Cut Everything in Zone](https://steamcommunity.com/sharedfiles/filedetails/?id=2546149292)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
 - [Consciousness Affects Learning Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2969141614)
 - [Xeva's Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=705924057)
 - [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
-
+- [Animal Medical Bed 1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3221610549)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

@@ -72,8 +72,6 @@
   <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
   <!-- Vanilla Psycasts expanded - Revert some nerf -->
   <li>mobivis.vpe.revertsomenerf</li>
-  <!-- VPE psycastfocus cost genes -->
-  <li>GetDonkedOn.PsyCostGenes</li>
   <!-- UnderWhere -->
   <li>Malistaticy.UnderWhere</li>
   <!-- UnderWhere Patches -->
@@ -204,8 +202,6 @@
   <li>richiemoddy.perishableHemogen</li>
   <!-- [KR] Star Wars RimThemes -->
   <li>KenobiRock.SWRimThemes</li>
-  <!-- Cut Everything in Zone -->
-  <li>nercury.CutEverythingInZone</li>
   <!-- Unified Xml Export -->
   <li>name.krypt.rimworld.unifiedxmlexport</li>
   <!-- Consciousness Affects Learning Speed -->
@@ -214,4 +210,6 @@
   <li>Orion.XevaRimhair</li>
   <!-- Roppoi Hair - Upscaled -->
   <li>Vinzero.RophairUP</li>
+  <!-- Animal Medical Bed 1.5 -->
+  <li>GodlyAnnihilator.AnimalMedicalBed</li>
 </ModIdsToFix>
