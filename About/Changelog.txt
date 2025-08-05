@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.22 - [b]Changes[/b]
+Removed 1 mods:
+[Uru] Rim Seraph hair
+Added 1 mods:
+Better Leather
+
+
 1.6.21 - [b]Changes[/b]
 Removed 2 mods:
 Cut Everything in Zone

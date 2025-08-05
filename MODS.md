@@ -25,7 +25,6 @@
 - [[ATW] Ridiculous Horse Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2906784703)
 - [Tribal Crib](https://steamcommunity.com/sharedfiles/filedetails/?id=2881720620)
 - [Vee Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=1655880765)
-- [[Uru] Rim Seraph hair](https://steamcommunity.com/sharedfiles/filedetails/?id=1583674064)
 - [Vanilla Hairs and Beards Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2893572291)
 - [[NL] Chibi Face Male only](https://steamcommunity.com/sharedfiles/filedetails/?id=1562135044)
 - [[NL] Chibi Face Female only](https://steamcommunity.com/sharedfiles/filedetails/?id=1540475285)
@@ -105,6 +104,7 @@
 - [Xeva's Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=705924057)
 - [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
 - [Animal Medical Bed 1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3221610549)
+- [Better Leather](https://steamcommunity.com/sharedfiles/filedetails/?id=2829978223)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)

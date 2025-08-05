@@ -52,8 +52,6 @@
   <li>TribalCrib.Mod</li>
   <!-- Vee Hairs -->
   <li>Lat.VeeHair</li>
-  <!-- [Uru] Rim Seraph hair -->
-  <li>Uru.Seraph.Hair</li>
   <!-- Vanilla Hairs and Beards Retextured -->
   <li>hourai.vanillahairsretex</li>
   <!-- [NL] Chibi Face Male only -->
@@ -212,4 +210,6 @@
   <li>Vinzero.RophairUP</li>
   <!-- Animal Medical Bed 1.5 -->
   <li>GodlyAnnihilator.AnimalMedicalBed</li>
+  <!-- Better Leather -->
+  <li>Doremy.BetterLeather</li>
 </ModIdsToFix>
