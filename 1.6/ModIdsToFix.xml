@@ -212,4 +212,26 @@
   <li>GodlyAnnihilator.AnimalMedicalBed</li>
   <!-- Better Leather -->
   <li>Doremy.BetterLeather</li>
+  <!-- [CM] Biotech DLC Texture Upscale -->
+  <li>CM.Ideology.Upscaled2</li>
+  <!-- Overlapping Interaction Spots -->
+  <li>diddily.OverlappingInteractionSpots</li>
+  <!-- Better Ground Textures? -->
+  <li>Fissure.BetterGroundTextures</li>
+  <!-- Legal Ageless -->
+  <li>Masterofworlds22.LegalAgeless</li>
+  <!-- Death Acidifier Removal -->
+  <li>swwu.DeathAcidifierRemoval</li>
+  <!-- Retextured Apparel -->
+  <li>tenthwit.apparel</li>
+  <!-- Retextured Sculptures -->
+  <li>tenthwit.sculptures</li>
+  <!-- Resize Architect Info -->
+  <li>Nonnonstop.ResizeArchitectInfo</li>
+  <!-- Settlement Descriptions -->
+  <li>dninemfive.settlementdescription</li>
+  <!-- Extinguish Refuelables -->
+  <li>malistaticy.mer</li>
+  <!-- Dried Berries and Meats -->
+  <li>TheGoofyOne.DriedBerriesandMeats</li>
 </ModIdsToFix>

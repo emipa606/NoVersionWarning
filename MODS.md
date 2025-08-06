@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -105,7 +107,20 @@
 - [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
 - [Animal Medical Bed 1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3221610549)
 - [Better Leather](https://steamcommunity.com/sharedfiles/filedetails/?id=2829978223)
+- [[CM] Biotech DLC Texture Upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=2884986535)
+- [Overlapping Interaction Spots](https://steamcommunity.com/sharedfiles/filedetails/?id=2018452819)
+- [Better Ground Textures?](https://steamcommunity.com/sharedfiles/filedetails/?id=2009702813)
+- [Legal Ageless](https://steamcommunity.com/sharedfiles/filedetails/?id=2925161426)
+- [Death Acidifier Removal](https://steamcommunity.com/sharedfiles/filedetails/?id=2016569177)
+- [Retextured Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2042613316)
+- [Retextured Sculptures](https://steamcommunity.com/sharedfiles/filedetails/?id=2045252395)
+- [Resize Architect Info](https://steamcommunity.com/sharedfiles/filedetails/?id=2832684885)
+- [Settlement Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945)
+- [Extinguish Refuelables](https://steamcommunity.com/sharedfiles/filedetails/?id=2864470385)
+- [Dried Berries and Meats](https://steamcommunity.com/sharedfiles/filedetails/?id=2457299931)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
