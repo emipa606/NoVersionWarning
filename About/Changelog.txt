@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.24 - [b]Changes[/b]
+Added 1 mods:
+Style Revised - Animalist
+
+
 1.6.23 - [b]Changes[/b]
 Added 11 mods:
 [CM] Biotech DLC Texture Upscale

@@ -118,6 +118,7 @@
 - [Settlement Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945)
 - [Extinguish Refuelables](https://steamcommunity.com/sharedfiles/filedetails/?id=2864470385)
 - [Dried Berries and Meats](https://steamcommunity.com/sharedfiles/filedetails/?id=2457299931)
+- [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 
 ## 1.5
 
