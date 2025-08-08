@@ -1,5 +1,17 @@
 # Changelog for NoVersionWarning
 
+1.6.25 - [b]Changes[/b]
+Removed 1 mods:
+Mouse Drag Lag Fix (Linux)
+Added 6 mods:
+Uncomfortable Sleeping Spots
+Wood Is Natural (For Trees)
+Animalstrawbed
+Animal Medical Bed
+Opulent Gold
+AI Upscaled Textures - Mods
+
+
 1.6.24 - [b]Changes[/b]
 Added 1 mods:
 Style Revised - Animalist

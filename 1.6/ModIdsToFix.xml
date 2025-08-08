@@ -128,8 +128,6 @@
   <li>Murmur.BodypartsRot</li>
   <!-- Bo's Milkable Animals -->
   <li>Bos.MilkableAnimals</li>
-  <!-- Mouse Drag Lag Fix (Linux) -->
-  <li>Almantuxas.MouseDragFix</li>
   <!-- Chatting on Comms -->
   <li>5katz.CommsChat</li>
   <!-- Allow Altars in Throneroom -->
@@ -236,4 +234,16 @@
   <li>TheGoofyOne.DriedBerriesandMeats</li>
   <!-- Style Revised - Animalist -->
   <li>StyleRevised.Animalist</li>
+  <!-- Uncomfortable Sleeping Spots -->
+  <li>1Sopel6.UncomfortableSleepingSpots</li>
+  <!-- Wood Is Natural (For Trees) -->
+  <li>Dra.WoodIsNaturalForTrees</li>
+  <!-- Animalstrawbed -->
+  <li>tosenbo.Animalstrawbed</li>
+  <!-- Animal Medical Bed -->
+  <li>neceros.animalmedicalbed</li>
+  <!-- Opulent Gold -->
+  <li>VisSov.floortile</li>
+  <!-- AI Upscaled Textures - Mods -->
+  <li>AIRetexture.Mods</li>
 </ModIdsToFix>
