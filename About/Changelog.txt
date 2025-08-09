@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.26 - [b]Changes[/b]
+Removed 3 mods:
+WanderJoinsPlus
+Architect Icons: Improved
+Architect Icons: Improved for version 1.5
+
+
 1.6.25 - [b]Changes[/b]
 Removed 1 mods:
 Mouse Drag Lag Fix (Linux)
