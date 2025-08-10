@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.27 - [b]Changes[/b]
+Added 1 mods:
+Follow Me
+
+
 1.6.26 - [b]Changes[/b]
 Removed 3 mods:
 WanderJoinsPlus

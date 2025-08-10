@@ -242,4 +242,6 @@
   <li>VisSov.floortile</li>
   <!-- AI Upscaled Textures - Mods -->
   <li>AIRetexture.Mods</li>
+  <!-- Follow Me -->
+  <li>Fluffy.FollowMe</li>
 </ModIdsToFix>
