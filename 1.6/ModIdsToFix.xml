@@ -88,8 +88,6 @@
   <li>purpleyam.moreideologicalwords</li>
   <!-- Animal Discovery -->
   <li>hatena.AnimalDiscovery</li>
-  <!-- Disable Automatically Select Travel Supplies -->
-  <li>flangopink.disableautoselecttravelsupplies</li>
   <!-- Easy Speedup -->
   <li>fyarn.EasySpeedup</li>
   <!-- [SYR] Glowing Healroot -->
@@ -208,8 +206,6 @@
   <li>Doremy.BetterLeather</li>
   <!-- [CM] Biotech DLC Texture Upscale -->
   <li>CM.Ideology.Upscaled2</li>
-  <!-- Overlapping Interaction Spots -->
-  <li>diddily.OverlappingInteractionSpots</li>
   <!-- Better Ground Textures? -->
   <li>Fissure.BetterGroundTextures</li>
   <!-- Legal Ageless -->
@@ -244,4 +240,6 @@
   <li>AIRetexture.Mods</li>
   <!-- Follow Me -->
   <li>Fluffy.FollowMe</li>
+  <!-- Fantasy Metals (1.1 Update) -->
+  <li>funkree.fantasymetalsupdate</li>
 </ModIdsToFix>

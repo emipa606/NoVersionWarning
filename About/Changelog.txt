@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.28 - [b]Changes[/b]
+Removed 3 mods:
+Remove Weather Overlays for version 1.5
+Disable Automatically Select Travel Supplies
+Overlapping Interaction Spots
+Added 1 mods:
+Fantasy Metals (1.1 Update)
+
+
 1.6.27 - [b]Changes[/b]
 Added 1 mods:
 Follow Me
