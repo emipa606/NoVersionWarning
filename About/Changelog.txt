@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.29 - [b]Changes[/b]
+Removed 1 mods:
+Animal Discovery
+Added 1 mods:
+AssignedWorkbenches
+
+
 1.6.28 - [b]Changes[/b]
 Removed 3 mods:
 Remove Weather Overlays for version 1.5

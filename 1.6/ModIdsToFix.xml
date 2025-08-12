@@ -86,8 +86,6 @@
   <li>tofudriver.MedicalTabForked</li>
   <!-- More Ideological Words -->
   <li>purpleyam.moreideologicalwords</li>
-  <!-- Animal Discovery -->
-  <li>hatena.AnimalDiscovery</li>
   <!-- Easy Speedup -->
   <li>fyarn.EasySpeedup</li>
   <!-- [SYR] Glowing Healroot -->
@@ -242,4 +240,6 @@
   <li>Fluffy.FollowMe</li>
   <!-- Fantasy Metals (1.1 Update) -->
   <li>funkree.fantasymetalsupdate</li>
+  <!-- AssignedWorkbenches -->
+  <li>maarx.assignedworkbenches</li>
 </ModIdsToFix>

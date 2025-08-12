@@ -42,7 +42,6 @@
 - [Hammer and Sickle Symbols](https://steamcommunity.com/sharedfiles/filedetails/?id=2561742020)
 - [Medical Tab - Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3228889251)
 - [More Ideological Words](https://steamcommunity.com/sharedfiles/filedetails/?id=2643795171)
-- [Animal Discovery](https://steamcommunity.com/sharedfiles/filedetails/?id=2172166576)
 - [Easy Speedup](https://steamcommunity.com/sharedfiles/filedetails/?id=1132557840)
 - [[SYR] Glowing Healroot](https://steamcommunity.com/sharedfiles/filedetails/?id=1517921835)
 - [[KV] Hand 'n' Footwear [Adopted]](https://steamcommunity.com/sharedfiles/filedetails/?id=3266890815)
@@ -120,6 +119,7 @@
 - [AI Upscaled Textures - Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=2323211835)
 - [Follow Me](https://steamcommunity.com/sharedfiles/filedetails/?id=715759739)
 - [Fantasy Metals (1.1 Update)](https://steamcommunity.com/sharedfiles/filedetails/?id=2032398669)
+- [AssignedWorkbenches](https://steamcommunity.com/sharedfiles/filedetails/?id=2973942644)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
