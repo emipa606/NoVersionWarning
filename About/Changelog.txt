@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.30 - [b]Changes[/b]
+Added 5 mods:
+Plant Anything in Hydroponics
+Uninstall Designator
+Capacity Deprivation Port
+Condition Matters
+Always Unique Ideologies
+
+
 1.6.29 - [b]Changes[/b]
 Removed 1 mods:
 Animal Discovery

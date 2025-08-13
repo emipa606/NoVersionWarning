@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -120,7 +122,14 @@
 - [Follow Me](https://steamcommunity.com/sharedfiles/filedetails/?id=715759739)
 - [Fantasy Metals (1.1 Update)](https://steamcommunity.com/sharedfiles/filedetails/?id=2032398669)
 - [AssignedWorkbenches](https://steamcommunity.com/sharedfiles/filedetails/?id=2973942644)
+- [Plant Anything in Hydroponics](https://steamcommunity.com/sharedfiles/filedetails/?id=2899535557)
+- [Uninstall Designator](https://steamcommunity.com/sharedfiles/filedetails/?id=2904451767)
+- [Capacity Deprivation Port](https://steamcommunity.com/sharedfiles/filedetails/?id=2884504605)
+- [Condition Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2482412209)
+- [Always Unique Ideologies](https://steamcommunity.com/sharedfiles/filedetails/?id=2910768401)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
