@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.6.33 - [b]Changes[/b]
+Added 4 mods:
+Where's the gravel? - Grayscale Edition
+Sun Lights [1.4+]
+Rain Caller
+X.E.N.O
+
+
 1.6.32 - [b]Changes[/b]
 Added 2 mods:
 Roo's Birthmarks and Blemishes

@@ -128,6 +128,10 @@
 - [Always Unique Ideologies](https://steamcommunity.com/sharedfiles/filedetails/?id=2910768401)
 - [Roo's Birthmarks and Blemishes](https://steamcommunity.com/sharedfiles/filedetails/?id=2890180936)
 - [Hidden Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2590369351)
+- [Where's the gravel? - Grayscale Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282175)
+- [Sun Lights [1.4+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2038896999)
+- [Rain Caller](https://steamcommunity.com/sharedfiles/filedetails/?id=1352936813)
+- [X.E.N.O](https://steamcommunity.com/sharedfiles/filedetails/?id=2524548731)
 
 ## 1.5
 
