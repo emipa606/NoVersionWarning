@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -100,7 +98,6 @@
 - [Xeva's Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=705924057)
 - [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
 - [Animal Medical Bed 1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3221610549)
-- [Better Leather](https://steamcommunity.com/sharedfiles/filedetails/?id=2829978223)
 - [[CM] Biotech DLC Texture Upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=2884986535)
 - [Better Ground Textures?](https://steamcommunity.com/sharedfiles/filedetails/?id=2009702813)
 - [Legal Ageless](https://steamcommunity.com/sharedfiles/filedetails/?id=2925161426)
@@ -132,9 +129,19 @@
 - [Sun Lights [1.4+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2038896999)
 - [Rain Caller](https://steamcommunity.com/sharedfiles/filedetails/?id=1352936813)
 - [X.E.N.O](https://steamcommunity.com/sharedfiles/filedetails/?id=2524548731)
-
+- [Bogs-bo-gon](https://steamcommunity.com/sharedfiles/filedetails/?id=2564988875)
+- [Cables and plumbing ](https://steamcommunity.com/sharedfiles/filedetails/?id=3026785992)
+- [Cloud's Extra Apparel Layers](https://steamcommunity.com/sharedfiles/filedetails/?id=3506624860)
+- [Refine the silver!](https://steamcommunity.com/sharedfiles/filedetails/?id=3340113198)
+- [Safety Helmet with Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2073947744)
+- [Socks Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=3362262111)
+- [[ATW] Chicken Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2905864165)
+- [[ATW] Ridiculous Alpaca Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2920990655)
+- [[ATW] Ridiculous Muffalo Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2910433595)
+- [[ATW] Ridiculous Warg Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2906331441)
+- [Underground Food](https://steamcommunity.com/sharedfiles/filedetails/?id=1761270139)
+- [Vanilla Nutrient Paste Expanded: MiniGrinder](https://steamcommunity.com/sharedfiles/filedetails/?id=2957616010)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

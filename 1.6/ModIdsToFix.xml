@@ -198,8 +198,6 @@
   <li>Vinzero.RophairUP</li>
   <!-- Animal Medical Bed 1.5 -->
   <li>GodlyAnnihilator.AnimalMedicalBed</li>
-  <!-- Better Leather -->
-  <li>Doremy.BetterLeather</li>
   <!-- [CM] Biotech DLC Texture Upscale -->
   <li>CM.Ideology.Upscaled2</li>
   <!-- Better Ground Textures? -->
@@ -262,4 +260,28 @@
   <li>zzz.RainCaller</li>
   <!-- X.E.N.O -->
   <li>Kokey.Xeno</li>
+  <!-- Bogs-bo-gon -->
+  <li>powerlunatic.bogbogon</li>
+  <!-- Cables and plumbing  -->
+  <li>Medicalpol.CablesAndPlumbing</li>
+  <!-- Cloud's Extra Apparel Layers -->
+  <li>clouds.extraapparellayers</li>
+  <!-- Refine the silver! -->
+  <li>bronze.refinethesilver</li>
+  <!-- Safety Helmet with Light -->
+  <li>SafetyMets.SafetyHelmetWithLight</li>
+  <!-- Socks Variety -->
+  <li>SocksVariety.SYSMY</li>
+  <!-- [ATW] Chicken Variety -->
+  <li>mgatwood.chickenvariety</li>
+  <!-- [ATW] Ridiculous Alpaca Variety -->
+  <li>mgatwood.alpacavariety</li>
+  <!-- [ATW] Ridiculous Muffalo Variety -->
+  <li>mgatwood.muffalovariety</li>
+  <!-- [ATW] Ridiculous Warg Variety -->
+  <li>mgatwood.wargvariety</li>
+  <!-- Underground Food -->
+  <li>RelaxedOtter.UndergroundFood</li>
+  <!-- Vanilla Nutrient Paste Expanded: MiniGrinder -->
+  <li>zed.0xff.VNPE.MiniGrinder</li>
 </ModIdsToFix>

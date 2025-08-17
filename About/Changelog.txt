@@ -1,5 +1,23 @@
 # Changelog for NoVersionWarning
 
+1.6.34 - [b]Changes[/b]
+Removed 1 mods:
+Better Leather
+Added 12 mods:
+Bogs-bo-gon
+Cables and plumbing 
+Cloud's Extra Apparel Layers
+Refine the silver!
+Safety Helmet with Light
+Socks Variety
+[ATW] Chicken Variety
+[ATW] Ridiculous Alpaca Variety
+[ATW] Ridiculous Muffalo Variety
+[ATW] Ridiculous Warg Variety
+Underground Food
+Vanilla Nutrient Paste Expanded: MiniGrinder
+
+
 1.6.33 - [b]Changes[/b]
 Added 4 mods:
 Where's the gravel? - Grayscale Edition
