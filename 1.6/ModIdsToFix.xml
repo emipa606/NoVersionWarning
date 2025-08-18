@@ -284,4 +284,12 @@
   <li>RelaxedOtter.UndergroundFood</li>
   <!-- Vanilla Nutrient Paste Expanded: MiniGrinder -->
   <li>zed.0xff.VNPE.MiniGrinder</li>
+  <!-- More Harvest Designators! -->
+  <li>navyseal5.MoreHarvestDesignators</li>
+  <!-- no disturbed sleep -->
+  <li>crlsniper.nodisturbedsleep</li>
+  <!-- Invisible Conduit -->
+  <li>zzz.invisibleconduit</li>
+  <!-- Safer Paste Dispenser -->
+  <li>denev.SaferPasteDispenser</li>
 </ModIdsToFix>

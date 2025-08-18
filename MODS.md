@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -141,7 +143,13 @@
 - [[ATW] Ridiculous Warg Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2906331441)
 - [Underground Food](https://steamcommunity.com/sharedfiles/filedetails/?id=1761270139)
 - [Vanilla Nutrient Paste Expanded: MiniGrinder](https://steamcommunity.com/sharedfiles/filedetails/?id=2957616010)
+- [More Harvest Designators!](https://steamcommunity.com/sharedfiles/filedetails/?id=1541250497)
+- [no disturbed sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=1402856775)
+- [Invisible Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=2013416365)
+- [Safer Paste Dispenser](https://steamcommunity.com/sharedfiles/filedetails/?id=2668183421)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
