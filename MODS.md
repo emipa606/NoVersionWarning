@@ -147,6 +147,8 @@
 - [no disturbed sleep](https://steamcommunity.com/sharedfiles/filedetails/?id=1402856775)
 - [Invisible Conduit](https://steamcommunity.com/sharedfiles/filedetails/?id=2013416365)
 - [Safer Paste Dispenser](https://steamcommunity.com/sharedfiles/filedetails/?id=2668183421)
+- [Milkable Muffalo 1.5 - Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3224468113)
+- [[SYR] Terrain](https://steamcommunity.com/sharedfiles/filedetails/?id=1544439671)
 
 ## 1.5
 

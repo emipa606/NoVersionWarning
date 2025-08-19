@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.36 - [b]Changes[/b]
+Added 2 mods:
+Milkable Muffalo 1.5 - Forked
+[SYR] Terrain
+
+
 1.6.35 - [b]Changes[/b]
 Added 4 mods:
 More Harvest Designators!

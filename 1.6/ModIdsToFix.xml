@@ -292,4 +292,8 @@
   <li>zzz.invisibleconduit</li>
   <!-- Safer Paste Dispenser -->
   <li>denev.SaferPasteDispenser</li>
+  <!-- Milkable Muffalo 1.5 - Forked -->
+  <li>tr.MilkableMuffalo</li>
+  <!-- [SYR] Terrain -->
+  <li>syrchalis.terrain</li>
 </ModIdsToFix>
