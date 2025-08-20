@@ -296,4 +296,8 @@
   <li>tr.MilkableMuffalo</li>
   <!-- [SYR] Terrain -->
   <li>syrchalis.terrain</li>
+  <!-- RenameColony -->
+  <li>weilbyte.renamecolony</li>
+  <!-- [ZEN] Gas Traps And Shells Retextured -->
+  <li>Poet.RetexturedGasTrapsShells</li>
 </ModIdsToFix>

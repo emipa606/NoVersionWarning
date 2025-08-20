@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.6.37 - [b]Changes[/b]
+Removed 1 mods:
+Jelly Farm 1.6 for version 1.5
+Added 2 mods:
+RenameColony
+[ZEN] Gas Traps And Shells Retextured
+
+
 1.6.36 - [b]Changes[/b]
 Added 2 mods:
 Milkable Muffalo 1.5 - Forked
