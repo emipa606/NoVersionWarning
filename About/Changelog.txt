@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.38 - [b]Changes[/b]
+Added 1 mods:
+Better Linkable Colors
+
+
 1.6.37 - [b]Changes[/b]
 Removed 1 mods:
 Jelly Farm 1.6 for version 1.5
