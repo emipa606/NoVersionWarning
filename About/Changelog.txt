@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.6.39 - [b]Changes[/b]
+Removed 1 mods:
+Peer Pressure
+Added 4 mods:
+Anomaly Backrooms
+Annoying Kids Floordrawings
+Arsenal of Ideology
+Faux's Icon Anthology Forked Collection
+
+
 1.6.38 - [b]Changes[/b]
 Added 1 mods:
 Better Linkable Colors

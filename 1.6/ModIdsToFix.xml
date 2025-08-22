@@ -150,8 +150,6 @@
   <li>PBFF.HMCC</li>
   <!-- Music on the Rim -->
   <li>bishop.music</li>
-  <!-- Peer Pressure -->
-  <li>joseasoler.peerpressure</li>
   <!-- SlaveBar -->
   <li>temmie3754.slavebar</li>
   <!-- Practical Pemmican -->
@@ -302,4 +300,12 @@
   <li>Poet.RetexturedGasTrapsShells</li>
   <!-- Better Linkable Colors -->
   <li>drummeur.BetterLinkableColors</li>
+  <!-- Anomaly Backrooms -->
+  <li>Fallen.AnomalyBackrooms</li>
+  <!-- Annoying Kids Floordrawings -->
+  <li>Hobbes.AnnoyingKidsFloordrawings</li>
+  <!-- Arsenal of Ideology -->
+  <li>4YDRA.ArsenalofIdeology</li>
+  <!-- Faux's Icon Anthology Forked Collection -->
+  <li>Faux.IconAnthGeneric.Collection</li>
 </ModIdsToFix>
