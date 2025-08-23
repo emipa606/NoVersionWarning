@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.6.40 - [b]Changes[/b]
+Added 6 mods:
+Absolute Legends: Hair
+Papers Please Icon pack
+Slightly Stylish Subcores
+Spectacular Skullspike
+Smoke bomb retexture for Uncompromising Tribals
+Honorbound
+
+
 1.6.39 - [b]Changes[/b]
 Removed 1 mods:
 Peer Pressure

@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -153,7 +155,15 @@
 - [Annoying Kids Floordrawings](https://steamcommunity.com/sharedfiles/filedetails/?id=2880440884)
 - [Arsenal of Ideology](https://steamcommunity.com/sharedfiles/filedetails/?id=2561610570)
 - [Faux's Icon Anthology Forked Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3241211551)
+- [Absolute Legends: Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2195744587)
+- [Papers Please Icon pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3224428864)
+- [Slightly Stylish Subcores](https://steamcommunity.com/sharedfiles/filedetails/?id=2883708194)
+- [Spectacular Skullspike](https://steamcommunity.com/sharedfiles/filedetails/?id=2963460063)
+- [Smoke bomb retexture for Uncompromising Tribals](https://steamcommunity.com/sharedfiles/filedetails/?id=3295669940)
+- [Honorbound](https://steamcommunity.com/sharedfiles/filedetails/?id=2838817941)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
