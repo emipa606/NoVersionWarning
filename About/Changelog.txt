@@ -1,5 +1,17 @@
 # Changelog for NoVersionWarning
 
+1.6.41 - [b]Changes[/b]
+Removed 2 mods:
+Resize Architect Info
+More Sanguine Houses for version 1.5
+Added 5 mods:
+Thing Categories: Icons
+Thinking Spot
+World Map Beautification Project - for More Vanilla Biomes
+World Map Beautification Project - for Realistic Planets
+World Map Enhanced
+
+
 1.6.40 - [b]Changes[/b]
 Added 6 mods:
 Absolute Legends: Hair

@@ -208,8 +208,6 @@
   <li>tenthwit.apparel</li>
   <!-- Retextured Sculptures -->
   <li>tenthwit.sculptures</li>
-  <!-- Resize Architect Info -->
-  <li>Nonnonstop.ResizeArchitectInfo</li>
   <!-- Settlement Descriptions -->
   <li>dninemfive.settlementdescription</li>
   <!-- Extinguish Refuelables -->
@@ -320,4 +318,14 @@
   <li>Great.Tribal.Mod</li>
   <!-- Honorbound -->
   <li>Vesper.Honorbound</li>
+  <!-- Thing Categories: Icons -->
+  <li>thing.categories.icons</li>
+  <!-- Thinking Spot -->
+  <li>PartyCowboy.ThinkingSpot</li>
+  <!-- World Map Beautification Project - for More Vanilla Biomes -->
+  <li>Carolusclen.DLC.WMBP.mvb</li>
+  <!-- World Map Beautification Project - for Realistic Planets -->
+  <li>Carolusclen.DLC.WMBP.rp</li>
+  <!-- World Map Enhanced -->
+  <li>laast.WorldMapEnhanced</li>
 </ModIdsToFix>

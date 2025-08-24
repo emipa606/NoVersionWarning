@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -105,7 +103,6 @@
 - [Death Acidifier Removal](https://steamcommunity.com/sharedfiles/filedetails/?id=2016569177)
 - [Retextured Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2042613316)
 - [Retextured Sculptures](https://steamcommunity.com/sharedfiles/filedetails/?id=2045252395)
-- [Resize Architect Info](https://steamcommunity.com/sharedfiles/filedetails/?id=2832684885)
 - [Settlement Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945)
 - [Extinguish Refuelables](https://steamcommunity.com/sharedfiles/filedetails/?id=2864470385)
 - [Dried Berries and Meats](https://steamcommunity.com/sharedfiles/filedetails/?id=2457299931)
@@ -161,9 +158,12 @@
 - [Spectacular Skullspike](https://steamcommunity.com/sharedfiles/filedetails/?id=2963460063)
 - [Smoke bomb retexture for Uncompromising Tribals](https://steamcommunity.com/sharedfiles/filedetails/?id=3295669940)
 - [Honorbound](https://steamcommunity.com/sharedfiles/filedetails/?id=2838817941)
-
+- [Thing Categories: Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2945787596)
+- [Thinking Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=1819265371)
+- [World Map Beautification Project - for More Vanilla Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2381830973)
+- [World Map Beautification Project - for Realistic Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2382822044)
+- [World Map Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2523248314)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
