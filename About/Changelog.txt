@@ -1,5 +1,19 @@
 # Changelog for NoVersionWarning
 
+1.6.42 - [b]Changes[/b]
+Added 10 mods:
+[WD] White Power Armor
+Biotech Traders
+Make sterile tile beautiful again
+Replantable Gauranlen Trees
+Spoons Hair Mod
+[ZEN] Vanilla Security Retextured for 1.4
+[ZEN] Vanilla Security Retextured for 1.5
+[ZEN] Vanilla Security Retextured
+Hydroponics Grow More
+Advanced Band Nodes
+
+
 1.6.41 - [b]Changes[/b]
 Removed 2 mods:
 Resize Architect Info

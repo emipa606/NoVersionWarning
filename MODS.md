@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -163,7 +165,17 @@
 - [World Map Beautification Project - for More Vanilla Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2381830973)
 - [World Map Beautification Project - for Realistic Planets](https://steamcommunity.com/sharedfiles/filedetails/?id=2382822044)
 - [World Map Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2523248314)
+- [[WD] White Power Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=1122453564)
+- [Biotech Traders](https://steamcommunity.com/sharedfiles/filedetails/?id=2880832389)
+- [Make sterile tile beautiful again](https://steamcommunity.com/sharedfiles/filedetails/?id=2895016825)
+- [Replantable Gauranlen Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2586767283)
+- [Spoons Hair Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=725447220)
+- [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
+- [Hydroponics Grow More](https://steamcommunity.com/sharedfiles/filedetails/?id=3005440209)
+- [Advanced Band Nodes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886516228)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -445,6 +457,7 @@
 - [Friendly Fire Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=1582686191)
 - [Max Gain Cap Removal](https://steamcommunity.com/sharedfiles/filedetails/?id=1866959462)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
+- [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
@@ -592,6 +605,7 @@
 - [unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1746071278)
 - [Craftable Psychics](https://steamcommunity.com/sharedfiles/filedetails/?id=2013938600)
 - [Infused 2 Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2560013658)
+- [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 ## 1.3
 - [UN-Colony [1.2]](https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003)
 - [Outdoor Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=1545708330)

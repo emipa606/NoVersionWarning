@@ -328,4 +328,20 @@
   <li>Carolusclen.DLC.WMBP.rp</li>
   <!-- World Map Enhanced -->
   <li>laast.WorldMapEnhanced</li>
+  <!-- [WD] White Power Armor -->
+  <li>Wemd.WhitePowerArmor</li>
+  <!-- Biotech Traders -->
+  <li>Aleyck.BiotechTraders</li>
+  <!-- Make sterile tile beautiful again -->
+  <li>HRG164hjo.SterileTilePatch</li>
+  <!-- Replantable Gauranlen Trees -->
+  <li>DakkPasserida.GauranlenReplant</li>
+  <!-- Spoons Hair Mod -->
+  <li>spoonshortage.spoonshairmod</li>
+  <!-- [ZEN] Vanilla Security Retextured -->
+  <li>Poet.RetexturedVanillaSecurity</li>
+  <!-- Hydroponics Grow More -->
+  <li>Xevion.HydroponicsGrowMore</li>
+  <!-- Advanced Band Nodes -->
+  <li>hydrologist.AdvancedBandNodes</li>
 </ModIdsToFix>

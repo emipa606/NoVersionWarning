@@ -562,4 +562,6 @@
   <li>Onkelflo.MaxGainCapRemoval</li>
   <!-- Unified Xml Export -->
   <li>name.krypt.rimworld.unifiedxmlexport</li>
+  <!-- [ZEN] Vanilla Security Retextured -->
+  <li>Poet.RetexturedVanillaSecurity</li>
 </ModIdsToFix>
