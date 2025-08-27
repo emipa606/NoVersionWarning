@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -36,7 +34,6 @@
 - [Gunlink with helmet](https://steamcommunity.com/sharedfiles/filedetails/?id=2500705510)
 - [No Increased Expectations for Ideology Roles](https://steamcommunity.com/sharedfiles/filedetails/?id=2648674904)
 - [Vanilla Psycasts expanded - Revert some nerf](https://steamcommunity.com/sharedfiles/filedetails/?id=3034150760)
-- [UnderWhere](https://steamcommunity.com/sharedfiles/filedetails/?id=1870010563)
 - [UnderWhere Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=3354891128)
 - [[LYN] Cookie Genes (Skin and Hair Colors)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879072525)
 - [Before the Crash: Backstories](https://steamcommunity.com/sharedfiles/filedetails/?id=3457023552)
@@ -173,9 +170,8 @@
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 - [Hydroponics Grow More](https://steamcommunity.com/sharedfiles/filedetails/?id=3005440209)
 - [Advanced Band Nodes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886516228)
-
+- [Colorful Coats - Vanilla Animals Expanded!](https://steamcommunity.com/sharedfiles/filedetails/?id=2398446130)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -396,7 +392,6 @@
 - [Midworld Expanded: Flak Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=2464804318)
 - [Aliens: Fireteam Elite Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=3046453581)
 - [Hemogen Cuisine](https://steamcommunity.com/sharedfiles/filedetails/?id=2933693918)
-- [More Sanguine Houses](https://steamcommunity.com/sharedfiles/filedetails/?id=2990384072)
 - [BMX and Biker Outfits](https://steamcommunity.com/sharedfiles/filedetails/?id=2654036625)
 - [[M.W]Multi-ToolBox](https://steamcommunity.com/sharedfiles/filedetails/?id=2824283616)
 - [Smokeleaf Lite [HH]](https://steamcommunity.com/sharedfiles/filedetails/?id=2626665539)

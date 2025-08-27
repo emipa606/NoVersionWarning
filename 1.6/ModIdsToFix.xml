@@ -70,8 +70,6 @@
   <li>Slashandz.NoIncreasedExpectationsforIdeologyRoles</li>
   <!-- Vanilla Psycasts expanded - Revert some nerf -->
   <li>mobivis.vpe.revertsomenerf</li>
-  <!-- UnderWhere -->
-  <li>Malistaticy.UnderWhere</li>
   <!-- UnderWhere Patches -->
   <li>Og.UnderWherePatches</li>
   <!-- [LYN] Cookie Genes (Skin and Hair Colors) -->
@@ -344,4 +342,6 @@
   <li>Xevion.HydroponicsGrowMore</li>
   <!-- Advanced Band Nodes -->
   <li>hydrologist.AdvancedBandNodes</li>
+  <!-- Colorful Coats - Vanilla Animals Expanded! -->
+  <li>purpleyam.colorfulcoats.vaewildlife</li>
 </ModIdsToFix>

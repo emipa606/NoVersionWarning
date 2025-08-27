@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.43 - [b]Changes[/b]
+Removed 1 mods:
+UnderWhere
+Added 1 mods:
+Colorful Coats - Vanilla Animals Expanded!
+
+
 1.6.42 - [b]Changes[/b]
 Added 10 mods:
 [WD] White Power Armor
