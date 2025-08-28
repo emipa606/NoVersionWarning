@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.44 - [b]Changes[/b]
+Added 2 mods:
+Fuck Psytrainers
+SOS2 EVA auto patcher
+
+
 1.6.43 - [b]Changes[/b]
 Removed 1 mods:
 UnderWhere

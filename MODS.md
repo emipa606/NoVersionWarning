@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -171,7 +173,11 @@
 - [Hydroponics Grow More](https://steamcommunity.com/sharedfiles/filedetails/?id=3005440209)
 - [Advanced Band Nodes](https://steamcommunity.com/sharedfiles/filedetails/?id=2886516228)
 - [Colorful Coats - Vanilla Animals Expanded!](https://steamcommunity.com/sharedfiles/filedetails/?id=2398446130)
+- [Fuck Psytrainers](https://steamcommunity.com/sharedfiles/filedetails/?id=3265425314)
+- [SOS2 EVA auto patcher](https://steamcommunity.com/sharedfiles/filedetails/?id=3253195891)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
