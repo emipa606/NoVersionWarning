@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -47,7 +45,6 @@
 - [[SYR] Glowing Healroot](https://steamcommunity.com/sharedfiles/filedetails/?id=1517921835)
 - [[KV] Hand 'n' Footwear [Adopted]](https://steamcommunity.com/sharedfiles/filedetails/?id=3266890815)
 - [Marine Armor Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=1638630888)
-- [RescueeJoinsPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=2177170403)
 - [Table_1x1 by timtim](https://steamcommunity.com/sharedfiles/filedetails/?id=2957418292)
 - [Tribal Headgear Retexturing](https://steamcommunity.com/sharedfiles/filedetails/?id=1665073263)
 - [Vanilla Solar Shield Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3058941124)
@@ -70,7 +67,6 @@
 - [Animal Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=712141500)
 - [PriorityClean](https://steamcommunity.com/sharedfiles/filedetails/?id=1294779672)
 - [No Debris on Smoothed Floors](https://steamcommunity.com/sharedfiles/filedetails/?id=2579442841)
-- [Pawn Badge Fan Fork [Adopted]](https://steamcommunity.com/sharedfiles/filedetails/?id=2526040241)
 - [Rim-Effect: Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2479560991)
 - [Pawn Badge - Sol Defense Corps Navy](https://steamcommunity.com/sharedfiles/filedetails/?id=2752105258)
 - [Pawn Badge - Halo MCC Rank Badges](https://steamcommunity.com/sharedfiles/filedetails/?id=2669659857)
@@ -175,9 +171,12 @@
 - [Colorful Coats - Vanilla Animals Expanded!](https://steamcommunity.com/sharedfiles/filedetails/?id=2398446130)
 - [Fuck Psytrainers](https://steamcommunity.com/sharedfiles/filedetails/?id=3265425314)
 - [SOS2 EVA auto patcher](https://steamcommunity.com/sharedfiles/filedetails/?id=3253195891)
-
+- [Forien's Naturalize Genome](https://steamcommunity.com/sharedfiles/filedetails/?id=2882398184)
+- [Feed Me](https://steamcommunity.com/sharedfiles/filedetails/?id=3550133020)
+- [Smelt Trash](https://steamcommunity.com/sharedfiles/filedetails/?id=3251206496)
+- [MiningCo. MiningHelmet](https://steamcommunity.com/sharedfiles/filedetails/?id=755227567)
+- [Compatibility On Hover](https://steamcommunity.com/sharedfiles/filedetails/?id=2911939966)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

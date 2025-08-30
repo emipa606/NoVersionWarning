@@ -1,5 +1,17 @@
 # Changelog for NoVersionWarning
 
+1.6.45 - [b]Changes[/b]
+Removed 2 mods:
+RescueeJoinsPlus
+Pawn Badge Fan Fork [Adopted]
+Added 5 mods:
+Forien's Naturalize Genome
+Feed Me
+Smelt Trash
+MiningCo. MiningHelmet
+Compatibility On Hover
+
+
 1.6.44 - [b]Changes[/b]
 Added 2 mods:
 Fuck Psytrainers

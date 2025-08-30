@@ -92,8 +92,6 @@
   <li>handandfootwearcontinued.kv.rw</li>
   <!-- Marine Armor Materials -->
   <li>joethetech.marinearmormaterials</li>
-  <!-- RescueeJoinsPlus -->
-  <li>Ogliss.RescueeJoinsPlus</li>
   <!-- Table_1x1 by timtim -->
   <li>timtim.Table1x1</li>
   <!-- Tribal Headgear Retexturing -->
@@ -138,8 +136,6 @@
   <li>fyarn.PriorityClean</li>
   <!-- No Debris on Smoothed Floors -->
   <li>Herigony.NoDebris</li>
-  <!-- Pawn Badge Fan Fork [Adopted] -->
-  <li>SaucyPigeon.PawnBadge</li>
   <!-- Rim-Effect: Music -->
   <li>RimEffect.Music</li>
   <!-- Pawn Badge - Sol Defense Corps Navy -->
@@ -348,4 +344,14 @@
   <li>ferny.fuckpsytrainers</li>
   <!-- SOS2 EVA auto patcher -->
   <li>Nox.SOS2EVAAutoPatcherHacked</li>
+  <!-- Forien's Naturalize Genome -->
+  <li>Forien.NaturalizeGenome</li>
+  <!-- Feed Me -->
+  <li>Xeronax.FeedMe</li>
+  <!-- Smelt Trash -->
+  <li>TypeWriter.SmeltTrash</li>
+  <!-- MiningCo. MiningHelmet -->
+  <li>Rikiki.MiningCo.MiningHelmet</li>
+  <!-- Compatibility On Hover -->
+  <li>smartkar.compatibilityonhover</li>
 </ModIdsToFix>
