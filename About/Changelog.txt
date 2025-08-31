@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.46 - [b]Changes[/b]
+Added 1 mods:
+No Refuelling
+
+
 1.6.45 - [b]Changes[/b]
 Removed 2 mods:
 RescueeJoinsPlus

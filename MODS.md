@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -176,7 +178,10 @@
 - [Smelt Trash](https://steamcommunity.com/sharedfiles/filedetails/?id=3251206496)
 - [MiningCo. MiningHelmet](https://steamcommunity.com/sharedfiles/filedetails/?id=755227567)
 - [Compatibility On Hover](https://steamcommunity.com/sharedfiles/filedetails/?id=2911939966)
+- [No Refuelling](https://steamcommunity.com/sharedfiles/filedetails/?id=2890072143)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

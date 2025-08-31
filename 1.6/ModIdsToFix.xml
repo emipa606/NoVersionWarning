@@ -354,4 +354,6 @@
   <li>Rikiki.MiningCo.MiningHelmet</li>
   <!-- Compatibility On Hover -->
   <li>smartkar.compatibilityonhover</li>
+  <!-- No Refuelling -->
+  <li>sash.NoRefuelling</li>
 </ModIdsToFix>
