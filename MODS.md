@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -99,7 +97,6 @@
 - [[CM] Biotech DLC Texture Upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=2884986535)
 - [Better Ground Textures?](https://steamcommunity.com/sharedfiles/filedetails/?id=2009702813)
 - [Legal Ageless](https://steamcommunity.com/sharedfiles/filedetails/?id=2925161426)
-- [Death Acidifier Removal](https://steamcommunity.com/sharedfiles/filedetails/?id=2016569177)
 - [Retextured Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2042613316)
 - [Retextured Sculptures](https://steamcommunity.com/sharedfiles/filedetails/?id=2045252395)
 - [Settlement Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2240524945)
@@ -179,9 +176,23 @@
 - [MiningCo. MiningHelmet](https://steamcommunity.com/sharedfiles/filedetails/?id=755227567)
 - [Compatibility On Hover](https://steamcommunity.com/sharedfiles/filedetails/?id=2911939966)
 - [No Refuelling](https://steamcommunity.com/sharedfiles/filedetails/?id=2890072143)
-
+- [Milkable Muffalo](https://steamcommunity.com/sharedfiles/filedetails/?id=2019852283)
+- [Craftable Reinforced Barrels](https://steamcommunity.com/sharedfiles/filedetails/?id=2555061347)
+- [Onesies](https://steamcommunity.com/sharedfiles/filedetails/?id=2684458397)
+- [Psy-Eltex](https://steamcommunity.com/sharedfiles/filedetails/?id=2366166093)
+- [Remove Gradual Relations Decay - Patchy](https://steamcommunity.com/sharedfiles/filedetails/?id=1860686739)
+- [Quality Cooldown](https://steamcommunity.com/sharedfiles/filedetails/?id=1543069597)
+- [Simple Weapon Aptitudes for VRE - Hussars](https://steamcommunity.com/sharedfiles/filedetails/?id=3403049681)
+- [Bill Doors' Wolf Girl Gene](https://steamcommunity.com/sharedfiles/filedetails/?id=2878104853)
+- [Invincible Boss Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=2894634686)
+- [Fab Can Brew!](https://steamcommunity.com/sharedfiles/filedetails/?id=3376064511)
+- [Astro Repair Mechanoid](https://steamcommunity.com/sharedfiles/filedetails/?id=3255828040)
+- [Better Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2879363370)
+- [Not a Weapon](https://steamcommunity.com/sharedfiles/filedetails/?id=2750061895)
+- [Pawn Badge - XCOM Ranks](https://steamcommunity.com/sharedfiles/filedetails/?id=2133895611)
+- [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
+- [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

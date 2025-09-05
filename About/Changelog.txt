@@ -1,5 +1,27 @@
 # Changelog for NoVersionWarning
 
+1.6.47 - [b]Changes[/b]
+Removed 1 mods:
+Death Acidifier Removal
+Added 16 mods:
+Milkable Muffalo
+Craftable Reinforced Barrels
+Onesies
+Psy-Eltex
+Remove Gradual Relations Decay - Patchy
+Quality Cooldown
+Simple Weapon Aptitudes for VRE - Hussars
+Bill Doors' Wolf Girl Gene
+Invincible Boss Loot
+Fab Can Brew!
+Astro Repair Mechanoid
+Better Atomizer
+Not a Weapon
+Pawn Badge - XCOM Ranks
+Pawn Badge - XCOM Badge
+TasteOfVanilla-ish Hotspring Retexture
+
+
 1.6.46 - [b]Changes[/b]
 Added 1 mods:
 No Refuelling

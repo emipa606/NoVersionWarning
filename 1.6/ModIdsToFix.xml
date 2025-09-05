@@ -196,8 +196,6 @@
   <li>Fissure.BetterGroundTextures</li>
   <!-- Legal Ageless -->
   <li>Masterofworlds22.LegalAgeless</li>
-  <!-- Death Acidifier Removal -->
-  <li>swwu.DeathAcidifierRemoval</li>
   <!-- Retextured Apparel -->
   <li>tenthwit.apparel</li>
   <!-- Retextured Sculptures -->
@@ -356,4 +354,36 @@
   <li>smartkar.compatibilityonhover</li>
   <!-- No Refuelling -->
   <li>sash.NoRefuelling</li>
+  <!-- Milkable Muffalo -->
+  <li>ALIEN.MilkableMuffalo</li>
+  <!-- Craftable Reinforced Barrels -->
+  <li>RoyalF.CraftableRBarrels</li>
+  <!-- Onesies -->
+  <li>DanDMan.Onesies</li>
+  <!-- Psy-Eltex -->
+  <li>xelnigma.psyeltex</li>
+  <!-- Remove Gradual Relations Decay - Patchy -->
+  <li>gerads.RemoveGradualRelationsDecayPatchy</li>
+  <!-- Quality Cooldown -->
+  <li>dninemfive.qualitycooldown</li>
+  <!-- Simple Weapon Aptitudes for VRE - Hussars -->
+  <li>Hussars.BlaBlaBla.CantBeArsedToComeUpWithAFunnyID</li>
+  <!-- Bill Doors' Wolf Girl Gene -->
+  <li>3HSTltd.wolf.gene</li>
+  <!-- Invincible Boss Loot -->
+  <li>killerbug.invinciblemechdrops</li>
+  <!-- Fab Can Brew! -->
+  <li>tatortot.fabCanBrew</li>
+  <!-- Astro Repair Mechanoid -->
+  <li>ZaryuARM.Mod</li>
+  <!-- Better Atomizer -->
+  <li>Snuggy.BetterAtomizer</li>
+  <!-- Not a Weapon -->
+  <li>Ltoddy.NotAWeapon</li>
+  <!-- Pawn Badge - XCOM Ranks -->
+  <li>lurmey.XcomPawnBadge</li>
+  <!-- Pawn Badge - XCOM Badge -->
+  <li>Botaxalim.XcomBadge</li>
+  <!-- TasteOfVanilla-ish Hotspring Retexture -->
+  <li>ICC.TOV.HS</li>
 </ModIdsToFix>
