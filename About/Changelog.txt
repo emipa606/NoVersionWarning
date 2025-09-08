@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.48 - [b]Changes[/b]
+Added 2 mods:
+Dormitories (Not Barracks)
+Custom Playstyle Presets
+
+
 1.6.47 - [b]Changes[/b]
 Removed 1 mods:
 Death Acidifier Removal

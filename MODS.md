@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -192,7 +194,12 @@
 - [Pawn Badge - XCOM Ranks](https://steamcommunity.com/sharedfiles/filedetails/?id=2133895611)
 - [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
+- [Dormitories (Not Barracks)](https://steamcommunity.com/sharedfiles/filedetails/?id=2558890999)
+- [Custom Playstyle Presets](https://steamcommunity.com/sharedfiles/filedetails/?id=2555720919)
+- [World Map Beautification Project - for Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2380940681)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

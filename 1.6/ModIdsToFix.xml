@@ -386,4 +386,10 @@
   <li>Botaxalim.XcomBadge</li>
   <!-- TasteOfVanilla-ish Hotspring Retexture -->
   <li>ICC.TOV.HS</li>
+  <!-- Dormitories (Not Barracks) -->
+  <li>Lucifer.Dormitories</li>
+  <!-- Custom Playstyle Presets -->
+  <li>Pillowesque.CustomPlaystylePresets</li>
+  <!-- World Map Beautification Project - for Alpha Biomes -->
+  <li>Carolusclen.DLC.WMBP</li>
 </ModIdsToFix>
