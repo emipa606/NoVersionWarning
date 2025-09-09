@@ -346,8 +346,6 @@
   <li>Forien.NaturalizeGenome</li>
   <!-- Feed Me -->
   <li>Xeronax.FeedMe</li>
-  <!-- Smelt Trash -->
-  <li>TypeWriter.SmeltTrash</li>
   <!-- MiningCo. MiningHelmet -->
   <li>Rikiki.MiningCo.MiningHelmet</li>
   <!-- Compatibility On Hover -->
@@ -392,4 +390,6 @@
   <li>Pillowesque.CustomPlaystylePresets</li>
   <!-- World Map Beautification Project - for Alpha Biomes -->
   <li>Carolusclen.DLC.WMBP</li>
+  <!-- No Selector Limit -->
+  <li>Craig.CMod.NoSelectorLimit</li>
 </ModIdsToFix>

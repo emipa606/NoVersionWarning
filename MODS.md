@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -174,7 +172,6 @@
 - [SOS2 EVA auto patcher](https://steamcommunity.com/sharedfiles/filedetails/?id=3253195891)
 - [Forien's Naturalize Genome](https://steamcommunity.com/sharedfiles/filedetails/?id=2882398184)
 - [Feed Me](https://steamcommunity.com/sharedfiles/filedetails/?id=3550133020)
-- [Smelt Trash](https://steamcommunity.com/sharedfiles/filedetails/?id=3251206496)
 - [MiningCo. MiningHelmet](https://steamcommunity.com/sharedfiles/filedetails/?id=755227567)
 - [Compatibility On Hover](https://steamcommunity.com/sharedfiles/filedetails/?id=2911939966)
 - [No Refuelling](https://steamcommunity.com/sharedfiles/filedetails/?id=2890072143)
@@ -197,9 +194,8 @@
 - [Dormitories (Not Barracks)](https://steamcommunity.com/sharedfiles/filedetails/?id=2558890999)
 - [Custom Playstyle Presets](https://steamcommunity.com/sharedfiles/filedetails/?id=2555720919)
 - [World Map Beautification Project - for Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2380940681)
-
+- [No Selector Limit](https://steamcommunity.com/sharedfiles/filedetails/?id=2281951010)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

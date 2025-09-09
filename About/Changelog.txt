@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.49 - [b]Changes[/b]
+Removed 1 mods:
+Smelt Trash
+Added 1 mods:
+No Selector Limit
+
+
 1.6.48 - [b]Changes[/b]
 Added 2 mods:
 Dormitories (Not Barracks)
