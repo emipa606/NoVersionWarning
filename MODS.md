@@ -36,7 +36,6 @@
 - [Vanilla Psycasts expanded - Revert some nerf](https://steamcommunity.com/sharedfiles/filedetails/?id=3034150760)
 - [UnderWhere Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=3354891128)
 - [[LYN] Cookie Genes (Skin and Hair Colors)](https://steamcommunity.com/sharedfiles/filedetails/?id=2879072525)
-- [Before the Crash: Backstories](https://steamcommunity.com/sharedfiles/filedetails/?id=3457023552)
 - [Bradson's Main Button Icons for VE Textures (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3372126541)
 - [Hammer and Sickle Symbols](https://steamcommunity.com/sharedfiles/filedetails/?id=2561742020)
 - [Medical Tab - Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3228889251)
@@ -195,6 +194,7 @@
 - [Custom Playstyle Presets](https://steamcommunity.com/sharedfiles/filedetails/?id=2555720919)
 - [World Map Beautification Project - for Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2380940681)
 - [No Selector Limit](https://steamcommunity.com/sharedfiles/filedetails/?id=2281951010)
+- [Surgeon Job](https://steamcommunity.com/sharedfiles/filedetails/?id=2575962748)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)

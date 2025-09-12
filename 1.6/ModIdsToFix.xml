@@ -74,8 +74,6 @@
   <li>Og.UnderWherePatches</li>
   <!-- [LYN] Cookie Genes (Skin and Hair Colors) -->
   <li>Cookie.Genes</li>
-  <!-- Before the Crash: Backstories -->
-  <li>BTC.backstories</li>
   <!-- Bradson's Main Button Icons for VE Textures (Continued) -->
   <li>karma.mbifvte</li>
   <!-- Hammer and Sickle Symbols -->
@@ -392,4 +390,6 @@
   <li>Carolusclen.DLC.WMBP</li>
   <!-- No Selector Limit -->
   <li>Craig.CMod.NoSelectorLimit</li>
+  <!-- Surgeon Job -->
+  <li>Jinks.SurgeonJob</li>
 </ModIdsToFix>

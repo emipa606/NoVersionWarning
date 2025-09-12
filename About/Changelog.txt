@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.50 - [b]Changes[/b]
+Removed 1 mods:
+Before the Crash: Backstories
+Added 1 mods:
+Surgeon Job
+
+
 1.6.49 - [b]Changes[/b]
 Removed 1 mods:
 Smelt Trash
