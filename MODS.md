@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -195,7 +197,11 @@
 - [World Map Beautification Project - for Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2380940681)
 - [No Selector Limit](https://steamcommunity.com/sharedfiles/filedetails/?id=2281951010)
 - [Surgeon Job](https://steamcommunity.com/sharedfiles/filedetails/?id=2575962748)
+- [Jelano Retexture - Rim War](https://steamcommunity.com/sharedfiles/filedetails/?id=2983090422)
+- [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -477,6 +483,7 @@
 - [Max Gain Cap Removal](https://steamcommunity.com/sharedfiles/filedetails/?id=1866959462)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
+- [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
@@ -625,6 +632,7 @@
 - [Craftable Psychics](https://steamcommunity.com/sharedfiles/filedetails/?id=2013938600)
 - [Infused 2 Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2560013658)
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
+- [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
 ## 1.3
 - [UN-Colony [1.2]](https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003)
 - [Outdoor Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=1545708330)
@@ -715,3 +723,4 @@
 - [Xen's XP Fixer](https://steamcommunity.com/sharedfiles/filedetails/?id=947140943)
 - [Better Mood Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2063386985)
 - [unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1746071278)
+- [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)

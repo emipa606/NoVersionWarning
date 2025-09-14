@@ -564,4 +564,6 @@
   <li>name.krypt.rimworld.unifiedxmlexport</li>
   <!-- [ZEN] Vanilla Security Retextured -->
   <li>Poet.RetexturedVanillaSecurity</li>
+  <!-- Gold Coins -->
+  <li>SirLalaPyon.GoldCoins</li>
 </ModIdsToFix>

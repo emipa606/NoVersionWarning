@@ -392,4 +392,8 @@
   <li>Craig.CMod.NoSelectorLimit</li>
   <!-- Surgeon Job -->
   <li>Jinks.SurgeonJob</li>
+  <!-- Jelano Retexture - Rim War -->
+  <li>JelanoRetexture.RimWar</li>
+  <!-- Gold Coins -->
+  <li>SirLalaPyon.GoldCoins</li>
 </ModIdsToFix>

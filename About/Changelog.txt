@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.51 - [b]Changes[/b]
+Added 5 mods:
+Jelano Retexture - Rim War
+Gold Coins for 1.3
+Gold Coins for 1.4
+Gold Coins for 1.5
+Gold Coins
+
+
 1.6.50 - [b]Changes[/b]
 Removed 1 mods:
 Before the Crash: Backstories
