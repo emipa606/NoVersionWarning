@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.52 - [b]Changes[/b]
+Added 1 mods:
+Visible Ceiling Lamp
+
+
 1.6.51 - [b]Changes[/b]
 Added 5 mods:
 Jelano Retexture - Rim War
