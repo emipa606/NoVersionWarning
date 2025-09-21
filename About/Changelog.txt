@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.54 - [b]Changes[/b]
+Added 1 mods:
+Jelano Retexture - Vanilla Outposts
+
+
 1.6.53 - [b]Changes[/b]
 Added 1 mods:
 Simple Learning

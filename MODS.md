@@ -201,6 +201,7 @@
 - [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
 - [Visible Ceiling Lamp](https://steamcommunity.com/sharedfiles/filedetails/?id=2022838858)
 - [Simple Learning](https://steamcommunity.com/sharedfiles/filedetails/?id=2711504627)
+- [Jelano Retexture - Vanilla Outposts](https://steamcommunity.com/sharedfiles/filedetails/?id=3000381668)
 
 ## 1.5
 
