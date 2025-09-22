@@ -304,8 +304,6 @@
   <li>Pal5k.SlightlyStylishSubcores</li>
   <!-- Spectacular Skullspike -->
   <li>Bitches.Be.Cray</li>
-  <!-- Smoke bomb retexture for Uncompromising Tribals -->
-  <li>Great.Tribal.Mod</li>
   <!-- Honorbound -->
   <li>Vesper.Honorbound</li>
   <!-- Thing Categories: Icons -->
@@ -402,4 +400,6 @@
   <li>Fox.SimpleLearning</li>
   <!-- Jelano Retexture - Vanilla Outposts -->
   <li>JelanoRetexture.VanillaOutposts</li>
+  <!-- BAROTRAUMA Music -->
+  <li>godlyannihilator.BAROTRAUMAmusic</li>
 </ModIdsToFix>

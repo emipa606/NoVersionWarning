@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.55 - [b]Changes[/b]
+Removed 1 mods:
+Smoke bomb retexture for Uncompromising Tribals
+Added 1 mods:
+BAROTRAUMA Music
+
+
 1.6.54 - [b]Changes[/b]
 Added 1 mods:
 Jelano Retexture - Vanilla Outposts
