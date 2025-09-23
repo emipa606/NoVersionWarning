@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.56 - [b]Changes[/b]
+Removed 1 mods:
+Not a Weapon
+
+
 1.6.55 - [b]Changes[/b]
 Removed 1 mods:
 Smoke bomb retexture for Uncompromising Tribals

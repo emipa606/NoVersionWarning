@@ -185,7 +185,6 @@
 - [Fab Can Brew!](https://steamcommunity.com/sharedfiles/filedetails/?id=3376064511)
 - [Astro Repair Mechanoid](https://steamcommunity.com/sharedfiles/filedetails/?id=3255828040)
 - [Better Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2879363370)
-- [Not a Weapon](https://steamcommunity.com/sharedfiles/filedetails/?id=2750061895)
 - [Pawn Badge - XCOM Ranks](https://steamcommunity.com/sharedfiles/filedetails/?id=2133895611)
 - [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
