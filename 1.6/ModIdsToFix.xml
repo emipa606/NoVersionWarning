@@ -400,4 +400,8 @@
   <li>JelanoRetexture.VanillaOutposts</li>
   <!-- BAROTRAUMA Music -->
   <li>godlyannihilator.BAROTRAUMAmusic</li>
+  <!-- Sins Dryad Retexture -->
+  <li>Sinner.Retexture.Dryad</li>
+  <!-- Jelano retexture - RPG Style Inventory -->
+  <li>JelanoRetexture.RPGStyleInventory</li>
 </ModIdsToFix>

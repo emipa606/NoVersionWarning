@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.57 - [b]Changes[/b]
+Added 2 mods:
+Sins Dryad Retexture
+Jelano retexture - RPG Style Inventory
+
+
 1.6.56 - [b]Changes[/b]
 Removed 1 mods:
 Not a Weapon
