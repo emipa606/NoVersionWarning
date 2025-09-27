@@ -203,6 +203,10 @@
 - [BAROTRAUMA Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3227692785)
 - [Sins Dryad Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2785966464)
 - [Jelano retexture - RPG Style Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2982280260)
+- [Ghouls Gotta Eat](https://steamcommunity.com/sharedfiles/filedetails/?id=3344715087)
+- [Restock Notification[1.5]]()
+- [Eat At Campfire](https://steamcommunity.com/sharedfiles/filedetails/?id=3266359567)
+- [Mechs Nuzzle](https://steamcommunity.com/sharedfiles/filedetails/?id=3472342264)
 
 ## 1.5
 

@@ -404,4 +404,12 @@
   <li>Sinner.Retexture.Dryad</li>
   <!-- Jelano retexture - RPG Style Inventory -->
   <li>JelanoRetexture.RPGStyleInventory</li>
+  <!-- Ghouls Gotta Eat -->
+  <li>nsh.ghoulsgottaeat</li>
+  <!-- Restock Notification[1.5] -->
+  <li>bluebird.tammybee.restocknotification</li>
+  <!-- Eat At Campfire -->
+  <li>Kad.EatAtCampfire</li>
+  <!-- Mechs Nuzzle -->
+  <li>LovinMy.WarqueenMechWife.UntilSheBreaks</li>
 </ModIdsToFix>
