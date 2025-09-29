@@ -302,8 +302,6 @@
   <li>WioLets.IdeoPapers</li>
   <!-- Slightly Stylish Subcores -->
   <li>Pal5k.SlightlyStylishSubcores</li>
-  <!-- Spectacular Skullspike -->
-  <li>Bitches.Be.Cray</li>
   <!-- Honorbound -->
   <li>Vesper.Honorbound</li>
   <!-- Thing Categories: Icons -->
@@ -406,10 +404,12 @@
   <li>JelanoRetexture.RPGStyleInventory</li>
   <!-- Ghouls Gotta Eat -->
   <li>nsh.ghoulsgottaeat</li>
-  <!-- Restock Notification[1.5] -->
-  <li>bluebird.tammybee.restocknotification</li>
   <!-- Eat At Campfire -->
   <li>Kad.EatAtCampfire</li>
   <!-- Mechs Nuzzle -->
   <li>LovinMy.WarqueenMechWife.UntilSheBreaks</li>
+  <!-- Restock Notification[1.5] -->
+  <li>bluebird.tammybee.restocknotification</li>
+  <!-- SuperCoolMod2 -->
+  <li>Magic.SuperCoolMod2</li>
 </ModIdsToFix>

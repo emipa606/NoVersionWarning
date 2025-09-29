@@ -152,7 +152,6 @@
 - [Absolute Legends: Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2195744587)
 - [Papers Please Icon pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3224428864)
 - [Slightly Stylish Subcores](https://steamcommunity.com/sharedfiles/filedetails/?id=2883708194)
-- [Spectacular Skullspike](https://steamcommunity.com/sharedfiles/filedetails/?id=2963460063)
 - [Honorbound](https://steamcommunity.com/sharedfiles/filedetails/?id=2838817941)
 - [Thing Categories: Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2945787596)
 - [Thinking Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=1819265371)
@@ -204,9 +203,10 @@
 - [Sins Dryad Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2785966464)
 - [Jelano retexture - RPG Style Inventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2982280260)
 - [Ghouls Gotta Eat](https://steamcommunity.com/sharedfiles/filedetails/?id=3344715087)
-- [Restock Notification[1.5]]()
 - [Eat At Campfire](https://steamcommunity.com/sharedfiles/filedetails/?id=3266359567)
 - [Mechs Nuzzle](https://steamcommunity.com/sharedfiles/filedetails/?id=3472342264)
+- [Restock Notification[1.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
+- [SuperCoolMod2](https://steamcommunity.com/sharedfiles/filedetails/?id=3040728277)
 
 ## 1.5
 
