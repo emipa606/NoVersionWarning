@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.60 - [b]Changes[/b]
+Removed 1 mods:
+Simple Weapon Aptitudes for VRE - Hussars
+
+
 1.6.59 - [b]Changes[/b]
 Added 1 mods:
 SuperCoolMod2
