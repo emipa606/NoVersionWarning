@@ -1,6 +1,6 @@
 # [No Version Warning](https://steamcommunity.com/sharedfiles/filedetails/?id=2599504692)
 
-![Image](https://i.imgur.com/iCj5o7O.png)
+![Image](https://i.postimg.cc/PJc4kLbg/Self-Info.png)
 
 I get a lot of requests to update mods and some of them have no issues except that they are marked in the mod-list as incompatible with the current Rimworld version.
 Instead of me republishing these mods with the only change being that the latest game-version tag is added I made this mod instead.
@@ -14,13 +14,13 @@ If you know of a mod that should be added here, leave a link to it and Ill add i
 ## [Currently supported mods](https://github.com/emipa606/NoVersionWarning/blob/main/MODS.md)
 
 	
-![Image](https://i.imgur.com/Ds0rBAD.png)
+![Image](https://i.postimg.cc/nr5ktsY8/Self-Support-And-Donations.png)
 
 Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my [Wishlist](https://store.steampowered.com/wishlist/id/Mlie) or buy me a cup of tea.
 
-[![Image](https://i.imgur.com/VWG0yff.png)](https://ko-fi.com/G2G55DDYD)
+[![Image](https://i.postimg.cc/4yn5MvtR/Kofi-Small.png)](https://ko-fi.com/G2G55DDYD)
 
-![Image](https://i.imgur.com/5xwDG6H.png)
+![Image](https://i.postimg.cc/cC6mj7Y4/Self-Reporting-Issues.png)
 
 
 
