@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.62 - [b]Changes[/b]
+Removed 2 mods:
+Remove Gradual Relations Decay - Patchy
+Better Research Tabs
+
+
 1.6.61 - [b]Changes[/b]
 Added 2 mods:
 InfestationBait

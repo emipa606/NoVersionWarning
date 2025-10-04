@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -178,7 +176,6 @@
 - [Craftable Reinforced Barrels](https://steamcommunity.com/sharedfiles/filedetails/?id=2555061347)
 - [Onesies](https://steamcommunity.com/sharedfiles/filedetails/?id=2684458397)
 - [Psy-Eltex](https://steamcommunity.com/sharedfiles/filedetails/?id=2366166093)
-- [Remove Gradual Relations Decay - Patchy](https://steamcommunity.com/sharedfiles/filedetails/?id=1860686739)
 - [Quality Cooldown](https://steamcommunity.com/sharedfiles/filedetails/?id=1543069597)
 - [Bill Doors' Wolf Girl Gene](https://steamcommunity.com/sharedfiles/filedetails/?id=2878104853)
 - [Invincible Boss Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=2894634686)
@@ -207,10 +204,7 @@
 - [Restock Notification[1.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
 - [SuperCoolMod2](https://steamcommunity.com/sharedfiles/filedetails/?id=3040728277)
 - [InfestationBait](https://steamcommunity.com/sharedfiles/filedetails/?id=1541249195)
-- [Better Research Tabs](https://steamcommunity.com/sharedfiles/filedetails/?id=3236847079)
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

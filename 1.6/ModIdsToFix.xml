@@ -354,8 +354,6 @@
   <li>DanDMan.Onesies</li>
   <!-- Psy-Eltex -->
   <li>xelnigma.psyeltex</li>
-  <!-- Remove Gradual Relations Decay - Patchy -->
-  <li>gerads.RemoveGradualRelationsDecayPatchy</li>
   <!-- Quality Cooldown -->
   <li>dninemfive.qualitycooldown</li>
   <!-- Bill Doors' Wolf Girl Gene -->
@@ -412,6 +410,4 @@
   <li>Magic.SuperCoolMod2</li>
   <!-- InfestationBait -->
   <li>navyseal5.InfestationBait</li>
-  <!-- Better Research Tabs -->
-  <li>andery233xj.mod.BetterResearchTabs</li>
 </ModIdsToFix>
