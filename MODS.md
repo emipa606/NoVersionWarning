@@ -180,7 +180,6 @@
 - [Bill Doors' Wolf Girl Gene](https://steamcommunity.com/sharedfiles/filedetails/?id=2878104853)
 - [Invincible Boss Loot](https://steamcommunity.com/sharedfiles/filedetails/?id=2894634686)
 - [Fab Can Brew!](https://steamcommunity.com/sharedfiles/filedetails/?id=3376064511)
-- [Astro Repair Mechanoid](https://steamcommunity.com/sharedfiles/filedetails/?id=3255828040)
 - [Better Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2879363370)
 - [Pawn Badge - XCOM Ranks](https://steamcommunity.com/sharedfiles/filedetails/?id=2133895611)
 - [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
