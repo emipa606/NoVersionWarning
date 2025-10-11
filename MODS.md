@@ -48,7 +48,6 @@
 - [Tribal Headgear Retexturing](https://steamcommunity.com/sharedfiles/filedetails/?id=1665073263)
 - [Vanilla Solar Shield Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3058941124)
 - [Stylish Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=3428320896)
-- [Shella Backgrounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2853407446)
 - [Fuse Plus - Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2525222816)
 - [SF Grim Reality](https://steamcommunity.com/sharedfiles/filedetails/?id=1543063349)
 - [Roo's HD Royalty Hairstyles](https://steamcommunity.com/sharedfiles/filedetails/?id=2860821574)
@@ -203,6 +202,7 @@
 - [Restock Notification[1.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
 - [SuperCoolMod2](https://steamcommunity.com/sharedfiles/filedetails/?id=3040728277)
 - [InfestationBait](https://steamcommunity.com/sharedfiles/filedetails/?id=1541249195)
+- [Random Xenotype Maker](https://steamcommunity.com/sharedfiles/filedetails/?id=3269622491)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)

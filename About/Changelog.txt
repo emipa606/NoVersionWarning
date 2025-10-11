@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.64 - [b]Changes[/b]
+Removed 1 mods:
+Shella Backgrounds
+Added 1 mods:
+Random Xenotype Maker
+
+
 1.6.63 - [b]Changes[/b]
 Removed 1 mods:
 Astro Repair Mechanoid

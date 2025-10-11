@@ -98,8 +98,6 @@
   <li>phoenix135.vanillahsolarshieldretexture</li>
   <!-- Stylish Shelves -->
   <li>SexWith.FoxGirls.Uuuuu</li>
-  <!-- Shella Backgrounds -->
-  <li>stm.ShellaBackgrounds</li>
   <!-- Fuse Plus - Retexture -->
   <li>bluelizard.fuseplus.retexture</li>
   <!-- SF Grim Reality -->
@@ -408,4 +406,6 @@
   <li>Magic.SuperCoolMod2</li>
   <!-- InfestationBait -->
   <li>navyseal5.InfestationBait</li>
+  <!-- Random Xenotype Maker -->
+  <li>DimonSever000.RandomXenotypeMaker.Specific</li>
 </ModIdsToFix>
