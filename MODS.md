@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
@@ -203,7 +205,11 @@
 - [SuperCoolMod2](https://steamcommunity.com/sharedfiles/filedetails/?id=3040728277)
 - [InfestationBait](https://steamcommunity.com/sharedfiles/filedetails/?id=1541249195)
 - [Random Xenotype Maker](https://steamcommunity.com/sharedfiles/filedetails/?id=3269622491)
+- [Stranger Danger](https://steamcommunity.com/sharedfiles/filedetails/?id=3267912850)
+- [CheckManualPriorities](https://steamcommunity.com/sharedfiles/filedetails/?id=2968788420)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

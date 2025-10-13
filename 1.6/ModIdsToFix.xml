@@ -408,4 +408,8 @@
   <li>navyseal5.InfestationBait</li>
   <!-- Random Xenotype Maker -->
   <li>DimonSever000.RandomXenotypeMaker.Specific</li>
+  <!-- Stranger Danger -->
+  <li>jp.StrangerDanger</li>
+  <!-- CheckManualPriorities -->
+  <li>timtim.CheckManualPriorities</li>
 </ModIdsToFix>
