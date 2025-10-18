@@ -412,4 +412,12 @@
   <li>jp.StrangerDanger</li>
   <!-- CheckManualPriorities -->
   <li>timtim.CheckManualPriorities</li>
+  <!-- Begone, Message! -->
+  <li>lbmaian.begonemessage</li>
+  <!-- Incident Tweaker -->
+  <li>automatic.incidenttweaker</li>
+  <!-- [BLD] Quantum Cooling Redux -->
+  <li>Alaestor.QuantumCooling</li>
+  <!-- Trade Ships Drop Spot ReTexture -->
+  <li>SC.TradeShipsDropSpotReTexture</li>
 </ModIdsToFix>

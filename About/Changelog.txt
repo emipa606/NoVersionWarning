@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.6.66 - Some mods added via github issue
+
+
 1.6.65 - [b]Changes[/b]
 Added 2 mods:
 Stranger Danger

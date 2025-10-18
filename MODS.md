@@ -207,6 +207,10 @@
 - [Random Xenotype Maker](https://steamcommunity.com/sharedfiles/filedetails/?id=3269622491)
 - [Stranger Danger](https://steamcommunity.com/sharedfiles/filedetails/?id=3267912850)
 - [CheckManualPriorities](https://steamcommunity.com/sharedfiles/filedetails/?id=2968788420)
+- [Begone, Message!](https://steamcommunity.com/sharedfiles/filedetails/?id=1951637504)
+- [Incident Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=2051895989)
+- [[BLD] Quantum Cooling Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296)
+- [Trade Ships Drop Spot ReTexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2543180404)
 
 ## 1.5
 
