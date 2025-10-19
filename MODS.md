@@ -211,6 +211,7 @@
 - [Incident Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=2051895989)
 - [[BLD] Quantum Cooling Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296)
 - [Trade Ships Drop Spot ReTexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2543180404)
+- [Mech Gestator Added](https://steamcommunity.com/sharedfiles/filedetails/?id=3343308438)
 
 ## 1.5
 

@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.67 - [b]Changes[/b]
+Added 1 mods:
+Mech Gestator Added
+
+
 1.6.66 - Some mods added via github issue
 
 

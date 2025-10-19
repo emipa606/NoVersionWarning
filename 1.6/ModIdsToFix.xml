@@ -420,4 +420,6 @@
   <li>Alaestor.QuantumCooling</li>
   <!-- Trade Ships Drop Spot ReTexture -->
   <li>SC.TradeShipsDropSpotReTexture</li>
+  <!-- Mech Gestator Added -->
+  <li>tertlewatur.RimWorld.MechGestatorAdded</li>
 </ModIdsToFix>
