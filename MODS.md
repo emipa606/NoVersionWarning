@@ -212,6 +212,7 @@
 - [[BLD] Quantum Cooling Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=2293503296)
 - [Trade Ships Drop Spot ReTexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2543180404)
 - [Mech Gestator Added](https://steamcommunity.com/sharedfiles/filedetails/?id=3343308438)
+- [Dubs Bad Hygiene Water Tower patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2594261699)
 
 ## 1.5
 
@@ -497,6 +498,7 @@
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 - [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
+- [Dubs Bad Hygiene Water Tower patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2594261699)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
