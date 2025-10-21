@@ -213,6 +213,7 @@
 - [Trade Ships Drop Spot ReTexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2543180404)
 - [Mech Gestator Added](https://steamcommunity.com/sharedfiles/filedetails/?id=3343308438)
 - [Dubs Bad Hygiene Water Tower patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2594261699)
+- [Weight price](https://steamcommunity.com/sharedfiles/filedetails/?id=2363887111)
 
 ## 1.5
 

@@ -424,4 +424,6 @@
   <li>tertlewatur.RimWorld.MechGestatorAdded</li>
   <!-- Dubs Bad Hygiene Water Tower patch -->
   <li>Sztorno.DubsBadHygieneWTPatch</li>
+  <!-- Weight price -->
+  <li>deivisis.weightprice</li>
 </ModIdsToFix>
