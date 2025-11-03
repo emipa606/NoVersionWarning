@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.71 - [b]Changes[/b]
+Added 1 mods:
+Vanilla Prestige Specialist Armours Reworked
+
+
 1.6.70 - [b]Changes[/b]
 Added 1 mods:
 Cook Carefully

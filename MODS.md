@@ -215,6 +215,7 @@
 - [Dubs Bad Hygiene Water Tower patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2594261699)
 - [Weight price](https://steamcommunity.com/sharedfiles/filedetails/?id=2363887111)
 - [Cook Carefully](https://steamcommunity.com/sharedfiles/filedetails/?id=3392407178)
+- [Vanilla Prestige Specialist Armours Reworked](https://steamcommunity.com/sharedfiles/filedetails/?id=3246196440)
 
 ## 1.5
 
