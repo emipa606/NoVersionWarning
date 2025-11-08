@@ -1,8 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
-- [Personal Work Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2722053051)
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -116,7 +113,6 @@
 - [Uninstall Designator](https://steamcommunity.com/sharedfiles/filedetails/?id=2904451767)
 - [Capacity Deprivation Port](https://steamcommunity.com/sharedfiles/filedetails/?id=2884504605)
 - [Condition Matters](https://steamcommunity.com/sharedfiles/filedetails/?id=2482412209)
-- [Always Unique Ideologies](https://steamcommunity.com/sharedfiles/filedetails/?id=2910768401)
 - [Roo's Birthmarks and Blemishes](https://steamcommunity.com/sharedfiles/filedetails/?id=2890180936)
 - [Hidden Eyes](https://steamcommunity.com/sharedfiles/filedetails/?id=2590369351)
 - [Where's the gravel? - Grayscale Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=1541282175)
@@ -216,9 +212,9 @@
 - [Weight price](https://steamcommunity.com/sharedfiles/filedetails/?id=2363887111)
 - [Cook Carefully](https://steamcommunity.com/sharedfiles/filedetails/?id=3392407178)
 - [Vanilla Prestige Specialist Armours Reworked](https://steamcommunity.com/sharedfiles/filedetails/?id=3246196440)
-
+- [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
+- [Perspective: Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2572022990)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
@@ -502,6 +498,8 @@
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 - [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
 - [Dubs Bad Hygiene Water Tower patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2594261699)
+- [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
+- [Perspective: Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2572022990)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
@@ -651,6 +649,7 @@
 - [Infused 2 Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=2560013658)
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 - [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
+- [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
 ## 1.3
 - [UN-Colony [1.2]](https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003)
 - [Outdoor Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=1545708330)

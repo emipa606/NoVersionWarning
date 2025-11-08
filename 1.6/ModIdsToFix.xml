@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
-  <!-- Personal Work Categories -->
-  <li>densevoid.hui.personalworkcat</li>
   <!-- Another Milk Retexture -->
   <li>Mallow.MilkRetexture</li>
   <!-- Baby muffalo is Muffalump -->
@@ -230,8 +228,6 @@
   <li>Dineful.TrahsPanda.CapacityDeprivationPorted</li>
   <!-- Condition Matters -->
   <li>SteveZero.ConditionMatters</li>
-  <!-- Always Unique Ideologies -->
-  <li>densevoid.alwaysuniqideo</li>
   <!-- Roo's Birthmarks and Blemishes -->
   <li>Rooboid.BirthmarksandBlemishes</li>
   <!-- Hidden Eyes -->
@@ -430,4 +426,8 @@
   <li>8Z.CookCarefully</li>
   <!-- Vanilla Prestige Specialist Armours Reworked -->
   <li>PrestigeSpecialistArmours.Final</li>
+  <!-- Age of Mythology Soundtrack -->
+  <li>GoatBoy.AoMOST2</li>
+  <!-- Perspective: Trees -->
+  <li>Owlchemist.PerspectiveTrees</li>
 </ModIdsToFix>

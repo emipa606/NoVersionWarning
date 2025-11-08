@@ -1,5 +1,17 @@
 # Changelog for NoVersionWarning
 
+1.6.72 - [b]Changes[/b]
+Removed 2 mods:
+Always Unique Ideologies
+Personal Work Categories
+Added 5 mods:
+Age of Mythology Soundtrack for 1.4
+Age of Mythology Soundtrack for 1.5
+Age of Mythology Soundtrack
+Perspective: Trees for 1.5
+Perspective: Trees
+
+
 1.6.71 - [b]Changes[/b]
 Added 1 mods:
 Vanilla Prestige Specialist Armours Reworked
