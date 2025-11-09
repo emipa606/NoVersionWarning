@@ -90,8 +90,6 @@
   <li>joethetech.marinearmormaterials</li>
   <!-- Table_1x1 by timtim -->
   <li>timtim.Table1x1</li>
-  <!-- Tribal Headgear Retexturing -->
-  <li>densevoid.tribalheadgear</li>
   <!-- Vanilla Solar Shield Retexture -->
   <li>phoenix135.vanillahsolarshieldretexture</li>
   <!-- Stylish Shelves -->
@@ -430,4 +428,6 @@
   <li>GoatBoy.AoMOST2</li>
   <!-- Perspective: Trees -->
   <li>Owlchemist.PerspectiveTrees</li>
+  <!-- Cotton to Cloth -->
+  <li>SK117.ClothProduction</li>
 </ModIdsToFix>

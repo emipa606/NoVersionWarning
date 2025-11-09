@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.73 - [b]Changes[/b]
+Removed 1 mods:
+Tribal Headgear Retexturing
+Added 1 mods:
+Cotton to Cloth
+
+
 1.6.72 - [b]Changes[/b]
 Removed 2 mods:
 Always Unique Ideologies

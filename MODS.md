@@ -44,7 +44,6 @@
 - [[KV] Hand 'n' Footwear [Adopted]](https://steamcommunity.com/sharedfiles/filedetails/?id=3266890815)
 - [Marine Armor Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=1638630888)
 - [Table_1x1 by timtim](https://steamcommunity.com/sharedfiles/filedetails/?id=2957418292)
-- [Tribal Headgear Retexturing](https://steamcommunity.com/sharedfiles/filedetails/?id=1665073263)
 - [Vanilla Solar Shield Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3058941124)
 - [Stylish Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=3428320896)
 - [Fuse Plus - Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2525222816)
@@ -214,6 +213,7 @@
 - [Vanilla Prestige Specialist Armours Reworked](https://steamcommunity.com/sharedfiles/filedetails/?id=3246196440)
 - [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
 - [Perspective: Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2572022990)
+- [Cotton to Cloth](https://steamcommunity.com/sharedfiles/filedetails/?id=3452230862)
 ## 1.5
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
