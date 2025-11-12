@@ -32,6 +32,20 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+
+
+![Image](https://img.litet.net/logos/Self-ReportingIssues.png)
+
+
+
+-  See if the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
+
  
 
 [![Image](https://img.shields.io/github/v/release/emipa606/NoVersionWarning?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692) | tags:  compatible mods, compatibility

@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -181,7 +183,6 @@
 - [Pawn Badge - XCOM Badge](https://steamcommunity.com/sharedfiles/filedetails/?id=2288381182)
 - [TasteOfVanilla-ish Hotspring Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2798232828)
 - [Dormitories (Not Barracks)](https://steamcommunity.com/sharedfiles/filedetails/?id=2558890999)
-- [Custom Playstyle Presets](https://steamcommunity.com/sharedfiles/filedetails/?id=2555720919)
 - [World Map Beautification Project - for Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=2380940681)
 - [No Selector Limit](https://steamcommunity.com/sharedfiles/filedetails/?id=2281951010)
 - [Surgeon Job](https://steamcommunity.com/sharedfiles/filedetails/?id=2575962748)
@@ -214,7 +215,11 @@
 - [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
 - [Perspective: Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2572022990)
 - [Cotton to Cloth](https://steamcommunity.com/sharedfiles/filedetails/?id=3452230862)
+- [VFME - Caravan Packs!](https://steamcommunity.com/sharedfiles/filedetails/?id=2255432128)
+- [[KV] ReColor Stockpile & Growing Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1180718996)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

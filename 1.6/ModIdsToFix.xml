@@ -364,8 +364,6 @@
   <li>ICC.TOV.HS</li>
   <!-- Dormitories (Not Barracks) -->
   <li>Lucifer.Dormitories</li>
-  <!-- Custom Playstyle Presets -->
-  <li>Pillowesque.CustomPlaystylePresets</li>
   <!-- World Map Beautification Project - for Alpha Biomes -->
   <li>Carolusclen.DLC.WMBP</li>
   <!-- No Selector Limit -->
@@ -430,4 +428,8 @@
   <li>Owlchemist.PerspectiveTrees</li>
   <!-- Cotton to Cloth -->
   <li>SK117.ClothProduction</li>
+  <!-- VFME - Caravan Packs! -->
+  <li>VFME.CaravanPacks</li>
+  <!-- [KV] ReColor Stockpile & Growing Zones -->
+  <li>recolorstockpile.kv.rw</li>
 </ModIdsToFix>
