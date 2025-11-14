@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -86,7 +84,6 @@
 - [World Map Polluted Tiles - Improved Visibility](https://steamcommunity.com/sharedfiles/filedetails/?id=3000540696)
 - [Visible Entity Capacities](https://steamcommunity.com/sharedfiles/filedetails/?id=3267779657)
 - [Perishable Hemogen](https://steamcommunity.com/sharedfiles/filedetails/?id=3438026345)
-- [[KR] Star Wars RimThemes](https://steamcommunity.com/sharedfiles/filedetails/?id=2899066274)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
 - [Consciousness Affects Learning Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2969141614)
 - [Xeva's Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=705924057)
@@ -217,9 +214,7 @@
 - [Cotton to Cloth](https://steamcommunity.com/sharedfiles/filedetails/?id=3452230862)
 - [VFME - Caravan Packs!](https://steamcommunity.com/sharedfiles/filedetails/?id=2255432128)
 - [[KV] ReColor Stockpile & Growing Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1180718996)
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)

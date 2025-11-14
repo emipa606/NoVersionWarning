@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.76 - [b]Changes[/b]
+Removed 1 mods:
+[KR] Star Wars RimThemes
+
+
 1.6.75 - [b]Changes[/b]
 Added 1 mods:
 [KV] ReColor Stockpile & Growing Zones
