@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.77 - [b]Changes[/b]
+Added 1 mods:
+FAE-Facial Animations Expanded
+
+
 1.6.76 - [b]Changes[/b]
 Removed 1 mods:
 [KR] Star Wars RimThemes

@@ -430,4 +430,6 @@
   <li>VFME.CaravanPacks</li>
   <!-- [KV] ReColor Stockpile & Growing Zones -->
   <li>recolorstockpile.kv.rw</li>
+  <!-- FAE-Facial Animations Expanded -->
+  <li>Tak0u.FAE</li>
 </ModIdsToFix>

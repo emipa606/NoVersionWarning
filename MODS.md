@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -214,7 +216,10 @@
 - [Cotton to Cloth](https://steamcommunity.com/sharedfiles/filedetails/?id=3452230862)
 - [VFME - Caravan Packs!](https://steamcommunity.com/sharedfiles/filedetails/?id=2255432128)
 - [[KV] ReColor Stockpile & Growing Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1180718996)
+- [FAE-Facial Animations Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2890697696)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
