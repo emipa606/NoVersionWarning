@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.78 - [b]Changes[/b]
+Added 1 mods:
+Temporary Bed for 1.5
+
+
 1.6.77 - [b]Changes[/b]
 Added 1 mods:
 FAE-Facial Animations Expanded

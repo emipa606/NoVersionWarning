@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -505,7 +503,10 @@
 - [Dubs Bad Hygiene Water Tower patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2594261699)
 - [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
 - [Perspective: Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2572022990)
+- [Temporary Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=3534808721)
+
 ## 1.4
+
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)
