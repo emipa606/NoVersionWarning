@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -215,6 +217,8 @@
 - [VFME - Caravan Packs!](https://steamcommunity.com/sharedfiles/filedetails/?id=2255432128)
 - [[KV] ReColor Stockpile & Growing Zones](https://steamcommunity.com/sharedfiles/filedetails/?id=1180718996)
 - [FAE-Facial Animations Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2890697696)
+- [Sleep in My Crib](https://steamcommunity.com/sharedfiles/filedetails/?id=2924296223)
+- [Invisible Meditation Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2143401596)
 
 ## 1.5
 
@@ -504,9 +508,8 @@
 - [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
 - [Perspective: Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2572022990)
 - [Temporary Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=3534808721)
-
+- [Invisible Meditation Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2143401596)
 ## 1.4
-
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
 - [Recon Helmet Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2461840327)

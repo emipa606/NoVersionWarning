@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.79 - [b]Changes[/b]
+Added 3 mods:
+Sleep in My Crib
+Invisible Meditation Spot for 1.5
+Invisible Meditation Spot
+
+
 1.6.78 - [b]Changes[/b]
 Added 1 mods:
 Temporary Bed for 1.5
