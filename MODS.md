@@ -219,6 +219,7 @@
 - [FAE-Facial Animations Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2890697696)
 - [Sleep in My Crib](https://steamcommunity.com/sharedfiles/filedetails/?id=2924296223)
 - [Invisible Meditation Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2143401596)
+- [Wheelchairs](https://steamcommunity.com/sharedfiles/filedetails/?id=3212614016)
 
 ## 1.5
 

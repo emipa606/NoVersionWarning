@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.80 - [b]Changes[/b]
+Added 1 mods:
+Wheelchairs
+
+
 1.6.79 - [b]Changes[/b]
 Added 3 mods:
 Sleep in My Crib
