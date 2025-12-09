@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.81 - [b]Changes[/b]
+Added 2 mods:
+CorpseTab
+GreenRim
+
+
 1.6.80 - [b]Changes[/b]
 Added 1 mods:
 Wheelchairs

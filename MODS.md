@@ -220,6 +220,8 @@
 - [Sleep in My Crib](https://steamcommunity.com/sharedfiles/filedetails/?id=2924296223)
 - [Invisible Meditation Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2143401596)
 - [Wheelchairs](https://steamcommunity.com/sharedfiles/filedetails/?id=3212614016)
+- [CorpseTab](https://steamcommunity.com/sharedfiles/filedetails/?id=2599842476)
+- [GreenRim](https://steamcommunity.com/sharedfiles/filedetails/?id=1939945822)
 
 ## 1.5
 
