@@ -222,6 +222,17 @@
 - [Wheelchairs](https://steamcommunity.com/sharedfiles/filedetails/?id=3212614016)
 - [CorpseTab](https://steamcommunity.com/sharedfiles/filedetails/?id=2599842476)
 - [GreenRim](https://steamcommunity.com/sharedfiles/filedetails/?id=1939945822)
+- [Royalty eye bionic](https://steamcommunity.com/sharedfiles/filedetails/?id=3244422098)
+- [Auto Animal Flap](https://steamcommunity.com/sharedfiles/filedetails/?id=3236726779)
+- [Memorial Cross](https://steamcommunity.com/sharedfiles/filedetails/?id=2860953165)
+- [Organ Decay Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=3238650014)
+- [Police Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=3474720857)
+- [Retexturedapparelnopawns1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3233585231)
+- [Steve's Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=3141057381)
+- [Phase Weaponry - Revert Man in Black Change](https://steamcommunity.com/sharedfiles/filedetails/?id=3328573858)
+- [Vanilla Beards Retextured + Stubbly Facial Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=3292205371)
+- [Real Flamethrowers](https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070)
+- [Alpha Animals Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046)
 
 ## 1.5
 

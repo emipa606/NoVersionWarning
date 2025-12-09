@@ -1,5 +1,19 @@
 # Changelog for NoVersionWarning
 
+1.6.82 - Added:
+Alpha Animals Retexture
+Real Flamethrowers
+Vanilla Beards Retextured + Stubbly Facial Hair
+Phase Weaponry - Revert Man in Black Change
+Steve's Doors
+Retextured Apparel 1.5 (Apparel Textures only)
+Police Uniforms
+Organ Decay Variety
+Memorial Cross
+Auto Animal Flap
+Royalty eye bionic
+
+
 1.6.81 - [b]Changes[/b]
 Added 2 mods:
 CorpseTab
