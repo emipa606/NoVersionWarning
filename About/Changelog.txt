@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.83 - [b]Changes[/b]
+Removed 1 mods:
+Agrihand And Cleansweeper Retexture for version 1.5
+
+
 1.6.82 - Added:
 Alpha Animals Retexture
 Real Flamethrowers

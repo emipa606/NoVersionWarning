@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -233,11 +231,9 @@
 - [Vanilla Beards Retextured + Stubbly Facial Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=3292205371)
 - [Real Flamethrowers](https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070)
 - [Alpha Animals Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046)
-
+- [Art n Smart Slaves! (AKA Slaves can now do Art and Research work!)](https://steamcommunity.com/sharedfiles/filedetails/?id=2605727464)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
-- [Agrihand And Cleansweeper Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2948295247)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
