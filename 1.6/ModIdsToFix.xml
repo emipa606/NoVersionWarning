@@ -466,4 +466,10 @@
   <li>azami.alphaanimalsretexture</li>
   <!-- Art n Smart Slaves! (AKA Slaves can now do Art and Research work!) -->
   <li>mayo.patch.artnsmartslaves</li>
+  <!-- No Royalty Thrones Required -->
+  <li>yarpblat.NoRoyaltyThronesRequired</li>
+  <!-- LCorp Music -->
+  <li>fluffle.LCorpOST</li>
+  <!-- Traits - Corpse Handling -->
+  <li>DanielCoffey.TraitsCorpseHandling</li>
 </ModIdsToFix>

@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -232,7 +234,12 @@
 - [Real Flamethrowers](https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070)
 - [Alpha Animals Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046)
 - [Art n Smart Slaves! (AKA Slaves can now do Art and Research work!)](https://steamcommunity.com/sharedfiles/filedetails/?id=2605727464)
+- [No Royalty Thrones Required](https://steamcommunity.com/sharedfiles/filedetails/?id=2076629330)
+- [LCorp Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3222834737)
+- [Traits - Corpse Handling](https://steamcommunity.com/sharedfiles/filedetails/?id=2079155916)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
