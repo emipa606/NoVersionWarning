@@ -1,5 +1,21 @@
 # Changelog for NoVersionWarning
 
+1.6.85 - [b]Changes[/b]
+Removed 2 mods:
+Consciousness Affects Learning Speed
+Cloud's Extra Apparel Layers
+Added 9 mods:
+pherocore has no hitpoints
+Stone To Steel Hardcore 1.4 
+Bonible's VEW:Laser Retexture
+Adaptive Storage Neolithic Module
+[LYN] Hardtack
+Animal Tab Icons
+Dubs Bad Hygiene (Piss point)
+More World Features Names
+Wear What You Want
+
+
 1.6.84 - [b]Changes[/b]
 Added 3 mods:
 No Royalty Thrones Required

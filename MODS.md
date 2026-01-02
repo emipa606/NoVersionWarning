@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -87,7 +85,6 @@
 - [Visible Entity Capacities](https://steamcommunity.com/sharedfiles/filedetails/?id=3267779657)
 - [Perishable Hemogen](https://steamcommunity.com/sharedfiles/filedetails/?id=3438026345)
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
-- [Consciousness Affects Learning Speed](https://steamcommunity.com/sharedfiles/filedetails/?id=2969141614)
 - [Xeva's Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=705924057)
 - [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
 - [Animal Medical Bed 1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3221610549)
@@ -121,7 +118,6 @@
 - [X.E.N.O](https://steamcommunity.com/sharedfiles/filedetails/?id=2524548731)
 - [Bogs-bo-gon](https://steamcommunity.com/sharedfiles/filedetails/?id=2564988875)
 - [Cables and plumbing ](https://steamcommunity.com/sharedfiles/filedetails/?id=3026785992)
-- [Cloud's Extra Apparel Layers](https://steamcommunity.com/sharedfiles/filedetails/?id=3506624860)
 - [Refine the silver!](https://steamcommunity.com/sharedfiles/filedetails/?id=3340113198)
 - [Safety Helmet with Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2073947744)
 - [Socks Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=3362262111)
@@ -237,9 +233,16 @@
 - [No Royalty Thrones Required](https://steamcommunity.com/sharedfiles/filedetails/?id=2076629330)
 - [LCorp Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3222834737)
 - [Traits - Corpse Handling](https://steamcommunity.com/sharedfiles/filedetails/?id=2079155916)
-
+- [pherocore has no hitpoints](https://steamcommunity.com/sharedfiles/filedetails/?id=3330984703)
+- [Stone To Steel Hardcore 1.4 ](https://steamcommunity.com/sharedfiles/filedetails/?id=2902014460)
+- [Bonible's VEW:Laser Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2874341239)
+- [Adaptive Storage Neolithic Module](https://steamcommunity.com/sharedfiles/filedetails/?id=3033901895)
+- [[LYN] Hardtack](https://steamcommunity.com/sharedfiles/filedetails/?id=2556210255)
+- [Animal Tab Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2913312848)
+- [Dubs Bad Hygiene (Piss point)](https://steamcommunity.com/sharedfiles/filedetails/?id=2873844481)
+- [More World Features Names](https://steamcommunity.com/sharedfiles/filedetails/?id=2986843377)
+- [Wear What You Want](https://steamcommunity.com/sharedfiles/filedetails/?id=2079833048)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

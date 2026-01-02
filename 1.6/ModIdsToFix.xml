@@ -172,8 +172,6 @@
   <li>richiemoddy.perishableHemogen</li>
   <!-- Unified Xml Export -->
   <li>name.krypt.rimworld.unifiedxmlexport</li>
-  <!-- Consciousness Affects Learning Speed -->
-  <li>Jdalt.CALS</li>
   <!-- Xeva's Rimhair -->
   <li>Orion.XevaRimhair</li>
   <!-- Roppoi Hair - Upscaled -->
@@ -240,8 +238,6 @@
   <li>powerlunatic.bogbogon</li>
   <!-- Cables and plumbing  -->
   <li>Medicalpol.CablesAndPlumbing</li>
-  <!-- Cloud's Extra Apparel Layers -->
-  <li>clouds.extraapparellayers</li>
   <!-- Refine the silver! -->
   <li>bronze.refinethesilver</li>
   <!-- Safety Helmet with Light -->
@@ -472,4 +468,22 @@
   <li>fluffle.LCorpOST</li>
   <!-- Traits - Corpse Handling -->
   <li>DanielCoffey.TraitsCorpseHandling</li>
+  <!-- pherocore has no hitpoints -->
+  <li>LW.PherocoreWithoutHitpoints</li>
+  <!-- Stone To Steel Hardcore 1.4  -->
+  <li>captaingeorge.StoneToSteelHardcore</li>
+  <!-- Bonible's VEW:Laser Retexture -->
+  <li>Bonible.vanillalaserretexture</li>
+  <!-- Adaptive Storage Neolithic Module -->
+  <li>adaptive.storage.neolithic</li>
+  <!-- [LYN] Hardtack -->
+  <li>LadyCookie.Hardtack</li>
+  <!-- Animal Tab Icons -->
+  <li>sky.ui.animaltabicons</li>
+  <!-- Dubs Bad Hygiene (Piss point) -->
+  <li>Fox.PissPoint</li>
+  <!-- More World Features Names -->
+  <li>Virstag.MoreWorldFeaturesNames</li>
+  <!-- Wear What You Want -->
+  <li>RelaxedOtter.WearWhatYouWant</li>
 </ModIdsToFix>
