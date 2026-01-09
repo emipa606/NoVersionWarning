@@ -34,4 +34,4 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/NoVersionWarning?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692) | tags:  compatible mods, compatibility
+[![Image](https://img.shields.io/github/v/release/emipa606/NoVersionWarning?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2599504692) | tags: compatibility, compatible mods

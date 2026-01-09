@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -242,7 +244,10 @@
 - [Dubs Bad Hygiene (Piss point)](https://steamcommunity.com/sharedfiles/filedetails/?id=2873844481)
 - [More World Features Names](https://steamcommunity.com/sharedfiles/filedetails/?id=2986843377)
 - [Wear What You Want](https://steamcommunity.com/sharedfiles/filedetails/?id=2079833048)
+- [Learning Threshold for Learning Job Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2886207005)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

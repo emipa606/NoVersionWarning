@@ -486,4 +486,6 @@
   <li>Virstag.MoreWorldFeaturesNames</li>
   <!-- Wear What You Want -->
   <li>RelaxedOtter.WearWhatYouWant</li>
+  <!-- Learning Threshold for Learning Job Fix -->
+  <li>Skye.LearningThresholdForLearningJobFix</li>
 </ModIdsToFix>

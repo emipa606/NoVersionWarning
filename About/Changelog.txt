@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.86 - [b]Changes[/b]
+Added 1 mods:
+Learning Threshold for Learning Job Fix
+
+
 1.6.85 - [b]Changes[/b]
 Removed 2 mods:
 Consciousness Affects Learning Speed
