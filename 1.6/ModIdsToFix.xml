@@ -242,8 +242,6 @@
   <li>bronze.refinethesilver</li>
   <!-- Safety Helmet with Light -->
   <li>SafetyMets.SafetyHelmetWithLight</li>
-  <!-- Socks Variety -->
-  <li>SocksVariety.SYSMY</li>
   <!-- [ATW] Chicken Variety -->
   <li>mgatwood.chickenvariety</li>
   <!-- [ATW] Ridiculous Alpaca Variety -->
@@ -282,8 +280,6 @@
   <li>4YDRA.ArsenalofIdeology</li>
   <!-- Faux's Icon Anthology Forked Collection -->
   <li>Faux.IconAnthGeneric.Collection</li>
-  <!-- Absolute Legends: Hair -->
-  <li>Absolute.Legends.Hair</li>
   <!-- Papers Please Icon pack -->
   <li>WioLets.IdeoPapers</li>
   <!-- Slightly Stylish Subcores -->
@@ -450,8 +446,6 @@
   <li>PU.LUNARTIKAAA</li>
   <!-- Retexturedapparelnopawns1.5 -->
   <li>Chad.Retexturedapparelnopawns1.5</li>
-  <!-- Steve's Doors -->
-  <li>Scurvyez.StevesDoors</li>
   <!-- Phase Weaponry - Revert Man in Black Change -->
   <li>loki.phaseweaponrynmib</li>
   <!-- Vanilla Beards Retextured + Stubbly Facial Hair -->
@@ -464,8 +458,6 @@
   <li>mayo.patch.artnsmartslaves</li>
   <!-- No Royalty Thrones Required -->
   <li>yarpblat.NoRoyaltyThronesRequired</li>
-  <!-- LCorp Music -->
-  <li>fluffle.LCorpOST</li>
   <!-- Traits - Corpse Handling -->
   <li>DanielCoffey.TraitsCorpseHandling</li>
   <!-- pherocore has no hitpoints -->
@@ -488,4 +480,12 @@
   <li>RelaxedOtter.WearWhatYouWant</li>
   <!-- Learning Threshold for Learning Job Fix -->
   <li>Skye.LearningThresholdForLearningJobFix</li>
+  <!-- Horse Breeds - Skin Variations -->
+  <li>booleanne.horsebreedvariations</li>
+  <!-- CleaningStation -->
+  <li>navyseal5.CleaningStation</li>
+  <!-- Toxic Wastepack on Shelves -->
+  <li>Skye.ToxicWastepackOnShelves</li>
+  <!-- Vanilla Nutrient Paste Expanded: Deep Vat -->
+  <li>MrHydralisk.VNPEDeepVat</li>
 </ModIdsToFix>

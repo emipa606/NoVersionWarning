@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -122,7 +120,6 @@
 - [Cables and plumbing ](https://steamcommunity.com/sharedfiles/filedetails/?id=3026785992)
 - [Refine the silver!](https://steamcommunity.com/sharedfiles/filedetails/?id=3340113198)
 - [Safety Helmet with Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2073947744)
-- [Socks Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=3362262111)
 - [[ATW] Chicken Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2905864165)
 - [[ATW] Ridiculous Alpaca Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2920990655)
 - [[ATW] Ridiculous Muffalo Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2910433595)
@@ -142,7 +139,6 @@
 - [Annoying Kids Floordrawings](https://steamcommunity.com/sharedfiles/filedetails/?id=2880440884)
 - [Arsenal of Ideology](https://steamcommunity.com/sharedfiles/filedetails/?id=2561610570)
 - [Faux's Icon Anthology Forked Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3241211551)
-- [Absolute Legends: Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2195744587)
 - [Papers Please Icon pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3224428864)
 - [Slightly Stylish Subcores](https://steamcommunity.com/sharedfiles/filedetails/?id=2883708194)
 - [Honorbound](https://steamcommunity.com/sharedfiles/filedetails/?id=2838817941)
@@ -226,14 +222,12 @@
 - [Organ Decay Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=3238650014)
 - [Police Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=3474720857)
 - [Retexturedapparelnopawns1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3233585231)
-- [Steve's Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=3141057381)
 - [Phase Weaponry - Revert Man in Black Change](https://steamcommunity.com/sharedfiles/filedetails/?id=3328573858)
 - [Vanilla Beards Retextured + Stubbly Facial Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=3292205371)
 - [Real Flamethrowers](https://steamcommunity.com/sharedfiles/filedetails/?id=2949407070)
 - [Alpha Animals Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2920418046)
 - [Art n Smart Slaves! (AKA Slaves can now do Art and Research work!)](https://steamcommunity.com/sharedfiles/filedetails/?id=2605727464)
 - [No Royalty Thrones Required](https://steamcommunity.com/sharedfiles/filedetails/?id=2076629330)
-- [LCorp Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3222834737)
 - [Traits - Corpse Handling](https://steamcommunity.com/sharedfiles/filedetails/?id=2079155916)
 - [pherocore has no hitpoints](https://steamcommunity.com/sharedfiles/filedetails/?id=3330984703)
 - [Stone To Steel Hardcore 1.4 ](https://steamcommunity.com/sharedfiles/filedetails/?id=2902014460)
@@ -245,9 +239,11 @@
 - [More World Features Names](https://steamcommunity.com/sharedfiles/filedetails/?id=2986843377)
 - [Wear What You Want](https://steamcommunity.com/sharedfiles/filedetails/?id=2079833048)
 - [Learning Threshold for Learning Job Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2886207005)
-
+- [Horse Breeds - Skin Variations](https://steamcommunity.com/sharedfiles/filedetails/?id=2737378747)
+- [CleaningStation](https://steamcommunity.com/sharedfiles/filedetails/?id=1541893512)
+- [Toxic Wastepack on Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=2885557795)
+- [Vanilla Nutrient Paste Expanded: Deep Vat](https://steamcommunity.com/sharedfiles/filedetails/?id=2921013972)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
