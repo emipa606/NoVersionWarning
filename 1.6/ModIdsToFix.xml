@@ -488,4 +488,14 @@
   <li>Skye.ToxicWastepackOnShelves</li>
   <!-- Vanilla Nutrient Paste Expanded: Deep Vat -->
   <li>MrHydralisk.VNPEDeepVat</li>
+  <!-- VWE - Grenades and [LTS]Ammunition - Simple Ammo Pack compatibility patch -->
+  <li>Osetrokarasek.VWEG.LTSASAP.patch</li>
+  <!-- Royality and [LTS]Ammunition - Simple Ammo Pack compatibility patch -->
+  <li>Osetrokarasek.Royality.LTSASAP.patch</li>
+  <!-- Vanilla Vehicles Expanded and [LTS]Ammunition - Simple Ammo Pack compatibility patch -->
+  <li>Osetrokarasek.VVE.ammo.patch</li>
+  <!-- Place Soil Anywhere -->
+  <li>Se.Soil</li>
+  <!-- Odz Face Replacer -->
+  <li>Odz.Facereplacer</li>
 </ModIdsToFix>

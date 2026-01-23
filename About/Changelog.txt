@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.88 - [b]Changes[/b]
+Added 5 mods:
+VWE - Grenades and [LTS]Ammunition - Simple Ammo Pack compatibility patch
+Royality and [LTS]Ammunition - Simple Ammo Pack compatibility patch
+Vanilla Vehicles Expanded and [LTS]Ammunition - Simple Ammo Pack compatibility patch
+Place Soil Anywhere
+Odz Face Replacer
+
+
 1.6.87 - [b]Changes[/b]
 Removed 4 mods:
 Steve's Doors

@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -243,7 +245,14 @@
 - [CleaningStation](https://steamcommunity.com/sharedfiles/filedetails/?id=1541893512)
 - [Toxic Wastepack on Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=2885557795)
 - [Vanilla Nutrient Paste Expanded: Deep Vat](https://steamcommunity.com/sharedfiles/filedetails/?id=2921013972)
+- [VWE - Grenades and [LTS]Ammunition - Simple Ammo Pack compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=3018890607)
+- [Royality and [LTS]Ammunition - Simple Ammo Pack compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=3033625855)
+- [Vanilla Vehicles Expanded and [LTS]Ammunition - Simple Ammo Pack compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=3019539086)
+- [Place Soil Anywhere](https://steamcommunity.com/sharedfiles/filedetails/?id=2394947410)
+- [Odz Face Replacer](https://steamcommunity.com/sharedfiles/filedetails/?id=2970752861)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
