@@ -250,6 +250,13 @@
 - [Vanilla Vehicles Expanded and [LTS]Ammunition - Simple Ammo Pack compatibility patch](https://steamcommunity.com/sharedfiles/filedetails/?id=3019539086)
 - [Place Soil Anywhere](https://steamcommunity.com/sharedfiles/filedetails/?id=2394947410)
 - [Odz Face Replacer](https://steamcommunity.com/sharedfiles/filedetails/?id=2970752861)
+- [[M.W]Multi-ToolBox](https://steamcommunity.com/sharedfiles/filedetails/?id=2824283616)
+- [[TMC] EFT Sharpsticks](https://steamcommunity.com/sharedfiles/filedetails/?id=2410194541)
+- [pphhyy's Tox Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2891573871)
+- [Automatic Bed Reassigment Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3277548223)
+- [Deep Drill Alert](https://steamcommunity.com/sharedfiles/filedetails/?id=3317330008)
+- [Ferret's Mechanitor Work Type](https://steamcommunity.com/sharedfiles/filedetails/?id=3193349927)
+- [Hi-Tech Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=3241241623)
 
 ## 1.5
 

@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.89 - Added 6 mods:
+[M.W]Multi-ToolBox
+[TMC] EFT Sharpsticks
+pphhyy's Tox Weapons
+Deep Drill Alert
+Ferret's Mechanitor Work Type
+Hi-Tech Shelves
+
+
 1.6.88 - [b]Changes[/b]
 Added 5 mods:
 VWE - Grenades and [LTS]Ammunition - Simple Ammo Pack compatibility patch
