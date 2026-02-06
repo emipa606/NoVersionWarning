@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.90 - [b]Changes[/b]
+Added 1 mods:
+Child Ghouls
+
+
 1.6.89 - Added 6 mods:
 [M.W]Multi-ToolBox
 [TMC] EFT Sharpsticks

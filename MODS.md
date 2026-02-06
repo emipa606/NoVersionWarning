@@ -257,6 +257,7 @@
 - [Deep Drill Alert](https://steamcommunity.com/sharedfiles/filedetails/?id=3317330008)
 - [Ferret's Mechanitor Work Type](https://steamcommunity.com/sharedfiles/filedetails/?id=3193349927)
 - [Hi-Tech Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=3241241623)
+- [Child Ghouls](https://steamcommunity.com/sharedfiles/filedetails/?id=3237700833)
 
 ## 1.5
 
