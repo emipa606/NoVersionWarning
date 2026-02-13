@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.91 - [b]Changes[/b]
+Removed 5 mods:
+Loft Bed for version 1.5
+VNPE Fridge Fix for version 1.5
+Vanilla Nutrient Paste Expanded: MiniGrinder
+Vanilla Nutrient Paste Expanded: MiniGrinder for version 1.5
+Market Value Filter for version 1.5
+
+
 1.6.90 - [b]Changes[/b]
 Added 1 mods:
 Child Ghouls

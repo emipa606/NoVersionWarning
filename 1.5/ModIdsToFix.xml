@@ -72,8 +72,6 @@
   <li>Simmin.PowerTools</li>
   <!-- Wall Vitals Monitor -->
   <li>zzz.WallVitalsMonitor</li>
-  <!-- Loft Bed -->
-  <li>zed.0xff.LoftBed</li>
   <!-- More Ideological Words -->
   <li>purpleyam.moreideologicalwords</li>
   <!-- TasteOfVanilla-ish Hotspring Retexture -->
@@ -154,8 +152,6 @@
   <li>Timuttie.JustLeaveAlready</li>
   <!-- No Pseudo Translate无开发者乱码 -->
   <li>LazyCat.NoPseudoTranslate</li>
-  <!-- VNPE Fridge Fix -->
-  <li>zed.0xff.VNPE.FridgeFix</li>
   <!-- wasscreefted's Smokeleaf Expanded -->
   <li>wasscreefted.SmokeleafExpanded</li>
   <!-- Madman's Star Wars Ships (Aerocraft) -->
@@ -166,8 +162,6 @@
   <li>thing.categories.icons</li>
   <!-- Better Linkable Colors -->
   <li>drummeur.BetterLinkableColors</li>
-  <!-- Market Value Filter -->
-  <li>zed.0xff.MarketValueFilter</li>
   <!-- Power Tab 2 -->
   <li>Owlchemist.PowerTab</li>
   <!-- Jelano retexture - RPG Style Inventory -->
@@ -202,8 +196,6 @@
   <li>Slashandz.MiniMiner</li>
   <!-- Remove Nutrient Paste Expiration -->
   <li>Roskii.NutrientPasteFix</li>
-  <!-- Vanilla Nutrient Paste Expanded: MiniGrinder -->
-  <li>zed.0xff.VNPE.MiniGrinder</li>
   <!-- Real Drug Names -->
   <li>Kyrrisayo.RealDrugNames</li>
   <!-- Where is my weapon? -->
@@ -574,4 +566,6 @@
   <li>S7.temporarybed</li>
   <!-- Invisible Meditation Spot -->
   <li>Plucky.InvisibleMeditation</li>
+  <!-- Start With Any Fluid Meme -->
+  <li>me.lubar.StartWithAnyFluidMeme</li>
 </ModIdsToFix>
