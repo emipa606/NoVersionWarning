@@ -512,4 +512,12 @@
   <li>AlexNares.HiTechShelves</li>
   <!-- Child Ghouls -->
   <li>mayo.childghoul</li>
+  <!-- Adjacent Light -->
+  <li>jp.AdjacentLight</li>
+  <!-- Storage Type Categories -->
+  <li>PatientSomeone.StorageTypeCategories</li>
+  <!-- Apocrypha 2033 - Apparel -->
+  <li>Odz.Apocrypha2033.Apparel</li>
+  <!-- Use Minified Buildings -->
+  <li>dhultgren.useminifiedbuildings</li>
 </ModIdsToFix>

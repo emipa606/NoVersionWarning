@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -255,7 +257,13 @@
 - [Ferret's Mechanitor Work Type](https://steamcommunity.com/sharedfiles/filedetails/?id=3193349927)
 - [Hi-Tech Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=3241241623)
 - [Child Ghouls](https://steamcommunity.com/sharedfiles/filedetails/?id=3237700833)
+- [Adjacent Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2517853803)
+- [Storage Type Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2886819216)
+- [Apocrypha 2033 - Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2970206222)
+- [Use Minified Buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=2185809028)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

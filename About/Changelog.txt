@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.6.92 - [b]Changes[/b]
+Added 4 mods:
+Adjacent Light
+Storage Type Categories
+Apocrypha 2033 - Apparel
+Use Minified Buildings
+
+
 1.6.91 - [b]Changes[/b]
 Removed 5 mods:
 Loft Bed for version 1.5
