@@ -1,5 +1,15 @@
 # Changelog for NoVersionWarning
 
+1.6.93 - [b]Changes[/b]
+Removed 1 mods:
+Refine the silver!
+Added 4 mods:
+[TGH] Banners of Cyrodiil for 1.5
+[TGH] Banners of Cyrodiil
+Desks are better than blackboards - CSL Retexture
+Nuclear Waste Atomizer
+
+
 1.6.92 - [b]Changes[/b]
 Added 4 mods:
 Adjacent Light

@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -120,7 +118,6 @@
 - [X.E.N.O](https://steamcommunity.com/sharedfiles/filedetails/?id=2524548731)
 - [Bogs-bo-gon](https://steamcommunity.com/sharedfiles/filedetails/?id=2564988875)
 - [Cables and plumbing ](https://steamcommunity.com/sharedfiles/filedetails/?id=3026785992)
-- [Refine the silver!](https://steamcommunity.com/sharedfiles/filedetails/?id=3340113198)
 - [Safety Helmet with Light](https://steamcommunity.com/sharedfiles/filedetails/?id=2073947744)
 - [[ATW] Chicken Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2905864165)
 - [[ATW] Ridiculous Alpaca Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2920990655)
@@ -261,9 +258,13 @@
 - [Storage Type Categories](https://steamcommunity.com/sharedfiles/filedetails/?id=2886819216)
 - [Apocrypha 2033 - Apparel](https://steamcommunity.com/sharedfiles/filedetails/?id=2970206222)
 - [Use Minified Buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=2185809028)
-
+- [Diseases Overhauled](https://steamcommunity.com/sharedfiles/filedetails/?id=2174246491)
+- [GouRIMet](https://steamcommunity.com/sharedfiles/filedetails/?id=814732357)
+- [Medieval Overhaul - Banners](https://steamcommunity.com/sharedfiles/filedetails/?id=2796326468)
+- [[TGH] Banners of Cyrodiil](https://steamcommunity.com/sharedfiles/filedetails/?id=3162212025)
+- [Desks are better than blackboards - CSL Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2557348220)
+- [Nuclear Waste Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2968821762)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
@@ -547,6 +548,8 @@
 - [Temporary Bed](https://steamcommunity.com/sharedfiles/filedetails/?id=3534808721)
 - [Invisible Meditation Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2143401596)
 - [Start With Any Fluid Meme](https://steamcommunity.com/sharedfiles/filedetails/?id=2610344106)
+- [Medieval Overhaul - Banners](https://steamcommunity.com/sharedfiles/filedetails/?id=2796326468)
+- [[TGH] Banners of Cyrodiil](https://steamcommunity.com/sharedfiles/filedetails/?id=3162212025)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)

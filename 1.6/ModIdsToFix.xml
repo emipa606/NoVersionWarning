@@ -238,8 +238,6 @@
   <li>powerlunatic.bogbogon</li>
   <!-- Cables and plumbing  -->
   <li>Medicalpol.CablesAndPlumbing</li>
-  <!-- Refine the silver! -->
-  <li>bronze.refinethesilver</li>
   <!-- Safety Helmet with Light -->
   <li>SafetyMets.SafetyHelmetWithLight</li>
   <!-- [ATW] Chicken Variety -->
@@ -520,4 +518,16 @@
   <li>Odz.Apocrypha2033.Apparel</li>
   <!-- Use Minified Buildings -->
   <li>dhultgren.useminifiedbuildings</li>
+  <!-- Diseases Overhauled -->
+  <li>Ogliss.Mythos.DiseasesOverhauled</li>
+  <!-- GouRIMet -->
+  <li>spoonshortage.gourimet</li>
+  <!-- Medieval Overhaul - Banners -->
+  <li>DankPyon.Medieval.Overhaul.Banners</li>
+  <!-- [TGH] Banners of Cyrodiil -->
+  <li>TGH.BannersCyrodiil</li>
+  <!-- Desks are better than blackboards - CSL Retexture -->
+  <li>Capi.CSL.Desk</li>
+  <!-- Nuclear Waste Atomizer -->
+  <li>rabiosus.NuclearWasteAtomizer</li>
 </ModIdsToFix>
