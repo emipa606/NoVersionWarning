@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -264,7 +266,13 @@
 - [[TGH] Banners of Cyrodiil](https://steamcommunity.com/sharedfiles/filedetails/?id=3162212025)
 - [Desks are better than blackboards - CSL Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=2557348220)
 - [Nuclear Waste Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2968821762)
+- [Pannelings](https://steamcommunity.com/sharedfiles/filedetails/?id=2987232261)
+- [Marios Pizza](https://steamcommunity.com/sharedfiles/filedetails/?id=3226188356)
+- [[FSF] Disable Dragon Abilities](https://steamcommunity.com/sharedfiles/filedetails/?id=3182426638)
+- [Metal Gear Rimworld - DiamondDog](https://steamcommunity.com/sharedfiles/filedetails/?id=3243715904)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

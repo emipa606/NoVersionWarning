@@ -530,4 +530,12 @@
   <li>Capi.CSL.Desk</li>
   <!-- Nuclear Waste Atomizer -->
   <li>rabiosus.NuclearWasteAtomizer</li>
+  <!-- Pannelings -->
+  <li>samslittlerimrims.panneling</li>
+  <!-- Marios Pizza -->
+  <li>Sov.Pizza</li>
+  <!-- [FSF] Disable Dragon Abilities -->
+  <li>FrozenSnowFox.DisableDragonAbilities</li>
+  <!-- Metal Gear Rimworld - DiamondDog -->
+  <li>Aoba.DiamondDog.Core</li>
 </ModIdsToFix>

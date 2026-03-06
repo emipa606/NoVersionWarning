@@ -1,5 +1,21 @@
 # Changelog for NoVersionWarning
 
+1.6.94 - [b]Changes[/b]
+Added 12 mods:
+True
+True
+Pannelings
+True
+True
+Marios Pizza
+True
+True
+[FSF] Disable Dragon Abilities
+True
+True
+Metal Gear Rimworld - DiamondDog
+
+
 1.6.93 - [b]Changes[/b]
 Removed 1 mods:
 Refine the silver!

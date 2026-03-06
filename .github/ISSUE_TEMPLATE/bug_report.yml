@@ -1,0 +1,40 @@
+name: Bug Report
+description: Report a bug
+title: "A short description"
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - See if the the error persists if you just have this mod and its requirements active.
+        - If not, try adding your other mods until it happens again.
+        - Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)         
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: Short description of the bug
+      placeholder: e.g. "Crash when opening settings"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Be as specific as possible
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: input
+    id: loglink
+    attributes:
+      label: Log link
+      description: A link to the HugsLib log where this happens
+      placeholder: https://gist.github.com/HugsLibRecordKeeper/8ae9197fdff08b4f6e92547583dc4cbb
