@@ -270,6 +270,9 @@
 - [Marios Pizza](https://steamcommunity.com/sharedfiles/filedetails/?id=3226188356)
 - [[FSF] Disable Dragon Abilities](https://steamcommunity.com/sharedfiles/filedetails/?id=3182426638)
 - [Metal Gear Rimworld - DiamondDog](https://steamcommunity.com/sharedfiles/filedetails/?id=3243715904)
+- [Fix Mechanoid Resource Drop](https://steamcommunity.com/sharedfiles/filedetails/?id=2548077448)
+- [Planetary Drill Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3335873435)
+- [Roomba](https://steamcommunity.com/sharedfiles/filedetails/?id=2372779350)
 
 ## 1.5
 

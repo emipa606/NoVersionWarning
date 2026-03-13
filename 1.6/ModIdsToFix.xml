@@ -538,4 +538,10 @@
   <li>FrozenSnowFox.DisableDragonAbilities</li>
   <!-- Metal Gear Rimworld - DiamondDog -->
   <li>Aoba.DiamondDog.Core</li>
+  <!-- Fix Mechanoid Resource Drop -->
+  <li>Sugi.FixMechanoidResources</li>
+  <!-- Planetary Drill Retexture -->
+  <li>Starlyn.PDR</li>
+  <!-- Roomba -->
+  <li>TheGoofyOne.Roomba</li>
 </ModIdsToFix>

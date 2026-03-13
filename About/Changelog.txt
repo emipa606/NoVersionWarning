@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.95 - [b]Changes[/b]
+Added 3 mods:
+Fix Mechanoid Resource Drop
+Planetary Drill Retexture
+Roomba
+
+
 1.6.94 - [b]Changes[/b]
 Added 12 mods:
 True
