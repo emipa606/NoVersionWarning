@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.96 - [b]Changes[/b]
+Added 2 mods:
+Nerf the V.O.I.D.
+Alternate Vents and Coolers
+
+
 1.6.95 - [b]Changes[/b]
 Added 3 mods:
 Fix Mechanoid Resource Drop

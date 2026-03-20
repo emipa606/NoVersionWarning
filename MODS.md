@@ -273,6 +273,8 @@
 - [Fix Mechanoid Resource Drop](https://steamcommunity.com/sharedfiles/filedetails/?id=2548077448)
 - [Planetary Drill Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3335873435)
 - [Roomba](https://steamcommunity.com/sharedfiles/filedetails/?id=2372779350)
+- [Nerf the V.O.I.D.](https://steamcommunity.com/sharedfiles/filedetails/?id=3022718748)
+- [Alternate Vents and Coolers](https://steamcommunity.com/sharedfiles/filedetails/?id=2881816055)
 
 ## 1.5
 
