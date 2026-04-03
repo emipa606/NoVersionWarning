@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -190,7 +188,6 @@
 - [Ghouls Gotta Eat](https://steamcommunity.com/sharedfiles/filedetails/?id=3344715087)
 - [Eat At Campfire](https://steamcommunity.com/sharedfiles/filedetails/?id=3266359567)
 - [Mechs Nuzzle](https://steamcommunity.com/sharedfiles/filedetails/?id=3472342264)
-- [Restock Notification[1.5]](https://steamcommunity.com/sharedfiles/filedetails/?id=3241844246)
 - [SuperCoolMod2](https://steamcommunity.com/sharedfiles/filedetails/?id=3040728277)
 - [InfestationBait](https://steamcommunity.com/sharedfiles/filedetails/?id=1541249195)
 - [Random Xenotype Maker](https://steamcommunity.com/sharedfiles/filedetails/?id=3269622491)
@@ -275,9 +272,7 @@
 - [Roomba](https://steamcommunity.com/sharedfiles/filedetails/?id=2372779350)
 - [Nerf the V.O.I.D.](https://steamcommunity.com/sharedfiles/filedetails/?id=3022718748)
 - [Alternate Vents and Coolers](https://steamcommunity.com/sharedfiles/filedetails/?id=2881816055)
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.97 - [b]Changes[/b]
+Removed 1 mods:
+Restock Notification (Continued)
+
+
 1.6.96 - [b]Changes[/b]
 Added 2 mods:
 Nerf the V.O.I.D.
