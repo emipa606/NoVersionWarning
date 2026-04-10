@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -272,7 +274,13 @@
 - [Roomba](https://steamcommunity.com/sharedfiles/filedetails/?id=2372779350)
 - [Nerf the V.O.I.D.](https://steamcommunity.com/sharedfiles/filedetails/?id=3022718748)
 - [Alternate Vents and Coolers](https://steamcommunity.com/sharedfiles/filedetails/?id=2881816055)
+- [Scanning Thoughts](https://steamcommunity.com/sharedfiles/filedetails/?id=2899212140)
+- [RimFTL (Music Pack)](https://steamcommunity.com/sharedfiles/filedetails/?id=1775697808)
+- [Kenshi Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2774852066)
+- [Kurin HAR Clothes Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3223256443)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

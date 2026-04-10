@@ -1,5 +1,13 @@
 # Changelog for NoVersionWarning
 
+1.6.98 - [b]Changes[/b]
+Added 4 mods:
+Scanning Thoughts
+RimFTL (Music Pack)
+Kenshi Music
+Kurin HAR Clothes Fix
+
+
 1.6.97 - [b]Changes[/b]
 Removed 1 mods:
 Restock Notification (Continued)
