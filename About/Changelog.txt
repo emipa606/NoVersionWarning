@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.99 - [b]Changes[/b]
+Added 3 mods:
+Helmet On Draft
+Psychically Deaf Mechanitor
+Geothermal Fracking
+
+
 1.6.98 - [b]Changes[/b]
 Added 4 mods:
 Scanning Thoughts

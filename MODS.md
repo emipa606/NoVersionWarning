@@ -278,6 +278,9 @@
 - [RimFTL (Music Pack)](https://steamcommunity.com/sharedfiles/filedetails/?id=1775697808)
 - [Kenshi Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2774852066)
 - [Kurin HAR Clothes Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3223256443)
+- [Helmet On Draft](https://steamcommunity.com/sharedfiles/filedetails/?id=2508744637)
+- [Psychically Deaf Mechanitor](https://steamcommunity.com/sharedfiles/filedetails/?id=2895697120)
+- [Geothermal Fracking](https://steamcommunity.com/sharedfiles/filedetails/?id=3440352667)
 
 ## 1.5
 
