@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.100 - [b]Changes[/b]
+Added 2 mods:
+Twisted Insurrection: Music Replacement
+Combat Extended Aimbot
+
+
 1.6.99 - [b]Changes[/b]
 Added 3 mods:
 Helmet On Draft
