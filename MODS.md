@@ -284,6 +284,7 @@
 - [Twisted Insurrection: Music Replacement](https://steamcommunity.com/sharedfiles/filedetails/?id=3336791361)
 - [Combat Extended Aimbot](https://steamcommunity.com/sharedfiles/filedetails/?id=2590848610)
 - [Vanilla Skills Expanded - Vanilla Passions](https://steamcommunity.com/sharedfiles/filedetails/?id=3027879529)
+- [Tweaked Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3275044462)
 
 ## 1.5
 
