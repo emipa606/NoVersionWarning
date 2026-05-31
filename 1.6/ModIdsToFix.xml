@@ -501,8 +501,6 @@
   <li>pphhyy.ToxWeapons</li>
   <!-- Automatic Bed Reassigment Forked -->
   <li>BurritoJambon.BedAssignForked</li>
-  <!-- Deep Drill Alert -->
-  <li>DoctorWorm.DeepDrillAlert</li>
   <!-- Ferret's Mechanitor Work Type -->
   <li>FerretWithACatHat.MechanitorWorkType</li>
   <!-- Hi-Tech Shelves -->
@@ -569,4 +567,8 @@
   <li>HymmnosWorkshop.VSEVanillaPassions</li>
   <!-- Tweaked Atomizer -->
   <li>killerbug.tweakedatomizer</li>
+  <!-- Double Dryads -->
+  <li>Slashandz.DoubleDryads</li>
+  <!-- [NL] Compatible Body 2 -->
+  <li>Nals.CompatibleBody2</li>
 </ModIdsToFix>

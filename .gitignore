@@ -235,3 +235,6 @@ $RECYCLE.BIN/
 # Rimworld specific
 _PublisherPlus.xml
 lastrun.log
+
+# Continue
+.continue

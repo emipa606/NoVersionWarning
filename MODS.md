@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -251,7 +249,6 @@
 - [[TMC] EFT Sharpsticks](https://steamcommunity.com/sharedfiles/filedetails/?id=2410194541)
 - [pphhyy's Tox Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2891573871)
 - [Automatic Bed Reassigment Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3277548223)
-- [Deep Drill Alert](https://steamcommunity.com/sharedfiles/filedetails/?id=3317330008)
 - [Ferret's Mechanitor Work Type](https://steamcommunity.com/sharedfiles/filedetails/?id=3193349927)
 - [Hi-Tech Shelves](https://steamcommunity.com/sharedfiles/filedetails/?id=3241241623)
 - [Child Ghouls](https://steamcommunity.com/sharedfiles/filedetails/?id=3237700833)
@@ -285,9 +282,9 @@
 - [Combat Extended Aimbot](https://steamcommunity.com/sharedfiles/filedetails/?id=2590848610)
 - [Vanilla Skills Expanded - Vanilla Passions](https://steamcommunity.com/sharedfiles/filedetails/?id=3027879529)
 - [Tweaked Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3275044462)
-
+- [Double Dryads](https://steamcommunity.com/sharedfiles/filedetails/?id=2657474755)
+- [[NL] Compatible Body 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1906148376)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
