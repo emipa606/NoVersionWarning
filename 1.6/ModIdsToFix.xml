@@ -571,4 +571,18 @@
   <li>Slashandz.DoubleDryads</li>
   <!-- [NL] Compatible Body 2 -->
   <li>Nals.CompatibleBody2</li>
+  <!-- SOS2 Pa的更多长度船体斜角——PA's More hull corners -->
+  <li>PA.MoreHullCorners</li>
+  <!-- ETRT: Medicine Production -->
+  <li>ETRT.MedicineProduction</li>
+  <!-- [1.5+] Moisture Pump: Get Rich! (DrAiN tHe SwAmP!) -->
+  <li>Magus.MoisturePump</li>
+  <!-- Medieval Genepacks -->
+  <li>DankPyon.MedievalGenepacks</li>
+  <!-- Cryptosleep Adaptation Gene -->
+  <li>Endermaster567.CryptosleepAdaptationGene</li>
+  <!-- Craftable -->
+  <li>Mawy.craftable</li>
+  <!-- Melee Animations - No bloat -->
+  <li>NotA.BigFanOf.Lassos</li>
 </ModIdsToFix>

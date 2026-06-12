@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -284,7 +286,16 @@
 - [Tweaked Atomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3275044462)
 - [Double Dryads](https://steamcommunity.com/sharedfiles/filedetails/?id=2657474755)
 - [[NL] Compatible Body 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1906148376)
+- [SOS2 Pa的更多长度船体斜角——PA's More hull corners](https://steamcommunity.com/sharedfiles/filedetails/?id=2673082648)
+- [ETRT: Medicine Production](https://steamcommunity.com/sharedfiles/filedetails/?id=1544557152)
+- [[1.5+] Moisture Pump: Get Rich! (DrAiN tHe SwAmP!)](https://steamcommunity.com/sharedfiles/filedetails/?id=2257008940)
+- [Medieval Genepacks](https://steamcommunity.com/sharedfiles/filedetails/?id=2914889498)
+- [Cryptosleep Adaptation Gene](https://steamcommunity.com/sharedfiles/filedetails/?id=2898683114)
+- [Craftable](https://steamcommunity.com/sharedfiles/filedetails/?id=2232096297)
+- [Melee Animations - No bloat](https://steamcommunity.com/sharedfiles/filedetails/?id=3299183721)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
