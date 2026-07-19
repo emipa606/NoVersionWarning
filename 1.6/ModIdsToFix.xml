@@ -585,4 +585,8 @@
   <li>Mawy.craftable</li>
   <!-- Melee Animations - No bloat -->
   <li>NotA.BigFanOf.Lassos</li>
+  <!-- Wanted: A facial anim. Extension -->
+  <li>stom13.wantedfacialanim.Fr</li>
+  <!-- Faces of the Rim - Facial Animation -->
+  <li>Capi.FacesOfTheRim</li>
 </ModIdsToFix>

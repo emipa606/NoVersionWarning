@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.106 - [b]Changes[/b]
+Added 2 mods:
+Wanted: A facial anim. Extension
+Faces of the Rim - Facial Animation
+
+
 1.6.105 - Cleaned up some old mod-requests
 
 

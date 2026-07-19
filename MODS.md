@@ -293,6 +293,8 @@
 - [Cryptosleep Adaptation Gene](https://steamcommunity.com/sharedfiles/filedetails/?id=2898683114)
 - [Craftable](https://steamcommunity.com/sharedfiles/filedetails/?id=2232096297)
 - [Melee Animations - No bloat](https://steamcommunity.com/sharedfiles/filedetails/?id=3299183721)
+- [Wanted: A facial anim. Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=3115958401)
+- [Faces of the Rim - Facial Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2555107849)
 
 ## 1.5
 
