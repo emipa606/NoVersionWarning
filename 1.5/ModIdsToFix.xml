@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
   <!-- Audrey's Styles: Industrial -->
   <li>AudreysStyles.Industrial</li>
@@ -112,8 +112,6 @@
   <li>Aura.FarmlandRegrowthPatch</li>
   <!-- Pawnmorpher Transhumanist -->
   <li>takel.pawnmorphertranshumanist</li>
-  <!-- Craftable Blindfold -->
-  <li>japa4551.craftableblindfold</li>
   <!-- Midworld Expanded: Vapes -->
   <li>miathea.midworldvapes</li>
   <!-- Bulk Carrier -->

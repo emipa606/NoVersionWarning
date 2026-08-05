@@ -1,7 +1,5 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -30,7 +28,6 @@
 - [[NL] Chibi Face Male only](https://steamcommunity.com/sharedfiles/filedetails/?id=1562135044)
 - [[NL] Chibi Face Female only](https://steamcommunity.com/sharedfiles/filedetails/?id=1540475285)
 - [[NL] Chibi Body](https://steamcommunity.com/sharedfiles/filedetails/?id=1556214130)
-- [Phantom Materials](https://steamcommunity.com/sharedfiles/filedetails/?id=3075224491)
 - [Mechanitors can wear hats too!](https://steamcommunity.com/sharedfiles/filedetails/?id=2880455387)
 - [Gunlink with helmet](https://steamcommunity.com/sharedfiles/filedetails/?id=2500705510)
 - [No Increased Expectations for Ideology Roles](https://steamcommunity.com/sharedfiles/filedetails/?id=2648674904)
@@ -89,7 +86,6 @@
 - [Unified Xml Export](https://steamcommunity.com/sharedfiles/filedetails/?id=2363322287)
 - [Xeva's Rimhair](https://steamcommunity.com/sharedfiles/filedetails/?id=705924057)
 - [Roppoi Hair - Upscaled](https://steamcommunity.com/sharedfiles/filedetails/?id=2807924011)
-- [Animal Medical Bed 1.5](https://steamcommunity.com/sharedfiles/filedetails/?id=3221610549)
 - [[CM] Biotech DLC Texture Upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=2884986535)
 - [Better Ground Textures?](https://steamcommunity.com/sharedfiles/filedetails/?id=2009702813)
 - [Legal Ageless](https://steamcommunity.com/sharedfiles/filedetails/?id=2925161426)
@@ -295,9 +291,13 @@
 - [Melee Animations - No bloat](https://steamcommunity.com/sharedfiles/filedetails/?id=3299183721)
 - [Wanted: A facial anim. Extension](https://steamcommunity.com/sharedfiles/filedetails/?id=3115958401)
 - [Faces of the Rim - Facial Animation](https://steamcommunity.com/sharedfiles/filedetails/?id=2555107849)
-
+- [IMOZOU Wounds ](https://steamcommunity.com/sharedfiles/filedetails/?id=2649546456)
+- [Humanoid Dryad](https://steamcommunity.com/sharedfiles/filedetails/?id=3031223525)
+- [Maelstrom's Munchies](https://steamcommunity.com/sharedfiles/filedetails/?id=2880079488)
+- [Maelstrom's Plants](https://steamcommunity.com/sharedfiles/filedetails/?id=2895559489)
+- [Improved Murderous Rage](https://steamcommunity.com/sharedfiles/filedetails/?id=3191857817)
+- [Brrrt-Retexturrrre](https://steamcommunity.com/sharedfiles/filedetails/?id=2798333568)
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

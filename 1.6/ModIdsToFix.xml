@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
   <!-- Another Milk Retexture -->
   <li>Mallow.MilkRetexture</li>
@@ -58,8 +58,6 @@
   <li>Nals.ChibiFaceFemale</li>
   <!-- [NL] Chibi Body -->
   <li>Nals.ChibiBody</li>
-  <!-- Phantom Materials -->
-  <li>BBBBilly.PhantomMaterials</li>
   <!-- Mechanitors can wear hats too! -->
   <li>Oken.UseEyesLayerMechanitor</li>
   <!-- Gunlink with helmet -->
@@ -177,7 +175,6 @@
   <!-- Roppoi Hair - Upscaled -->
   <li>Vinzero.RophairUP</li>
   <!-- Animal Medical Bed 1.5 -->
-  <li>GodlyAnnihilator.AnimalMedicalBed</li>
   <!-- [CM] Biotech DLC Texture Upscale -->
   <li>CM.Ideology.Upscaled2</li>
   <!-- Better Ground Textures? -->
@@ -202,7 +199,6 @@
   <li>Dra.WoodIsNaturalForTrees</li>
   <!-- Animalstrawbed -->
   <li>tosenbo.Animalstrawbed</li>
-  <!-- Animal Medical Bed -->
   <li>neceros.animalmedicalbed</li>
   <!-- Opulent Gold -->
   <li>VisSov.floortile</li>
@@ -589,4 +585,16 @@
   <li>stom13.wantedfacialanim.Fr</li>
   <!-- Faces of the Rim - Facial Animation -->
   <li>Capi.FacesOfTheRim</li>
+  <!-- IMOZOU Wounds  -->
+  <li>SatoImozou.IMOZOUwounds</li>
+  <!-- Humanoid Dryad -->
+  <li>gomi.humanoiddryad</li>
+  <!-- Maelstrom's Munchies -->
+  <li>Soul.MaelstromsMunchies</li>
+  <!-- Maelstrom's Plants -->
+  <li>Soul.MaelstromsPlants</li>
+  <!-- Improved Murderous Rage -->
+  <li>jck.ImprovedMR</li>
+  <!-- Brrrt-Retexturrrre -->
+  <li>AOBA.Brrt.Retexture</li>
 </ModIdsToFix>
