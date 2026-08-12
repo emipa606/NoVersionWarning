@@ -570,4 +570,6 @@
   <li>DankPyon.Medieval.Overhaul.Banners</li>
   <!-- [TGH] Banners of Cyrodiil -->
   <li>TGH.BannersCyrodiil</li>
+  <!-- Alien Tailor -->
+  <li>tc3wikieditor.compat.AlienTailor</li>
 </ModIdsToFix>

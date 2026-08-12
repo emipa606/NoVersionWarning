@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -297,7 +299,12 @@
 - [Maelstrom's Plants](https://steamcommunity.com/sharedfiles/filedetails/?id=2895559489)
 - [Improved Murderous Rage](https://steamcommunity.com/sharedfiles/filedetails/?id=3191857817)
 - [Brrrt-Retexturrrre](https://steamcommunity.com/sharedfiles/filedetails/?id=2798333568)
+- [Better Insect Jelly](https://steamcommunity.com/sharedfiles/filedetails/?id=3066568466)
+- [Animal Variety Coats Fox Patch [AB]](https://steamcommunity.com/sharedfiles/filedetails/?id=2944551645)
+- [Seed Crate (with Adaptive Storage Framework)](https://steamcommunity.com/sharedfiles/filedetails/?id=3223189125)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
@@ -583,6 +590,7 @@
 - [Start With Any Fluid Meme](https://steamcommunity.com/sharedfiles/filedetails/?id=2610344106)
 - [Medieval Overhaul - Banners](https://steamcommunity.com/sharedfiles/filedetails/?id=2796326468)
 - [[TGH] Banners of Cyrodiil](https://steamcommunity.com/sharedfiles/filedetails/?id=3162212025)
+- [Alien Tailor](https://steamcommunity.com/sharedfiles/filedetails/?id=2866467227)
 ## 1.4
 - [Style Revised - Animalist](https://steamcommunity.com/sharedfiles/filedetails/?id=2588631651)
 - [Better T-Shirt Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2199145969)
@@ -733,6 +741,7 @@
 - [[ZEN] Vanilla Security Retextured](https://steamcommunity.com/sharedfiles/filedetails/?id=2153868714)
 - [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
 - [Age of Mythology Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2569801707)
+- [Alien Tailor](https://steamcommunity.com/sharedfiles/filedetails/?id=2866467227)
 ## 1.3
 - [UN-Colony [1.2]](https://steamcommunity.com/sharedfiles/filedetails/?id=2443851003)
 - [Outdoor Lighting](https://steamcommunity.com/sharedfiles/filedetails/?id=1545708330)

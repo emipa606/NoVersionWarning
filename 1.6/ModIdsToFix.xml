@@ -597,4 +597,10 @@
   <li>jck.ImprovedMR</li>
   <!-- Brrrt-Retexturrrre -->
   <li>AOBA.Brrt.Retexture</li>
+  <!-- Better Insect Jelly -->
+  <li>H2Forge.betterInsectJelly</li>
+  <!-- Animal Variety Coats Fox Patch [AB] -->
+  <li>alleyballey.varietycoats.foxpatch</li>
+  <!-- Seed Crate (with Adaptive Storage Framework) -->
+  <li>klvlt.asf.seedcrate</li>
 </ModIdsToFix>

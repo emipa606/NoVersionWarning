@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
   <!-- Style Revised - Animalist -->
   <li>StyleRevised.Animalist</li>
@@ -299,4 +299,6 @@
   <li>SirLalaPyon.GoldCoins</li>
   <!-- Age of Mythology Soundtrack -->
   <li>GoatBoy.AoMOST2</li>
+  <!-- Alien Tailor -->
+  <li>tc3wikieditor.compat.AlienTailor</li>
 </ModIdsToFix>

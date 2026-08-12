@@ -1,5 +1,14 @@
 # Changelog for NoVersionWarning
 
+1.6.108 - [b]Changes[/b]
+Added 5 mods:
+Alien Tailor for 1.4
+Alien Tailor for 1.5
+Better Insect Jelly
+Animal Variety Coats Fox Patch [AB]
+Seed Crate (with Adaptive Storage Framework)
+
+
 1.6.107 - [b]Changes[/b]
 Removed 3 mods:
 Animal Medical Bed
