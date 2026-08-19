@@ -1,14 +1,11 @@
 # Currently covered mods
-
 ## 1.6
-
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
 - [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
 - [Show Fertility on Health Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=2879306896)
 - [Genetic Natural Focus](https://steamcommunity.com/sharedfiles/filedetails/?id=2885843634)
-- [Weapon Condition Matters, and so does Quality](https://steamcommunity.com/sharedfiles/filedetails/?id=1734018911)
 - [Simple FX: Smoke Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=2819074837)
 - [DocPawnOverhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=1975381493)
 - [Craftable Deathrest Capacity Serum](https://steamcommunity.com/sharedfiles/filedetails/?id=2887793593)
@@ -302,9 +299,7 @@
 - [Better Insect Jelly](https://steamcommunity.com/sharedfiles/filedetails/?id=3066568466)
 - [Animal Variety Coats Fox Patch [AB]](https://steamcommunity.com/sharedfiles/filedetails/?id=2944551645)
 - [Seed Crate (with Adaptive Storage Framework)](https://steamcommunity.com/sharedfiles/filedetails/?id=3223189125)
-
 ## 1.5
-
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

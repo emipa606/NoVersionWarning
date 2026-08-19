@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.109 - [b]Changes[/b]
+Removed 1 mods:
+Weapon Condition Matters, and so does Quality
+
+
 1.6.108 - [b]Changes[/b]
 Added 5 mods:
 Alien Tailor for 1.4
