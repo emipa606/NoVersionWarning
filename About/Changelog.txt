@@ -1,5 +1,11 @@
 # Changelog for NoVersionWarning
 
+1.6.110 - [b]Changes[/b]
+Added 2 mods:
+Women only
+Animal Gear Third-Party Patches
+
+
 1.6.109 - [b]Changes[/b]
 Removed 1 mods:
 Weapon Condition Matters, and so does Quality

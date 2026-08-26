@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -299,7 +301,11 @@
 - [Better Insect Jelly](https://steamcommunity.com/sharedfiles/filedetails/?id=3066568466)
 - [Animal Variety Coats Fox Patch [AB]](https://steamcommunity.com/sharedfiles/filedetails/?id=2944551645)
 - [Seed Crate (with Adaptive Storage Framework)](https://steamcommunity.com/sharedfiles/filedetails/?id=3223189125)
+- [Women only](https://steamcommunity.com/sharedfiles/filedetails/?id=3227360721)
+- [Animal Gear Third-Party Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=2956961272)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)

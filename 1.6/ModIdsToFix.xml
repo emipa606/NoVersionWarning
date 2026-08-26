@@ -601,4 +601,8 @@
   <li>alleyballey.varietycoats.foxpatch</li>
   <!-- Seed Crate (with Adaptive Storage Framework) -->
   <li>klvlt.asf.seedcrate</li>
+  <!-- Women only -->
+  <li>mo.GirlsGirlsGirlsGirls</li>
+  <!-- Animal Gear Third-Party Patches -->
+  <li>Samael.AnimalGearPatches</li>
 </ModIdsToFix>
