@@ -264,8 +264,6 @@
   <li>drummeur.BetterLinkableColors</li>
   <!-- Anomaly Backrooms -->
   <li>Fallen.AnomalyBackrooms</li>
-  <!-- Annoying Kids Floordrawings -->
-  <li>Hobbes.AnnoyingKidsFloordrawings</li>
   <!-- Arsenal of Ideology -->
   <li>4YDRA.ArsenalofIdeology</li>
   <!-- Faux's Icon Anthology Forked Collection -->
@@ -605,4 +603,10 @@
   <li>mo.GirlsGirlsGirlsGirls</li>
   <!-- Animal Gear Third-Party Patches -->
   <li>Samael.AnimalGearPatches</li>
+  <!-- Wall Light -->
+  <li>Murmur.WallLight</li>
+  <!-- Growable Neutroamine -->
+  <li>neceros.growableneutroamine</li>
+  <!-- AnimalFoodRestrictionInTab -->
+  <li>TGO.AnimalFoodRestrictionInTab</li>
 </ModIdsToFix>

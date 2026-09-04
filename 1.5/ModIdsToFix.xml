@@ -572,4 +572,6 @@
   <li>TGH.BannersCyrodiil</li>
   <!-- Alien Tailor -->
   <li>tc3wikieditor.compat.AlienTailor</li>
+  <!-- Growable Neutroamine -->
+  <li>neceros.growableneutroamine</li>
 </ModIdsToFix>
