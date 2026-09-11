@@ -609,4 +609,40 @@
   <li>neceros.growableneutroamine</li>
   <!-- AnimalFoodRestrictionInTab -->
   <li>TGO.AnimalFoodRestrictionInTab</li>
+  <!-- zenGarden upscale -->
+  <li>mantrasong.zengarden.1.upscale</li>
+  <!-- 可食用垃圾 Edible Wastepack -->
+  <li>Jucorx.EdibleWastepack</li>
+  <!-- 机械师大礼包_演示 -->
+  <li>MF.MechanitorGifts.V01</li>
+  <!-- Do Charity -->
+  <li>mn.doCharity</li>
+  <!-- Glass + Lights Extended -->
+  <li>SquirtingElephant.GlassLightsExtended</li>
+  <!-- Rotate Art -->
+  <li>zylle.RotateArt</li>
+  <!-- Simple Kimono -->
+  <li>stonetear.simplekimonos</li>
+  <!-- Vanilla Furniture Expanded - Art - Colorful Holograms -->
+  <li>MrKociak.RainbowHoloNew</li>
+  <!-- [ATW] Cow Variety -->
+  <li>mgatwood.cowvariety</li>
+  <!-- Zeus and Poseidon Soundtrack -->
+  <li>tristwyn.ZeusAndPoseidonSoundtrack</li>
+  <!-- Rimscape Tribal Music -->
+  <li>DrunkmasterKrash.RimscapeTribal</li>
+  <!-- AOM and AOE II Soundtracks -->
+  <li>AOM.AOE2.OST</li>
+  <!-- Rome II Total War - Soundtrack -->
+  <li>Augustus.ROME2TWST</li>
+  <!-- Age of Empires II Music -->
+  <li>Ank.AoE2Music</li>
+  <!-- Anime Music Mod -->
+  <li>anime.musicmod</li>
+  <!-- RimPunk 2077 (Music Pack) -->
+  <li>Gazzoose.RimPunk2077</li>
+  <!-- Samurai Music -->
+  <li>SamuraiMusic.Mod</li>
+  <!-- Universe Music -->
+  <li>AkAio.UniverseMusic</li>
 </ModIdsToFix>

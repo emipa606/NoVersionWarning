@@ -1,5 +1,27 @@
 # Changelog for NoVersionWarning
 
+1.6.112 - [b]Changes[/b]
+Added 18 mods:
+zenGarden upscale
+可食用垃圾 Edible Wastepack
+机械师大礼包_演示
+Do Charity
+Glass + Lights Extended
+Rotate Art
+Simple Kimono
+Vanilla Furniture Expanded - Art - Colorful Holograms
+[ATW] Cow Variety
+Zeus and Poseidon Soundtrack
+Rimscape Tribal Music
+AOM and AOE II Soundtracks
+Rome II Total War - Soundtrack
+Age of Empires II Music
+Anime Music Mod
+RimPunk 2077 (Music Pack)
+Samurai Music
+Universe Music
+
+
 1.6.111 - [b]Changes[/b]
 Removed 1 mods:
 Annoying Kids Floordrawings

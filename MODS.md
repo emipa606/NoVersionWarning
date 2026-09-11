@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Another Milk Retexture](https://steamcommunity.com/sharedfiles/filedetails/?id=3024040282)
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
@@ -303,7 +305,27 @@
 - [Wall Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1423699208)
 - [Growable Neutroamine](https://steamcommunity.com/sharedfiles/filedetails/?id=1956517495)
 - [AnimalFoodRestrictionInTab](https://steamcommunity.com/sharedfiles/filedetails/?id=2369311144)
+- [zenGarden upscale](https://steamcommunity.com/sharedfiles/filedetails/?id=3420910098)
+- [可食用垃圾 Edible Wastepack](https://steamcommunity.com/sharedfiles/filedetails/?id=2912437951)
+- [机械师大礼包_演示](https://steamcommunity.com/sharedfiles/filedetails/?id=3059688353)
+- [Do Charity](https://steamcommunity.com/sharedfiles/filedetails/?id=3239001793)
+- [Glass + Lights Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=1755160150)
+- [Rotate Art](https://steamcommunity.com/sharedfiles/filedetails/?id=2949470188)
+- [Simple Kimono](https://steamcommunity.com/sharedfiles/filedetails/?id=3035765051)
+- [Vanilla Furniture Expanded - Art - Colorful Holograms](https://steamcommunity.com/sharedfiles/filedetails/?id=2514042594)
+- [[ATW] Cow Variety](https://steamcommunity.com/sharedfiles/filedetails/?id=2905859638)
+- [Zeus and Poseidon Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2628745585)
+- [Rimscape Tribal Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2692098020)
+- [AOM and AOE II Soundtracks](https://steamcommunity.com/sharedfiles/filedetails/?id=2570080730)
+- [Rome II Total War - Soundtrack](https://steamcommunity.com/sharedfiles/filedetails/?id=2898765005)
+- [Age of Empires II Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2589170639)
+- [Anime Music Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3023156713)
+- [RimPunk 2077 (Music Pack)](https://steamcommunity.com/sharedfiles/filedetails/?id=2869898122)
+- [Samurai Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2816397229)
+- [Universe Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3090539687)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
