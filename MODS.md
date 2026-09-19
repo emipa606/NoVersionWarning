@@ -323,6 +323,7 @@
 - [RimPunk 2077 (Music Pack)](https://steamcommunity.com/sharedfiles/filedetails/?id=2869898122)
 - [Samurai Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2816397229)
 - [Universe Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3090539687)
+- [Psychic Gauranlen Connection](https://steamcommunity.com/sharedfiles/filedetails/?id=2562637418)
 
 ## 1.5
 

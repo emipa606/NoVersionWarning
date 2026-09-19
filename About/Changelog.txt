@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.113 - [b]Changes[/b]
+Added 1 mods:
+Psychic Gauranlen Connection
+
+
 1.6.112 - [b]Changes[/b]
 Added 18 mods:
 zenGarden upscale
