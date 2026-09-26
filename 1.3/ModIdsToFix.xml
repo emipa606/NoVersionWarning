@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
   <!-- UN-Colony [1.2] -->
   <li>Sadjuuk.UNColony</li>
@@ -41,8 +41,6 @@
   <li>be37.VPE.ATABP</li>
   <!-- Fire Treated Wood -->
   <li>neceros.firetreatedwood</li>
-  <!-- Wean's World - Generate Children -->
-  <li>Persephone.WeansWorldAlt</li>
   <!-- Realistic Starvation -->
   <li>Duncan.RealisticStarvation.1.1</li>
   <!-- Giant Trees -->
@@ -117,8 +115,6 @@
   <li>hatti.longrangepodlauncher</li>
   <!-- Better T-Shirt Textures -->
   <li>Crudbone.BetterTShirts</li>
-  <!-- Darkest Rim: Core -->
-  <li>deon.darkestrim</li>
   <!-- Resource Replicator [1.0->1.2] -->
   <li>RusticFox.ChickenPlucker.RR</li>
   <!-- Where Are Your Shoes? (Vanilla Apparel Expanded) -->
@@ -126,8 +122,6 @@
   <!-- [1.2,1.1,1.0] Girl's Frontline: Sangvis Ferri Weapons -->
   <!-- no disturbed sleep -->
   <li>crlsniper.nodisturbedsleep</li>
-  <!-- Bless the Devilstrand -->
-  <li>daylight.BlessDevilSt</li>
   <!-- Without Steam -->
   <li>scuba156.withoutsteam</li>
   <!-- BetterNutrientPasteDispenserControls -->

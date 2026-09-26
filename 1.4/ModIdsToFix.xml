@@ -41,8 +41,6 @@
   <!-- Life Support Continued [1.1+] -->
   <li>Troopersmith1.LifeSupport</li>
   <!-- Show Build Cost -->
-  <!-- Ascetics Don't Need Tables -->
-  <li>TrahsPanda.ADNT</li>
   <!-- Ceiling Lights -->
   <li>neceros.ceilinglights</li>
   <!-- The Price is What? -->
@@ -165,22 +163,14 @@
   <li>likeafox.rimworld.safepause</li>
   <!-- Vanilla RT Solar Flare Shield Retexture -->
   <li>Phoenix.VanillaSolarSheild</li>
-  <!-- [KYD] More Pawns Get Prosthetics! -->
-  <li>KYD.Prosthetics</li>
-  <!-- Vanilla Faction Expanded - better textures and pawnkinds -->
-  <li>qux.factionexpanded.bettertexturesandpawnkinds</li>
   <!-- Thog's Guns - Lead and Powder Pack REPRIMED -->
   <li>Caninmyham.ThogsGunsLeadAndPowderPackReprimed</li>
   <!-- BlindsightWorks -->
   <li>Jexa.BlindsightWorks</li>
-  <!-- Random Icon Pack -->
-  <li>Kegarr.RIP</li>
   <!-- Ancient Eastern Armory -->
   <li>Eastern.Armory.Geminingen</li>
   <!-- [WD] Partially-Passable Wind Turbines -->
   <li>Wemd.PartiallyPassableWindTurbines</li>
-  <!-- Steampunk: Just Brass -->
-  <li>steampunk.just.brass</li>
   <!-- No Restrictions on Faction Ideologies -->
   <li>Slashandz.NoRestrictionsonFactionIdeologies</li>
   <!-- Pawns Drool! -->
@@ -213,14 +203,10 @@
   <li>ICC.TOV.HS</li>
   <!-- Wolfs GauMedicine -->
   <li>Wolf478.GauMedicine</li>
-  <!-- Psy-Eltex -->
-  <li>xelnigma.psyeltex</li>
   <!-- Mending Medieval -->
   <li>bishop.mendingmedieval</li>
   <!-- [SC]Thrumbo Horn Weapons -->
   <li>Si.ThrumboHornWeapons</li>
-  <!-- Extract Tree Order -->
-  <li>Certainty.DesignateExtract</li>
   <!-- Baby muffalo is Muffalump -->
   <li>Baby.Muffalump</li>
   <!-- Waste In Space -->
@@ -237,10 +223,6 @@
   <li>PartyCowboy.ThinkingSpot</li>
   <!-- Fire Treated Wood -->
   <li>neceros.firetreatedwood</li>
-  <!-- HyArchitect -->
-  <li>HyArchitect.ID</li>
-  <!-- Frostshards -->
-  <li>Myfharad.Frostshards</li>
   <!-- SRTS Expanded: RotorCraft -->
   <li>Shazbot.SRTS.RC</li>
   <!-- Terran Ships for SRTS -->
@@ -303,4 +285,6 @@
   <li>tc3wikieditor.compat.AlienTailor</li>
   <!-- Growable Neutroamine -->
   <li>neceros.growableneutroamine</li>
+  <!-- Midworld Expanded: Flak Armor -->
+  <li>miathea.flakarmorexpansion</li>
 </ModIdsToFix>

@@ -1,5 +1,43 @@
 # Changelog for NoVersionWarning
 
+1.6.114 - [b]Changes[/b]
+Removed 34 mods:
+[KYD] More Pawns Get Prosthetics! for version 1.4
+Yarr... Pirate Ideoligion Icons for version 1.5
+Another Milk Retexture
+Another Milk Retexture for version 1.5
+Steampunk: Just Brass for version 1.4
+Ascetics Don't Need Tables for version 1.4
+Better Surgery for version 1.5
+Psionics Through Sacrifice Vanilla for version 1.5
+POW Camp Warden Militor for version 1.5
+Psy-Eltex
+Psy-Eltex for version 1.5
+Psy-Eltex for version 1.4
+Vanilla Faction Expanded better textures and pawnkinds for version 1.4
+Extract Tree Order for version 1.4
+Frostshards for version 1.4
+木鱼 for version 1.5
+Wean's World Generate Children for version 1.3
+Faux's Xenotype Icons for version 1.5
+More Darklight Colours for version 1.5
+RimOffice for version 1.5
+Darkest Rim: Core for version 1.3
+Hemogen Cuisine for version 1.5
+Craftable Reinforced Barrels
+Craftable Reinforced Barrels for version 1.5
+Random Icon Pack for version 1.4
+HyArchitect for version 1.4
+Fuck Psytrainers
+Command range extender mechanoid Observer for version 1.5
+FCP Great Khan Equipment for version 1.5
+Bless the Devilstrand for version 1.3
+FCP Tents for version 1.5
+Halo Soundtrack [1.1]
+Skulls and Ivory for version 1.5
+Ancient Litter Begone for version 1.5
+
+
 1.6.113 - [b]Changes[/b]
 Added 1 mods:
 Psychic Gauranlen Connection

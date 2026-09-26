@@ -133,8 +133,6 @@
   <li>Botaxalim.XcomBadge</li>
   <!-- World Map Enhanced -->
   <li>laast.WorldMapEnhanced</li>
-  <!-- Faux's Xenotype Icons -->
-  <li>Faux.IconXenotypes</li>
   <!-- Retextured Apparel -->
   <li>tenthwit.apparel</li>
   <!-- Anti-Septic Smell Patch -->
@@ -144,8 +142,6 @@
   <li>zoura3025.woolyyaks</li>
   <!-- Tusks and Claws - A Crashlands Inspired Mod -->
   <li>ClossomMistake.Blegh</li>
-  <!-- Better Surgery -->
-  <li>Gege.BetterSurgery</li>
   <!-- Just Leave Already -->
   <li>Timuttie.JustLeaveAlready</li>
   <!-- No Pseudo Translate无开发者乱码 -->
@@ -168,8 +164,6 @@
   <li>joethetech.marinearmormaterials</li>
   <!-- Omnitron -->
   <li>alaestor.omnitron</li>
-  <!-- RimOffice -->
-  <li>Rim.Office</li>
   <!-- [RWY]SRTS Expanded: The Crimson Fleet -->
   <li>Ravvy.SRTS.TCF</li>
   <!-- Real Flamethrowers -->
@@ -240,10 +234,6 @@
   <li>Old.War.Veil.Augusto</li>
   <!-- Psychic Psychite -->
   <li>Neph.PsychicPsychite</li>
-  <!-- Psionics Through Sacrifice Vanilla -->
-  <li>RoyalFox.PsionicsSacrificeVanilla</li>
-  <!-- Psy-Eltex -->
-  <li>xelnigma.psyeltex</li>
   <!-- Remove Real Religions -->
   <li>brat.removerealreligions</li>
   <!-- Soberana -->
@@ -254,8 +244,6 @@
   <li>viyers.garfield</li>
   <!-- Smokeleaf Genetics: Korundgen Kush -->
   <li>StoneAnvil.Smokeleaf.Genetics.Korundgen.Kush</li>
-  <!-- 木鱼 -->
-  <li>kouyifozu.xiao</li>
   <!-- Hybrid Rice Plant -->
   <li>bbbbilly.hybridriceplant</li>
   <!-- アシュアGirls animal MOD 灰烬战线 -->
@@ -264,12 +252,8 @@
   <li>ChiExpanded.English</li>
   <!-- [SYR] Marbled Marble -->
   <li>syrchalis.marbledmarble</li>
-  <!-- Yarr... Pirate Ideoligion Icons -->
-  <li>Faux.PirateIcons</li>
   <!-- Eyes I never asked for -->
   <li>DeusExEyes</li>
-  <!-- FCP - Great Khan Equipment -->
-  <li>Rick.FCPGK</li>
   <!-- Lenient Kibble Recipe -->
   <li>Volt.Kibble</li>
   <!-- Mr Samuel Streamer's Custom Faction -->
@@ -392,12 +376,6 @@
   <li>032.1x1bed</li>
   <!-- Adjacent Light -->
   <li>jp.AdjacentLight</li>
-  <!-- Command range extender mechanoid - Observer -->
-  <li>Gege.Obserever</li>
-  <!-- POW Camp Warden Militor -->
-  <li>Panacea.POW.Militor</li>
-  <!-- Craftable Reinforced Barrels -->
-  <li>RoyalF.CraftableRBarrels</li>
   <!-- Stone To Steel Hardcore 1.4  -->
   <li>captaingeorge.StoneToSteelHardcore</li>
   <!-- Show Fertility on Health Tab -->
@@ -428,8 +406,6 @@
   <li>miathea.flakarmorexpansion</li>
   <!-- Aliens: Fireteam Elite Armory -->
   <li>JangoDsoul.AlinesFT.Armor</li>
-  <!-- Hemogen Cuisine -->
-  <li>Mallow.HemogenCuisine</li>
   <!-- BMX and Biker Outfits -->
   <li>LilScoot.BMXandBikerOutfits</li>
   <!-- [M.W]Multi-ToolBox -->
@@ -438,8 +414,6 @@
   <li>HH.Smokeleaf.Lite</li>
   <!-- Fallout Shelter Vanilla Retexture -->
   <li>DerekBickley.FalloutShelterVanillaWeaponRetexture</li>
-  <!-- FCP Tents -->
-  <li>Rick.FCPTents</li>
   <!-- No Prayer -->
   <li>OkraDonkey.NoPrayer</li>
   <!-- PriorityClean -->
@@ -452,8 +426,6 @@
   <li>AIRetexture.Mods</li>
   <!-- Add Extract Skull Designator -->
   <li>okthisismyidnow.AddExtractSkullDesignator.Specific</li>
-  <!-- Skulls and Ivory -->
-  <li>SheWantsRevenge.SkullsandIvory</li>
   <!-- Simple Learning -->
   <li>Fox.SimpleLearning</li>
   <!-- Simple Pallet -->
@@ -516,8 +488,6 @@
   <li>sky.ui.animaltabicons</li>
   <!-- Plantable Wild Berries -->
   <li>ChrisBradel.PlantableWildBerries</li>
-  <!-- More Darklight Colours -->
-  <li>Endoxis.MoreDarklightColours</li>
   <!-- Jelano Retexture - Rim War -->
   <li>JelanoRetexture.RimWar</li>
   <!-- Jelano Retexture - Vanilla Outposts -->
@@ -532,14 +502,10 @@
   <li>com.yayo.ultraVanillaTheme</li>
   <!-- Bonible's VEW:Laser Retexture -->
   <li>Bonible.vanillalaserretexture</li>
-  <!-- Ancient Litter Begone -->
-  <li>Clib.AncientLitterBegone</li>
   <!-- Roppoi Hair - Upscaled -->
   <li>Vinzero.RophairUP</li>
   <!-- Heat Pumps -->
   <li>Pineapple.HeatPump</li>
-  <!-- Another Milk Retexture -->
-  <li>Mallow.MilkRetexture</li>
   <!-- Baby muffalo is Muffalump -->
   <li>Baby.Muffalump</li>
   <!-- CorpseTab -->

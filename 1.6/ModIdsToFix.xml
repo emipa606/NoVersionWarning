@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModIdsToFix>
-  <!-- Another Milk Retexture -->
-  <li>Mallow.MilkRetexture</li>
   <!-- Baby muffalo is Muffalump -->
   <li>Baby.Muffalump</li>
   <!-- [GMT] Trading Spot -->
@@ -152,8 +150,6 @@
   <li>mgatwood.catvariety</li>
   <!-- Bill Doors' Simple Signs -->
   <li>3HSTltd.signs</li>
-  <!-- Halo - Soundtrack [1.1] -->
-  <li>ONegative.HaloSoundtrack</li>
   <!-- Roo's Tattoos - Starter Pack  -->
   <li>Rooboid.RooTattoo</li>
   <!-- Bury On The Spot -->
@@ -302,8 +298,6 @@
   <li>hydrologist.AdvancedBandNodes</li>
   <!-- Colorful Coats - Vanilla Animals Expanded! -->
   <li>purpleyam.colorfulcoats.vaewildlife</li>
-  <!-- Fuck Psytrainers -->
-  <li>ferny.fuckpsytrainers</li>
   <!-- SOS2 EVA auto patcher -->
   <li>Nox.SOS2EVAAutoPatcherHacked</li>
   <!-- Forien's Naturalize Genome -->
@@ -318,12 +312,8 @@
   <li>sash.NoRefuelling</li>
   <!-- Milkable Muffalo -->
   <li>ALIEN.MilkableMuffalo</li>
-  <!-- Craftable Reinforced Barrels -->
-  <li>RoyalF.CraftableRBarrels</li>
   <!-- Onesies -->
   <li>DanDMan.Onesies</li>
-  <!-- Psy-Eltex -->
-  <li>xelnigma.psyeltex</li>
   <!-- Quality Cooldown -->
   <li>dninemfive.qualitycooldown</li>
   <!-- Bill Doors' Wolf Girl Gene -->
@@ -647,4 +637,6 @@
   <li>AkAio.UniverseMusic</li>
   <!-- Psychic Gauranlen Connection -->
   <li>Simmin.PsychicGauranlenConnection</li>
+  <!-- Midworld Expanded: Flak Armor -->
+  <li>miathea.flakarmorexpansion</li>
 </ModIdsToFix>
