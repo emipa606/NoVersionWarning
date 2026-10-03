@@ -294,7 +294,6 @@
 - [Animal Variety Coats Fox Patch [AB]](https://steamcommunity.com/sharedfiles/filedetails/?id=2944551645)
 - [Seed Crate (with Adaptive Storage Framework)](https://steamcommunity.com/sharedfiles/filedetails/?id=3223189125)
 - [Women only](https://steamcommunity.com/sharedfiles/filedetails/?id=3227360721)
-- [Animal Gear Third-Party Patches](https://steamcommunity.com/sharedfiles/filedetails/?id=2956961272)
 - [Wall Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1423699208)
 - [Growable Neutroamine](https://steamcommunity.com/sharedfiles/filedetails/?id=1956517495)
 - [AnimalFoodRestrictionInTab](https://steamcommunity.com/sharedfiles/filedetails/?id=2369311144)

@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.6.115 - [b]Changes[/b]
+Removed 1 mods:
+Animal Gear Third-Party Patches
+
+
 1.6.114 - [b]Changes[/b]
 Removed 34 mods:
 [KYD] More Pawns Get Prosthetics! for version 1.4
