@@ -1,5 +1,12 @@
 # Changelog for NoVersionWarning
 
+1.6.116 - [b]Changes[/b]
+Removed 3 mods:
+Bury On The Spot for version 1.6
+Sleep in My Crib for version 1.6
+Animal Variety Coats Fox Patch [AB] for version 1.6
+
+
 1.6.115 - [b]Changes[/b]
 Removed 1 mods:
 Animal Gear Third-Party Patches
