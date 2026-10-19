@@ -66,9 +66,6 @@ public static class ModLister_RebuildModList
 
             supportedVersions.Add(Main.CurrentVersion);
             supportedVersionsPropertyInfo.SetValue(metaObject, supportedVersions);
-            //modInfo.meta.SupportedVersions.Add(Main.CurrentVersion);
-            //modInfo.meta.description =
-            //    $"<color=yellow>{"NVW.TagAdded".Translate($"{Main.CurrentVersion.Major}.{Main.CurrentVersion.Minor}")}</color>\n\n{modInfo.meta.description}";
 
             Main.UpdatedMods.Add(modInfo.Name);
         }

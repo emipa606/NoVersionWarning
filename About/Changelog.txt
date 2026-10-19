@@ -1,5 +1,8 @@
 # Changelog for NoVersionWarning
 
+1.7.0 - Mod updated for 1.7 and passed autotests
+
+
 1.6.116 - [b]Changes[/b]
 Removed 3 mods:
 Bury On The Spot for version 1.6

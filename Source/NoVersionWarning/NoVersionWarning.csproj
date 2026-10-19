@@ -1,24 +1,21 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <OutputPath>..\..\1.6\Assemblies</OutputPath>
-    <TargetFramework>net481</TargetFramework>
+    <OutputPath>..\..\1.7\Assemblies</OutputPath>
+    <TargetFramework>net10.0</TargetFramework>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
     <DebugType>None</DebugType>
     <LangVersion>latest</LangVersion>
-    <FileVersion>1.6.0</FileVersion>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-  </PropertyGroup>
+  <FileVersion>1.7.0</FileVersion><GenerateDependencyFile>false</GenerateDependencyFile><AssemblyVersion>1.7</AssemblyVersion><Product>No Version Warning</Product><Copyright>© Mlie 2026 - MIT License</Copyright><Nullable>warnings</Nullable></PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Krafs.Rimworld.Ref">
-      <Version>1.6.*-*</Version>
+      <Version>1.7.4982-unstable</Version>
       <ExcludeAssets>runtime</ExcludeAssets>
       <IncludeAssets>compile; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Lib.Harmony">
-      <Version>*</Version>
+      <Version>3.0.0-rc.3</Version>
       <ExcludeAssets>runtime</ExcludeAssets>
     </PackageReference>
-    <Publicize Include="Assembly-CSharp" />
   </ItemGroup>
-</Project>
+<Target Name="KillRimWorld" BeforeTargets="Clean;Build"><Exec Command="taskkill.exe /F /IM RimWorld.exe /T &gt;nul 2&gt;&amp;1" IgnoreExitCode="true" /></Target></Project>
