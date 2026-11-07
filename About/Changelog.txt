@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.7.1 - [b]Changes[/b]
+Added 1 mods:
+Always Show XP Gained for 1.6
+
+
 1.7.0 - Mod updated for 1.7 and passed autotests
 
 

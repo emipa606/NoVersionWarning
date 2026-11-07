@@ -631,4 +631,6 @@
   <li>Simmin.PsychicGauranlenConnection</li>
   <!-- Midworld Expanded: Flak Armor -->
   <li>miathea.flakarmorexpansion</li>
+  <!-- Always Show XP Gained -->
+  <li>scott2521.AlwaysShowXPGained</li>
 </ModIdsToFix>

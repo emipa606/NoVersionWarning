@@ -1,5 +1,7 @@
 # Currently covered mods
+
 ## 1.6
+
 - [Baby muffalo is Muffalump](https://steamcommunity.com/sharedfiles/filedetails/?id=1499253609)
 - [[GMT] Trading Spot](https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333)
 - [Sash is Neolithic](https://steamcommunity.com/sharedfiles/filedetails/?id=2962534895)
@@ -314,7 +316,10 @@
 - [Universe Music](https://steamcommunity.com/sharedfiles/filedetails/?id=3090539687)
 - [Psychic Gauranlen Connection](https://steamcommunity.com/sharedfiles/filedetails/?id=2562637418)
 - [Midworld Expanded: Flak Armor](https://steamcommunity.com/sharedfiles/filedetails/?id=2464804318)
+- [Always Show XP Gained](https://steamcommunity.com/sharedfiles/filedetails/?id=3174386864)
+
 ## 1.5
+
 - [Audrey's Styles: Industrial](https://steamcommunity.com/sharedfiles/filedetails/?id=2692539442)
 - [Give Me Meat](https://steamcommunity.com/sharedfiles/filedetails/?id=2020705229)
 - [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
