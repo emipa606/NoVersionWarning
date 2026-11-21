@@ -812,3 +812,4 @@
 - [Better Mood Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=2063386985)
 - [unofficial patch - Elite Bionic Framework + Archotech Expanded Prosthetics](https://steamcommunity.com/sharedfiles/filedetails/?id=1746071278)
 - [Gold Coins](https://steamcommunity.com/sharedfiles/filedetails/?id=2487794426)
+- [Marios Pizza](https://steamcommunity.com/sharedfiles/filedetails/?id=3226188356)

@@ -1,5 +1,10 @@
 # Changelog for NoVersionWarning
 
+1.7.3 - [b]Changes[/b]
+Added 1 mods:
+Marios Pizza
+
+
 1.7.2 - [b]Changes[/b]
 Removed 4 mods:
 Uninstall Designator for version 1.6
